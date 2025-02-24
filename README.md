@@ -1,16 +1,18 @@
 # Miloš Macek (Miccy)
 
-## 🚀 About Me
+## 🚀 O mně
 
-Independent full-stack developer with over 10 years of experience, specializing in mobile app development. Currently expanding into web3 applications while exploring AI integration. My focus is on creating robust, user-friendly solutions that bridge traditional and emerging technologies.
+Nezávislý full-stack vývojář s více než 10letou zkušeností, specializující se na vývoj mobilních aplikací. V současné době se zaměřuji na web3 aplikace a zkoumám možnosti integrace AI. Mým cílem je vytvářet robustní, uživatelsky přívětivá řešení, která propojují tradiční a nově vznikající technologie.
 
-## 🔗 My actual study and research
+[🇬🇧 English version](docs/en/README.md)
 
-- [Solana Mobile Stack](https://github.com/solana-mobile/mobile-wallet-adapter) - Mobile wallet integration
-- [thirdweb](https://github.com/thirdweb-dev/js) - Web3 development framework
-- [Expo Crypto](https://github.com/expo/expo/tree/main/packages/expo-crypto) - Cryptography in Expo apps
+## 🔗 Mé aktuální studium a výzkum
 
-### 💻 Programming Languages
+- [Solana Mobile Stack](https://github.com/solana-mobile/mobile-wallet-adapter) - Integrace mobilních peněženek
+- [thirdweb](https://github.com/thirdweb-dev/js) - Framework pro Web3 vývoj
+- [Expo Crypto](https://github.com/expo/expo/tree/main/packages/expo-crypto) - Kryptografie v Expo aplikacích
+
+### 💻 Programovací jazyky
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,7 +20,7 @@ Independent full-stack developer with over 10 years of experience, specializing 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 📱 Mobile Development
+### 📱 Mobilní vývoj
 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,7 +35,7 @@ Independent full-stack developer with over 10 years of experience, specializing 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🗄️ Backend & Database
+### 🗄️ Backend & Databáze
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -41,7 +43,7 @@ Independent full-stack developer with over 10 years of experience, specializing 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🛠️ Development Tools
+### 🛠️ Vývojářské nástroje
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -50,28 +52,28 @@ Independent full-stack developer with over 10 years of experience, specializing 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🔭 Current Projects
+## 🔭 Aktuální projekty
 
 ### AS4U Mobile Solutions
 
-Mobile applications for Czech municipalities
+Mobilní aplikace pro české obce
 
-- 📱 MMVM - New version in development
-- 🏛️ Multiple city variants
+- 📱 MMVM - Nová verze ve vývoji
+- 🏛️ Více městských variant
 
 ### Zvono Pawnshop
 
-Complete business solution
+Kompletní business řešení
 
-- 💼 Internal customer management system
-- 🌐 Company presentation website
-- 🚧 In active development
+- 💼 Interní systém pro správu zákazníků
+- 🌐 Firemní prezentační web
+- 🚧 V aktivním vývoji
 
-## 📫 Contact
+## 📫 Kontakt
 
 - 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
-- My GitHub Organization: [@miccy-dev](https://github.com/miccy-dev)
+- Moje GitHub organizace: [@miccy-dev](https://github.com/miccy-dev)
 - Email: [info@miccy.dev](mailto:info@miccy.dev)
-- Email for job offers: [jobs@miccy.dev](mailto:jobs@miccy.dev)
+- Email pro pracovní nabídky: [jobs@miccy.dev](mailto:jobs@miccy.dev)
 
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>

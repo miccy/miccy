@@ -3,13 +3,13 @@ name: "Docs Auto Update"
 on:
   push:
     paths:
-      - "docs/en/**"
+      - "docs/cs/**"
       - "scripts/auto-translate-docs.js"
+      - ".github/workflows/docs-auto-update.yml"
       - "package.json"
 
 jobs:
   update-docs:
-    if: false
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,13 +21,20 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "16"
+          node-version: "18"
       - name: Install dependencies
         run: npm ci
-      - name: Update TOC and translate docs
-        run: npm run docs:update
+      - name: Setup Google Cloud Auth
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: ${{ secrets.GOOGLE_CREDENTIALS }}
+      - name: Update translations
+        run: node scripts/auto-translate-docs.js
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+          GOOGLE_CLOUD_PROJECT_ID: ${{ secrets.GOOGLE_CLOUD_PROJECT_ID }}
       - name: Commit changes if any
         uses: EndBug/add-and-commit@v9
         with:
           add: "docs/"
-          message: "docs: auto update TOC and translations"
+          message: "docs: auto update translations"

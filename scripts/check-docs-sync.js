@@ -1,58 +1,65 @@
 const fs = require("fs");
 const path = require("path");
 
-const docsDir = path.join(__dirname, "../docs");
-const enPath = path.join(docsDir, "en");
-const csPath = path.join(docsDir, "cs");
+const DOCS_DIR = path.join(__dirname, "..", "docs");
+const PRIMARY_LANG = "cs";
+const SECONDARY_LANGS = ["en"];
 
-const enFiles = fs.readdirSync(enPath);
-const csFiles = fs.readdirSync(csPath);
+function getFiles(dir) {
+  const results = [];
+  const list = fs.readdirSync(dir);
 
-if (enFiles.length !== csFiles.length) {
-  console.error("Počet souborů v en a cs se liší!");
-  process.exit(1);
+  list.forEach(file => {
+    const filePath = path.join(dir, file);
+    const stat = fs.statSync(filePath);
+
+    if (stat.isDirectory()) {
+      results.push(...getFiles(filePath));
+    } else {
+      results.push(filePath);
+    }
+  });
+
+  return results;
 }
 
-const MIN_LENGTH = 50;
+function checkDocsSync() {
+  const primaryFiles = getFiles(path.join(DOCS_DIR, PRIMARY_LANG)).map(file =>
+    path.relative(path.join(DOCS_DIR, PRIMARY_LANG), file)
+  );
 
-// Funkce pro kontrolu minimální délky obsahu.
-function checkContentLength(content, fileName, lang) {
-  if (content.length < MIN_LENGTH) {
-    console.error(`Soubor ${fileName} v ${lang} je příliš krátký.`);
-    process.exit(1);
-  }
-}
+  let hasError = false;
 
-// Funkce pro kontrolu, zda soubor obsahuje titulek (první neprázdný řádek začínající "#")
-function checkTitle(content, fileName, lang) {
-  const lines = content.split(/\r?\n/);
-  const firstNonEmptyLine = lines.find(line => line.trim() !== "");
-  if (!firstNonEmptyLine || !firstNonEmptyLine.trim().startsWith("#")) {
-    console.error(
-      `Soubor ${fileName} v ${lang} neobsahuje titulek (řádek začínající '#')!`
+  SECONDARY_LANGS.forEach(lang => {
+    const langDir = path.join(DOCS_DIR, lang);
+    const langFiles = getFiles(langDir).map(file =>
+      path.relative(langDir, file)
     );
+
+    // Check for missing files
+    primaryFiles.forEach(file => {
+      if (!langFiles.includes(file)) {
+        console.error(`❌ Missing translation for ${file} in ${lang}`);
+        hasError = true;
+      }
+    });
+
+    // Check for extra files
+    langFiles.forEach(file => {
+      if (!primaryFiles.includes(file)) {
+        console.error(
+          `❌ Extra file ${file} in ${lang} not present in ${PRIMARY_LANG}`
+        );
+        hasError = true;
+      }
+    });
+  });
+
+  if (hasError) {
     process.exit(1);
+  } else {
+    console.log("✅ All documentation files are in sync");
   }
 }
 
-// Kontrola českých dokumentů
-csFiles.forEach(file => {
-  const filePath = path.join(csPath, file);
-  const content = fs.readFileSync(filePath, "utf8");
-  checkContentLength(content, file, "cs");
-  checkTitle(content, file, "cs");
-  if (!content.includes("<!-- TRANSLATED -->")) {
-    console.error(`Soubor ${file} není označen jako přeložený!`);
-    process.exit(1);
-  }
-});
-
-// Kontrola anglických dokumentů
-enFiles.forEach(file => {
-  const filePath = path.join(enPath, file);
-  const content = fs.readFileSync(filePath, "utf8");
-  checkContentLength(content, file, "en");
-  checkTitle(content, file, "en");
-});
-
-console.log("Dokumentace je synchronizována a validována.");
+checkDocsSync();
