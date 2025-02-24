@@ -128,8 +128,6 @@ Field of Information Technology
 
 ### 💼 As4u.cz (2004 - 2018)
 
-#### Mobile Apps for Cities and Municipalities
-
 #### Turnov v mobilu (2024 | last updated 2025)
 
 - Official app for the city of Turnov
@@ -192,8 +190,6 @@ Field of Information Technology
 - Created for the 150th anniversary of the Battle of Hradec Králové
 - Android/iOS
 
-#### Tourism and Educational Apps
-
 #### Dny Evropského Dědictví (2022)
 
 - European Heritage Days mobile app
@@ -204,8 +200,6 @@ Field of Information Technology
 - Educational children's game for the Textile Museum Dvůr Králové
 - Implementation for tablets and information kiosks
 - Native Android (Java)
-
-#### Guides and Information Systems
 
 #### Kojetín v mobilu (2020)
 
