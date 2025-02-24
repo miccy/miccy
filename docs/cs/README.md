@@ -7,154 +7,25 @@ Toto README.md bude dočasně sloužit i jako moje CV, než dokončím nové web
 ## 📋 Obsah
 
 - [🚀 O mně](#-o-mně)
+- [🛠 Tech Stack](#-tech-stack)
+  - [💻 Programovací jazyky](#-programovací-jazyky)
+  - [📱 Mobilní vývoj](#-mobilní-vývoj)
+  - [🌐 Frontend](#-frontend)
+  - [🗄️ Backend & Databáze](#️-backend--databáze)
+  - [🛠️ Vývojářské nástroje](#️-vývojářské-nástroje)
 - [👨‍🎓 Vzdělání](#-vzdělání)
 - [📚 Pracovní zkušenosti a projekty](#-pracovní-zkušenosti-a-projekty)
+  - [💼 Freelancer (2019 - současnost)](#-leden-2019---současnost-freelancer-remote-full-stack-vývojář)
+  - [💼 As4u.cz (2004 - 2018)](#-květen-2004---prosinec-2018-as4ucz-sro-liberec-vývojář-mobilních-aplikací)
 - [🔭 Aktuální projekty](#-aktuální-projekty)
 - [🔗 Aktuálně se zabývám](#-aktuálně-se-zabývám)
-- [💻 Tech Stack](#-tech-stack)
-  - [Programovací jazyky](#-programovací-jazyky)
-  - [Mobilní vývoj](#-mobilní-vývoj)
-  - [Frontend](#-frontend)
-  - [Backend & Databáze](#️-backend--databáze)
-  - [Vývojářské nástroje](#️-vývojářské-nástroje)
-- [📫 Kontakt](#-kontakt)
+- [📫 Kontakty](#-kontakty)
 
 ## 🚀 O mně
 
 Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností, specializující se na vývoj mobilních aplikací. V současné době se zaměřuji na web3 aplikace a zkoumám možnosti integrace AI. Mým cílem je vytvářet robustní, uživatelsky přívětivá řešení, která propojují tradiční a nově vznikající technologie.
 
-## 👨‍🎓 Vzdělání
-
-### 🎓 2004 - 2008
-
-**VOŠ a SPŠ Masarykova, Kutná Hora**  
-Obor Elektrotechnika - Sdělovací technika
-
-### 🎓 2008 - 2010
-
-**ČVUT, Fakulta elektrotechnická, Praha**  
-Obor Elektrotechnika
-
-### 🎓 2010 - 2013
-
-**Technická univerzita v Liberci**  
-Fakulta elektrotechniky a informatiky  
-Obor Informační technologie
-
-## 📚 Pracovní zkušenosti a projekty
-
-### 💼 květen 2004 - prosinec 2018
-
-**Vývojář mobilních aplikací**  
-As4u.cz, s.r.o., Liberec
-
-#### Mobilní aplikace pro města a regiony
-
-- **Vrbno v mobilu** (2023)
-
-  - Oficiální aplikace města Vrbno pod Pradědem
-  - React Native (Android / iOS)
-
-- **Šumperk v mobilu** (2023)
-
-  - Oficiální aplikace města Šumperk
-  - React Native a Expo (Android a iOS)
-
-- **Jindřichův Hradec v mobilu** (2015 - 2023)
-
-  - Oficiální aplikace města
-  - Migrace z Cordova na React Native a Expo
-
-- **Kuřim v mobilu** (2014 - 2023)
-
-  - Oficiální aplikace města Kuřim
-  - React Native a Expo (Android / iOS)
-
-- **Jablonec v mobilu** (2014 - 2022)
-  - Oficiální aplikace města Jablonec nad Nisou
-  - Migrace z Ionic/Cordova na React Native a Expo
-
-#### Turistické a vzdělávací aplikace
-
-- **Cestovatelský fotodeník** (2023)
-
-  - Cestovatelská soutěžní hra
-  - React Native a Expo (Android / iOS)
-
-- **Poznej Hradec** (2014 - 2022)
-
-  - Poznávací a soutěžní hra města Jindřichův Hradec
-  - Každoroční aktualizace pro turistickou sezónu
-  - React Native (Android / iOS)
-
-- **BITVA 1866** (2016)
-
-  - Mobilní aplikace pro muzeum východních Čech v Hradci Králové
-  - Vytvořeno k 150. výročí bitvy u Hradce Králové
-  - Android/iOS
-
-- **Textilní a oděvní dílna** (2016)
-  - Vzdělávací dětská hra pro Textilní muzeum Dvůr Králové
-  - Implementace pro tablety a informační kiosky
-  - Cordova (Android/iOS)
-
-#### Průvodci a informační systémy
-
-- **Mladoboleslavsko** (2015)
-
-  - Oficiální turistický průvodce regionem
-  - Cordova (Android/iOS)
-
-- **Český ráj** (2015)
-
-  - Oficiální turistický průvodce regionem
-  - Cordova (Android/iOS)
-
-- **Český systém kvality služeb** (2015)
-
-  - Oficiální aplikace ČSKS
-  - Vyhledávání a hodnocení certifikovaných subjektů
-  - Cordova (Android/iOS)
-
-- **Průvodce Libereckým krajem** (2015)
-  - Oficiální turistický průvodce
-  - Cordova (Android/iOS)
-
-### 💼 leden 2019 - současnost
-
-**Full-stack vývojář**  
-Freelancer, remote
-
-#### Zdraví a životní styl
-
-- **Mamee** (2021)
-  - Těhotenská aplikace pro slovenský trh
-  - React Native a Expo (Android / iOS)
-
-## 🔭 Aktuální projekty
-
-### AS4U Mobile Solutions
-
-Mobilní aplikace pro české obce
-
-- 📱 MMVM - Nová verze ve vývoji
-- 🏛️ Více městských variant
-
-### Zvono Pawnshop
-
-Kompletní business řešení
-
-- 💼 Interní systém pro správu zákazníků
-- 🌐 Firemní prezentační web
-- 🚧 V aktivním vývoji
-
-## 🔗 Aktuálně se zabývám
-
-- [Solana Mobile Stack](https://github.com/solana-mobile/mobile-wallet-adapter) - Integrace mobilních peněženek
-- [thirdweb](https://github.com/thirdweb-dev/js) - Framework pro Web3 vývoj
-- [Expo Crypto](https://github.com/expo/expo/tree/main/packages/expo-crypto) - Kryptografie v Expo aplikacích
-
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Programovací jazyky
 
@@ -196,7 +67,162 @@ Kompletní business řešení
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📫 Kontakt
+## 👨‍🎓 Vzdělání
+
+### 🎓 2004 - 2008
+
+**VOŠ a SPŠ Masarykova, Kutná Hora**  
+Obor Elektrotechnika - Sdělovací technika
+
+### 🎓 2008 - 2010
+
+**ČVUT, Fakulta elektrotechnická, Praha**  
+Obor Elektrotechnika
+
+### 🎓 2010 - 2013
+
+**Technická univerzita v Liberci**  
+Fakulta elektrotechniky a informatiky  
+Obor Informační technologie
+
+## 📚 Pracovní zkušenosti a projekty
+
+### 💼 leden 2019 - současnost: Freelancer, remote (Full-stack vývojář)
+
+**[SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software**
+
+- DownloDev
+- březen 2023 - srpen 2024
+- Stack: Expo, TypeScript, React Native
+
+**Union - zdravotní pojišťovna**
+
+- BOOTIQ, part of BiQ Group
+- březen 2022 - říjen 2022
+- Stack: TypeScript, GraphQL, React Native
+
+**[Mamee](https://mamee.sk/) - Těhotenská aplikace pro slovenský trh**
+
+- Eliaš IT Solutions
+- květen 2021 - prosinec 2021
+- Stack: React Native, Expo
+
+**Tlappka - Veterinář v kapse**
+
+- Veevoy
+- 2023
+- Stack: React Native, Expo
+
+**My Plan**
+
+- SABService
+- 2022
+- Stack: React Native, Expo
+
+**Keys of the Treasure**
+
+- Sundisk
+- 2020
+- Stack: React Native, Expo
+
+### 💼 květen 2004 - prosinec 2018: As4u.cz, s.r.o., Liberec (Vývojář mobilních aplikací)
+
+- **Vrbno v mobilu** (2023)
+
+  - Oficiální aplikace města Vrbno pod Pradědem
+  - React Native (Android / iOS)
+
+- **Šumperk v mobilu** (2023)
+
+  - Oficiální aplikace města Šumperk
+  - React Native a Expo (Android a iOS)
+
+- **Jindřichův Hradec v mobilu** (2015)
+
+  - Oficiální aplikace města
+  - Migrace z Cordova na React Native a Expo
+
+- **Kuřim v mobilu** (2014)
+
+  - Oficiální aplikace města Kuřim
+  - React Native a Expo (Android / iOS)
+
+- **Jablonec v mobilu** (2014)
+
+  - Oficiální aplikace města Jablonec nad Nisou
+  - Migrace z Ionic/Cordova na React Native a Expo
+
+- **Cestovatelský fotodeník** (2023)
+
+  - Cestovatelská soutěžní hra
+  - React Native a Expo (Android / iOS)
+
+- **Poznej Hradec** (2014)
+
+  - Poznávací a soutěžní hra města Jindřichův Hradec
+  - Každoroční aktualizace pro turistickou sezónu
+  - React Native (Android / iOS)
+
+- **BITVA 1866** (2016)
+
+  - Mobilní aplikace pro muzeum východních Čech v Hradci Králové
+  - Vytvořeno k 150. výročí bitvy u Hradce Králové
+  - Android/iOS
+
+- **Textilní a oděvní dílna** (2016)
+
+  - Vzdělávací dětská hra pro Textilní muzeum Dvůr Králové
+  - Implementace pro tablety a informační kiosky
+  - Cordova (Android/iOS)
+
+- **Mladoboleslavsko** (2015)
+
+  - Oficiální turistický průvodce regionem
+  - Cordova (Android/iOS)
+
+- **Český ráj** (2015)
+
+  - Oficiální turistický průvodce regionem
+  - Cordova (Android/iOS)
+
+- **Český systém kvality služeb** (2015)
+
+  - Oficiální aplikace ČSKS
+  - Vyhledávání a hodnocení certifikovaných subjektů
+  - Cordova (Android/iOS)
+
+- **Průvodce Libereckým krajem** (2015)
+  - Oficiální turistický průvodce
+  - Cordova (Android/iOS)
+
+## 🔭 Aktuální projekty
+
+### AS4U Mobile Solutions
+
+Mobilní aplikace pro české obce
+
+- 📱 MMVM - Nová verze ve vývoji
+- 🏛️ Více městských variant
+- Stack: Expo, React Native, TailwindCSS, Appwrite, MongoDB, TypeScript, React, Node.js
+
+### Zvono Pawnshop
+
+Kompletní business řešení
+
+- 💼 Interní systém pro správu zákazníků
+- 🌐 Firemní prezentační web
+- 🚧 V aktivním vývoji
+- Stack: Expo, Next.js, TailwindCSS, Supabase, PostgreSQL, TypeScript, React, Node.js
+
+## 🔗 Aktuálně se zabývám
+
+- Prisma - ORM pro Next.js
+- [thirdweb](https://github.com/thirdweb-dev/js) - Framework pro Web3 vývoj
+- DeepSeek - Vlastní AI SaaS
+- Gaia Network
+- zk Rollups
+
+## 📫 Kontakty
 
 - 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
 - Moje GitHub organizace: [@miccy-dev](https://github.com/miccy-dev)
