@@ -15,8 +15,8 @@ This README.md will temporarily serve as my CV until I complete my new website.
   - [🛠️ Development Tools](#️-development-tools)
 - [👨‍🎓 Education](#-education)
 - [📚 Work Experience & Projects](#-work-experience--projects)
-  - [💼 Freelancer (2019 - Present)](#-january-2019---present)
-  - [💼 As4u.cz (2004 - 2018)](#-may-2004---december-2018)
+  - [💼 Freelancer (2019 - Present)](#-freelancer-2019---present)
+  - [💼 As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
 - [🔭 Current Projects](#-current-projects)
 - [🔗 Current Focus](#-current-focus)
 - [📫 Contact](#-contact)
@@ -88,110 +88,155 @@ Field of Information Technology
 
 ## 📚 Work Experience & Projects
 
-### 💼 May 2004 - December 2018
+### 💼 Freelancer (2019 - Present)
 
-**Mobile Application Developer**  
-As4u.cz, s.r.o., Liberec
+#### [SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software | UK
+
+- DownloDev
+- March 2023 - August 2024
+- Stack: Expo, TypeScript, React Native
+
+#### [Union](https://www.union.sk/union-zp-aplikacia-na-mobile) - Health Insurance | SK
+
+- [BOOTIQ, part of BiQ Group](https://www.bootiq.io)
+- March 2022 - October 2022
+- Stack: TypeScript, GraphQL, React Native
+
+#### [Mamio](https://www.mamio-app.com) - Pregnancy App for Slovak Market | SK
+
+- [Eliaš IT Solutions](https://elias-itsolutions.sk)
+- May 2021 - December 2022
+- Stack: React Native, Expo
+
+#### [Tlappka](https://www.tlappka.cz/) - Pet Health in Your Pocket | CZ
+
+- [Veevoy](https://veevoy.com)
+- 2023
+- Stack: React Native, Expo
+
+#### [myPlann](https://www.sabservis.cz/myplann) - Stay with Your Client Forever | CZ
+
+- [SABService](https://www.sabservis.cz)
+- 2022
+- Stack: React Native, Expo
+
+#### Keys of the Treasure - Geolocation Game | CZ
+
+- [Sundisk](https://www.sundisk.cz/cs/)
+- 2020
+- Stack: React Native, Expo, Firebase
+
+### 💼 As4u.cz (2004 - 2018)
 
 #### Mobile Apps for Cities and Municipalities
 
-- **Vrbno in Mobile** (2023)
+#### Turnov v mobilu (2024 | last updated 2025)
 
-  - Official app for the city of Vrbno pod Pradědem
-  - React Native (Android / iOS)
+- Official app for the city of Turnov
+- Expo, React Native, Supabase, Drizzle ORM
 
-- **Šumperk in Mobile** (2023)
+#### Praha 11 (2024 | last updated 2025)
 
-  - Official app for the city of Šumperk
-  - React Native and Expo (Android and iOS)
+- Official app for Prague 11 district
+- Expo, React Native, Supabase, Drizzle ORM
 
-- **Jindřichův Hradec in Mobile** (2015 - 2023)
+#### Cestovatelský fotodeník (2023 | last updated 2024)
 
-  - Official city application
-  - Migration from Cordova to React Native and Expo
+- Travel photo diary competition game
+- Expo, React Native
 
-- **Kuřim in Mobile** (2014 - 2023)
+#### Vrbno v mobilu (2023 | last updated 2024)
 
-  - Official app for the city of Kuřim
-  - React Native and Expo (Android / iOS)
+- Official app for the city of Vrbno pod Pradědem
+- React Native (Android / iOS)
 
-- **Jablonec in Mobile** (2014 - 2022)
-  - Official app for the city of Jablonec nad Nisou
-  - Migration from Ionic/Cordova to React Native and Expo
+#### Prostějov v mobilu (2023 | last updated 2024)
+
+- Official app for the city of Prostějov
+- Expo, React Native
+
+#### Jablonec v mobilu (2014 | last updated 2024)
+
+- Official app for the city of Jablonec nad Nisou
+- Migration from Ionic/Cordova to React Native and Expo
+
+#### Litovel v mobilu (2016 | last updated 2024)
+
+- Official app for the city of Litovel
+- React Native (Android / iOS)
+
+#### Šumperk v mobilu (2023)
+
+- Official app for the city of Šumperk
+- React Native and Expo (Android and iOS)
+
+#### Jindřichův Hradec v mobilu (2015 | last updated 2023)
+
+- Official city application
+- Migration from Cordova to React Native and Expo
+
+#### Kuřim v mobilu (2014 | last updated 2023)
+
+- Official app for the city of Kuřim
+- React Native and Expo (Android / iOS)
+
+#### Poznej Hradec (2014 | last updated 2023)
+
+- City discovery and competition game for Jindřichův Hradec
+- Annual updates for tourist season
+- React Native (Android / iOS)
+
+#### BITVA 1866 (2016 | last updated 2023)
+
+- Mobile app for the Museum of Eastern Bohemia in Hradec Králové
+- Created for the 150th anniversary of the Battle of Hradec Králové
+- Android/iOS
 
 #### Tourism and Educational Apps
 
-- **Travel Photo Diary** (2023)
+#### Dny Evropského Dědictví (2022)
 
-  - Travel competition game
-  - React Native and Expo (Android / iOS)
+- European Heritage Days mobile app
+- Expo, React Native
 
-- **Discover Hradec** (2014 - 2022)
+#### Textilní a oděvní dílna (2016)
 
-  - Educational and competition game for Jindřichův Hradec
-  - Annual updates for tourist season
-  - React Native (Android / iOS)
-
-- **BATTLE 1866** (2016)
-
-  - Mobile app for the Museum of Eastern Bohemia in Hradec Králové
-  - Created for the 150th anniversary of the Battle of Hradec Králové
-  - Android/iOS
-
-- **Textile and Clothing Workshop** (2016)
-  - Educational children's game for the Textile Museum Dvůr Králové
-  - Implementation for tablets and information kiosks
-  - Cordova (Android/iOS)
+- Educational children's game for the Textile Museum Dvůr Králové
+- Implementation for tablets and information kiosks
+- Native Android (Java)
 
 #### Guides and Information Systems
 
-- **Mladá Boleslav Region** (2015)
+#### Kojetín v mobilu (2020)
 
-  - Official tourist guide for the region
-  - Cordova (Android/iOS)
+- Official app for the city of Kojetín
+- Expo, React Native
 
-- **Bohemian Paradise** (2015)
+#### Týniště nad Orlicí (2020)
 
-  - Official tourist guide for the region
-  - Cordova (Android/iOS)
+- Official app for the city of Týniště nad Orlicí
+- Expo, React Native
 
-- **Czech Service Quality System** (2015)
+#### Český ráj (2020)
 
-  - Official CSQS application
-  - Search and rating of certified subjects
-  - Cordova (Android/iOS)
+- Official tourist guide for Bohemian Paradise region
+- Expo, React Native
 
-- **Liberec Region Guide** (2015)
-  - Official tourist guide
-  - Cordova (Android/iOS)
+#### Český systém kvality služeb (2015)
 
-### 💼 January 2019 - Present
+- Official CSQS application
+- Search and rating of certified subjects
+- Cordova (Android/iOS)
 
-**Full-stack Developer**  
-Freelancer, remote
+#### Mladoboleslavsko (2015)
 
-#### SPUD Now (March 2023 - August 2024)
+- Official tourist guide for Mladá Boleslav region
+- Ionic/Cordova (Android/iOS)
 
-**React Native Developer**  
-Construction Project Management Software - [spudnow.co.uk](https://spudnow.co.uk/)
+#### Průvodce Libereckým krajem (2015)
 
-- Development of mobile application for construction project management
-- Stack: Expo, TypeScript, React Native
-
-#### BOOTIQ, part of BiQ Group (March 2022 - October 2022)
-
-**React Native Developer**
-
-- Development of mobile application for Union Health Insurance
-- Stack: TypeScript, GraphQL, React Native
-
-#### Eliaš IT Solutions (May 2021 - December 2021)
-
-**React Native Developer**
-
-- Development of [Mamee](https://mamee.sk/) mobile application
-- Pregnancy app for the Slovak market
-- Stack: React Native, Expo
+- Official tourist guide for Liberec region
+- Ionic/Cordova (Android/iOS)
 
 ## 🔭 Current Projects
 
@@ -212,15 +257,18 @@ Complete business solution
 
 ## 🔗 Current Focus
 
-- [Solana Mobile Stack](https://github.com/solana-mobile/mobile-wallet-adapter) - Mobile wallet integration
-- [thirdweb](https://github.com/thirdweb-dev/js) - Web3 development framework
-- [Expo Crypto](https://github.com/expo/expo/tree/main/packages/expo-crypto) - Cryptography in Expo apps
+- [Prisma](https://www.prisma.io/) - ORM for Next.js
+- [thirdweb](https://github.com/thirdweb-dev/js) - Framework for Web3 development
+- [DeepSeek](https://www.deepseek.com/) - Building own LLM AI SaaS
+- [Gaia Network](https://www.gaianetwork.io/)
+- [zkSync](https://zksync.io/)
 
-## 📫 Contact
+## 📫 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miccy)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miccy-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@miccy.dev)
-[![Jobs](https://img.shields.io/badge/Jobs-EA4335?style=for-the-badge&logo=google-chat&logoColor=white)](mailto:jobs@miccy.dev)
+- 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
+- 🔗 GitHub - Personal: [@miccy](https://github.com/miccy)
+- 🔗 GitHub - Organization: [@miccy-dev](https://github.com/miccy-dev)
+- 📧 Email - Info: [info@miccy.dev](mailto:info@miccy.dev)
+- 📧 Email - Collaboration: [jobs@miccy.dev](mailto:jobs@miccy.dev)
 
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
