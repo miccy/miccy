@@ -89,41 +89,41 @@ Obor Informační technologie
 
 ### 💼 leden 2019 - současnost: Freelancer, remote (Full-stack vývojář)
 
-**[SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software**
+#### [SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software | UK
 
 - DownloDev
 - březen 2023 - srpen 2024
 - Stack: Expo, TypeScript, React Native
 
-**Union - zdravotní pojišťovna**
+#### [Union](https://www.union.sk/union-zp-aplikacia-na-mobile) - zdravotní pojišťovna | SK
 
-- BOOTIQ, part of BiQ Group
+- [BOOTIQ, part of BiQ Group](https://www.bootiq.io)
 - březen 2022 - říjen 2022
 - Stack: TypeScript, GraphQL, React Native
 
-**[Mamee](https://mamee.sk/) - Těhotenská aplikace pro slovenský trh**
+#### [Mamio](https://www.mamio-app.com) - Těhotenská aplikace pro slovenský trh | SK
 
-- Eliaš IT Solutions
-- květen 2021 - prosinec 2021
+- [Eliaš IT Solutions](https://elias-itsolutions.sk)
+- květen 2021 - prosinec 2022
 - Stack: React Native, Expo
 
-**Tlappka - Veterinář v kapse**
+#### [Tlappka](https://www.tlappka.cz/) - Zdraví mazlíčků v kapse | CZ
 
-- Veevoy
+- [Veevoy](https://veevoy.com)
 - 2023
 - Stack: React Native, Expo
 
-**My Plan**
+#### [myPlann](https://www.sabservis.cz/myplann) - Zůstaňte navždy u klienta | CZ
 
-- SABService
+- [SABService](https://www.sabservis.cz)
 - 2022
 - Stack: React Native, Expo
 
-**Keys of the Treasure**
+#### Keys of the Treasure - Geolokační hra | CZ
 
-- Sundisk
+- [Sundisk](https://www.sundisk.cz/cs/)
 - 2020
-- Stack: React Native, Expo
+- Stack: React Native, Expo, Firebase
 
 ### 💼 květen 2004 - prosinec 2018: As4u.cz, s.r.o., Liberec (Vývojář mobilních aplikací)
 
@@ -224,9 +224,9 @@ Kompletní business řešení
 
 ## 📫 Kontakty
 
-- 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
-- Moje GitHub organizace: [@miccy-dev](https://github.com/miccy-dev)
-- Email: [info@miccy.dev](mailto:info@miccy.dev)
-- Email pro pracovní nabídky: [jobs@miccy.dev](mailto:jobs@miccy.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miccy)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miccy-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@miccy.dev)
+[![Jobs](https://img.shields.io/badge/Jobs-EA4335?style=for-the-badge&logo=google-chat&logoColor=white)](mailto:jobs@miccy.dev)
 
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>

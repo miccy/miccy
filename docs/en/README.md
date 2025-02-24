@@ -218,9 +218,9 @@ Complete business solution
 
 ## 📫 Contact
 
-- 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
-- My GitHub Organization: [@miccy-dev](https://github.com/miccy-dev)
-- Email: [info@miccy.dev](mailto:info@miccy.dev)
-- Email for job offers: [jobs@miccy.dev](mailto:jobs@miccy.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miccy)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miccy-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@miccy.dev)
+[![Jobs](https://img.shields.io/badge/Jobs-EA4335?style=for-the-badge&logo=google-chat&logoColor=white)](mailto:jobs@miccy.dev)
 
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
