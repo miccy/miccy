@@ -10,6 +10,7 @@ on:
 
 jobs:
   update-docs:
+    if: false # Dočasně vypnuto, dokud nebudou nastaveny Google Cloud credentials
     runs-on: ubuntu-latest
     permissions:
       contents: write

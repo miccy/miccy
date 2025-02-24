@@ -1,10 +1,155 @@
 # Miloš Macek (Miccy)
 
+[🇨🇿 Česká verze](../cs/README.md)
+
+This README.md will temporarily serve as my CV until I complete my new website.
+
+## 📋 Table of Contents
+
+- [🚀 About Me](#-about-me)
+- [👨‍🎓 Education](#-education)
+- [📚 Work Experience & Projects](#-work-experience--projects)
+- [🔭 Current Projects](#-current-projects)
+- [🔗 Current Focus](#-current-focus)
+- [💻 Tech Stack](#-tech-stack)
+  - [Programming Languages](#-programming-languages)
+  - [Mobile Development](#-mobile-development)
+  - [Frontend](#-frontend)
+  - [Backend & Database](#️-backend--database)
+  - [Development Tools](#️-development-tools)
+- [📫 Contact](#-contact)
+
 ## 🚀 About Me
 
-Independent full-stack developer with over 10 years of experience, specializing in mobile app development. Currently expanding into web3 applications while exploring AI integration. My focus is on creating robust, user-friendly solutions that bridge traditional and emerging technologies.
+I am an independent full-stack developer with fifteen years of experience, specializing in mobile app development. Currently expanding into web3 applications while exploring AI integration. My focus is on creating robust, user-friendly solutions that bridge traditional and emerging technologies.
 
-## 🔗 My actual study and research
+## 👨‍🎓 Education
+
+### 🎓 2004 - 2008
+
+**VOŠ and SPŠ Masarykova, Kutná Hora**  
+Field of Electrical Engineering - Communication Technology
+
+### 🎓 2008 - 2010
+
+**Czech Technical University in Prague**  
+Faculty of Electrical Engineering  
+Field of Electrical Engineering
+
+### 🎓 2010 - 2013
+
+**Technical University of Liberec**  
+Faculty of Electrical Engineering and Computer Science  
+Field of Information Technology
+
+## 📚 Work Experience & Projects
+
+### 💼 May 2004 - December 2018
+
+**Mobile Application Developer**  
+As4u.cz, s.r.o., Liberec
+
+#### Mobile Apps for Cities and Municipalities
+
+- **Vrbno in Mobile** (2023)
+
+  - Official app for the city of Vrbno pod Pradědem
+  - React Native (Android / iOS)
+
+- **Šumperk in Mobile** (2023)
+
+  - Official app for the city of Šumperk
+  - React Native and Expo (Android and iOS)
+
+- **Jindřichův Hradec in Mobile** (2015 - 2023)
+
+  - Official city application
+  - Migration from Cordova to React Native and Expo
+
+- **Kuřim in Mobile** (2014 - 2023)
+
+  - Official app for the city of Kuřim
+  - React Native and Expo (Android / iOS)
+
+- **Jablonec in Mobile** (2014 - 2022)
+  - Official app for the city of Jablonec nad Nisou
+  - Migration from Ionic/Cordova to React Native and Expo
+
+#### Tourism and Educational Apps
+
+- **Travel Photo Diary** (2023)
+
+  - Travel competition game
+  - React Native and Expo (Android / iOS)
+
+- **Discover Hradec** (2014 - 2022)
+
+  - Educational and competition game for Jindřichův Hradec
+  - Annual updates for tourist season
+  - React Native (Android / iOS)
+
+- **BATTLE 1866** (2016)
+
+  - Mobile app for the Museum of Eastern Bohemia in Hradec Králové
+  - Created for the 150th anniversary of the Battle of Hradec Králové
+  - Android/iOS
+
+- **Textile and Clothing Workshop** (2016)
+  - Educational children's game for the Textile Museum Dvůr Králové
+  - Implementation for tablets and information kiosks
+  - Cordova (Android/iOS)
+
+#### Guides and Information Systems
+
+- **Mladá Boleslav Region** (2015)
+
+  - Official tourist guide for the region
+  - Cordova (Android/iOS)
+
+- **Bohemian Paradise** (2015)
+
+  - Official tourist guide for the region
+  - Cordova (Android/iOS)
+
+- **Czech Service Quality System** (2015)
+
+  - Official CSQS application
+  - Search and rating of certified subjects
+  - Cordova (Android/iOS)
+
+- **Liberec Region Guide** (2015)
+  - Official tourist guide
+  - Cordova (Android/iOS)
+
+### 💼 January 2019 - Present
+
+**Full-stack Developer**  
+Freelancer, remote
+
+#### Health and Lifestyle
+
+- **Mamee** (2021)
+  - Pregnancy app for the Slovak market
+  - React Native and Expo (Android / iOS)
+
+## 🔭 Current Projects
+
+### AS4U Mobile Solutions
+
+Mobile applications for Czech municipalities
+
+- 📱 MMVM - New version in development
+- 🏛️ Multiple city variants
+
+### Zvono Pawnshop
+
+Complete business solution
+
+- 💼 Internal customer management system
+- 🌐 Company presentation website
+- 🚧 In active development
+
+## 🔗 Current Focus
 
 - [Solana Mobile Stack](https://github.com/solana-mobile/mobile-wallet-adapter) - Mobile wallet integration
 - [thirdweb](https://github.com/thirdweb-dev/js) - Web3 development framework
@@ -49,23 +194,6 @@ Independent full-stack developer with over 10 years of experience, specializing 
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-## 🔭 Current Projects
-
-### AS4U Mobile Solutions
-
-Mobile applications for Czech municipalities
-
-- 📱 MMVM - New version in development
-- 🏛️ Multiple city variants
-
-### Zvono Pawnshop
-
-Complete business solution
-
-- 💼 Internal customer management system
-- 🌐 Company presentation website
-- 🚧 In active development
 
 ## 📫 Contact
 
