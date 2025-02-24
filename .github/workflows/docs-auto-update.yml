@@ -1,0 +1,33 @@
+name: "Docs Auto Update"
+
+on:
+  push:
+    paths:
+      - "docs/en/**"
+      - "scripts/auto-translate-docs.js"
+      - "package.json"
+
+jobs:
+  update-docs:
+    if: false
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+      - name: Install dependencies
+        run: npm ci
+      - name: Update TOC and translate docs
+        run: npm run docs:update
+      - name: Commit changes if any
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "docs/"
+          message: "docs: auto update TOC and translations"
