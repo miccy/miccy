@@ -2,6 +2,8 @@
 
 [🇨🇿 Česká verze](../cs/README.md)
 
+This README.md will temporarily serve as my CV until I complete my new website.
+
 ## 📋 Table of Contents
 
 - 🚀 [About Me](#-about-me)
@@ -18,10 +20,13 @@
 - 🔍 [Current Projects](#-current-projects)
 - 🔗 [Current Focus](#-current-focus)
 - 📧 [Contact](#-contact)
+- 🏆 [Achievements](#-achievements)
+- 📝 [Blog](#-blog)
+- 💬 [Testimonials](#-testimonials)
 
 ## 🚀 About Me
 
-I am an independent full-stack developer with fifteen years of experience, specializing in mobile app development. Currently expanding into web3 applications while exploring AI integration. My focus is on creating efficient, scalable applications that deliver an excellent user experience.
+I am an independent full-stack developer with fifteen years of experience, specializing in mobile app development. Currently expanding into web3 applications while exploring AI integration. My focus is on creating efficient, scalable applications that deliver an excellent user experience. In my free time, I enjoy exploring new technologies, contributing to open-source projects<!-- , and sharing my knowledge through blogging -->.
 
 ## 🛠️ Tech Stack
 
@@ -92,14 +97,14 @@ For detailed information about my projects, please refer to the [PROJECTS.md](PR
 
 ### AS4U Mobile Solutions
 
-Mobile applications for Czech municipalities
+Mobile applications for Czech towns. Repo: [as4u/mmvm](https://github.com/miccy-dev/as4u/mmvm)
 
 - 📱 MMVM - New version in development
 - 🏛️ Multiple city variants
 
 ### Zvono Pawnshop
 
-Complete business solution
+Complete business solution. Repo: [zvono](https://github.com/miccy-dev/zvono)
 
 - 👨‍💼 Internal customer management system
 - 🌐 Company presentation website
@@ -112,7 +117,24 @@ Complete business solution
 - [DeepSeek](https://www.deepseek.com/) - Building own LLM AI SaaS
 - [Gaia Network](https://www.gaianetwork.io/)
 - [zkSync](https://zksync.io/)
+<!-- 
+## 🏆 Achievements
 
+- **Award Name** - Description of the achievement and its significance.
+- **Another Award** - Details about the award and why it was received.
+ -->
+<!--  
+## 📝 Blog
+
+- [Blog Post Title](#) - A brief description of the blog post.
+- [Another Blog Post](#) - A short summary of the content.
+ -->
+<!--  
+## 💬 Testimonials
+
+- **Client Name** - "Testimonial quote from the client about your work and performance."
+- **Another Client** - "Another testimonial highlighting your skills and professionalism."
+ -->
 ## 📧 Contacts
 
 - 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
