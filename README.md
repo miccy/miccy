@@ -2,7 +2,7 @@
 
 [🇨🇿 Česká verze](../cs/README.md)
 
-This README.md will temporarily serve as my CV until I complete my new website.
+<!-- This README.md will temporarily serve as my CV until I complete my new website. -->
 
 ## 📋 Table of Contents
 
@@ -19,10 +19,10 @@ This README.md will temporarily serve as my CV until I complete my new website.
   - 👨‍💻 [As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
 - 🔍 [Current Projects](#-current-projects)
 - 🔗 [Current Focus](#-current-focus)
+<!-- - 🏆 [Achievements](#-achievements) -->
+<!-- - 📝 [Blog](#-blog) -->
+<!-- - 💬 [Testimonials](#-testimonials) -->
 - 📧 [Contact](#-contact)
-- 🏆 [Achievements](#-achievements)
-- 📝 [Blog](#-blog)
-- 💬 [Testimonials](#-testimonials)
 
 ## 🚀 About Me
 
