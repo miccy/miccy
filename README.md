@@ -1,6 +1,6 @@
-# Miloš Macek (Miccy)
+<!-- # Miloš Macek (Miccy) -->
 
-[🇨🇿 Česká verze](../cs/README.md)
+<!-- [🇨🇿 Česká verze](../cs/README.md) -->
 
 <!-- This README.md will temporarily serve as my CV until I complete my new website. -->
 
@@ -15,14 +15,13 @@
   - 🛠️ [Development Tools](#-development-tools)
 - 🎓 [Education](#-education)
 - 📚 [Work Experience & Projects](#-work-experience--projects)
-  - 👨‍💻 [Freelancer (2019 - Present)](#-freelancer-2019---present)
-  - 👨‍💻 [As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
 - 🔍 [Current Projects](#-current-projects)
 - 🔗 [Current Focus](#-current-focus)
+- 📧 [Contact](#-contacts)
+- 📝 [My other profiles](#-my-other-profiles)
 <!-- - 🏆 [Achievements](#-achievements) -->
 <!-- - 📝 [Blog](#-blog) -->
 <!-- - 💬 [Testimonials](#-testimonials) -->
-- 📧 [Contact](#-contact)
 
 ## 🚀 About Me
 
@@ -142,5 +141,7 @@ Complete business solution. Repo: [zvono](https://github.com/miccy-dev/zvono)
 - 🔗 GitHub - Organization: [@miccy-dev](https://github.com/miccy-dev)
 - 📧 Email - Info: [info@miccy.dev](mailto:info@miccy.dev)
 - 📧 Email - Collaboration: [jobs@miccy.dev](mailto:jobs@miccy.dev)
+
+## 📝 My other profiles
 
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>

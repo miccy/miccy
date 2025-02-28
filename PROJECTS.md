@@ -1,4 +1,28 @@
-# Projects
+# Table of Contents
+
+- 🔍 [Current Projects](#-current-projects)
+  - 📱 [MMVM - Moje město v mobilu](#-mmvm---moje-město-v-mobilu)
+  - 📱 [Zvono Pawnshop](#-zvono-pawnshop)
+- 📚 [Work Experience & Projects](#-work-experience--projects)
+  - 👨‍💻 [Freelancer (2019 - Present)](#-freelancer-2019---present)
+  - 👨‍💻 [As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
+
+## 🔍 Current Projects
+
+### MMVM - Moje město v mobilu
+
+Mobile applications for Czech towns. Repo: [as4u/mmvm](https://github.com/miccy-dev/as4u/mmvm)
+
+- 📱 MMVM - New version in development
+- 🏛️ Multiple city variants
+
+### Zvono Pawnshop
+
+Complete business solution. Repo: [zvono](https://github.com/miccy-dev/zvono)
+
+- 👨‍💼 Internal customer management system
+- 🌐 Company presentation website
+- 🚧 In active development
 
 ## Freelancer (2019 - Present)
 
