@@ -1,8 +1,32 @@
-# Miloš Macek (Miccy)
+---
+layout: default
+title: Miloš Macek (Miccy)
+permalink: /
+redirect_from:
+  - /index.html
+---
+
+<div style="position: relative; padding: 30px 0; margin-bottom: 30px; text-align: center; max-width: 800px; margin: 0 auto;">
+  <img src="../../assets/miccy-dev-banner.png" alt="Miloš Macek" width="800" style="width: 100%; max-width: 800px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 85%; text-align: center; background-color: rgba(0, 0, 0, 0.75); padding: 20px 30px; color: white; border-radius: 20px; z-index: 2;">
+    <h1 style="margin: 0; font-size: 2.5em; color: white !important; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Miloš Macek</h1>
+    <p style="margin-top: 10px; font-size: 1.2em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Full Stack Developer | Mobile Apps | SaaS | AI | LLMs | Web3 | Blockchain</p>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <a href="https://www.linkedin.com/in/miccy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/miccy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:info@miccy.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 [🇬🇧 English version](docs/en/README.md)
-
-Toto README.md bude dočasně sloužit i jako moje CV, než dokončím nové webové stránky.
 
 ## 📋 Obsah
 
@@ -23,25 +47,45 @@ Toto README.md bude dočasně sloužit i jako moje CV, než dokončím nové web
 
 ## 🚀 O mně
 
-Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností, specializující se na vývoj mobilních aplikací. V současné době se zaměřuji na web3 aplikace a zkoumám možnosti integrace AI. Mým cílem je vytvářet robustní, uživatelsky přívětivá řešení, která propojují tradiční a nově vznikající technologie.
+Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve jsem se specializoval hlavně na vývoj mobilních aplikací, ale v současné době se zaměřuji hlavně na backend, SaaS, neopomíjím ani novinky ohledně webových aplikací, zkoumám možnosti integrace AI a trénování vlastních LLMs. Mým cílem je vytvářet robustní, uživatelsky přívětivá řešení, která propojují osvědčené postupy a nově vznikající technologie.
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/miccy">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&theme=radical" alt="GitHub Streak"  />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=radical" alt="Top Languages"  />
+</a>
 
 ## 🛠 Tech Stack
 
 ### 💻 Programovací jazyky
 
+<div align="center">
+  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+</div>
+
 ### 📱 Mobilní vývoj
+
+<div align="center">
 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+
+</div>
 
 ### 🌐 Frontend
 
@@ -67,22 +111,61 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností, specializu
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+## 🔄 Timeline
+
+```mermaid
+timeline
+    title My Professional Journey
+    2004 : Started at As4u.cz
+    2008 : Began studies at Czech Technical University
+    2010 : Transferred to Technical University of Liberec
+    2013 : Graduated with IT degree
+    2018 : Left As4u.cz
+    2019 : Started freelancing
+    2023 : Began exploring Web3 and AI
+    2023 : Joined Miccy Dev organization on GitHub
+    2023 : Started working as a freelancer again
+    2024 : Started exploring Web3 and AI
+```
+
+### Přidání sekce s projekty ve formě karet
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/miccy-dev/as4u/mmvm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miccy&repo=expo-playground&theme=radical" alt="AS4U Mobile Solutions" />
+  </a>
+</div>
+
+## 🔄 My Development Workflow
+
+```mermaid
+graph LR
+    A[Requirement Analysis] --> B[Design]
+    B --> C[Development]
+    C --> D[Testing]
+    D --> E[Deployment]
+    E --> F[Maintenance]
+    F -.-> C
+```
+
 ## 👨‍🎓 Vzdělání
 
 ### 🎓 2004 - 2008
 
-**VOŠ a SPŠ Masarykova, Kutná Hora**  
+**VOŠ a SPŠ Masarykova, Kutná Hora**
 Obor Elektrotechnika - Sdělovací technika
 
 ### 🎓 2008 - 2010
 
-**ČVUT, Fakulta elektrotechnická, Praha**  
+**ČVUT, Fakulta elektrotechnická, Praha**
 Obor Elektrotechnika
 
 ### 🎓 2010 - 2013
 
-**Technická univerzita v Liberci**  
-Fakulta elektrotechniky a informatiky  
+**Technická univerzita v Liberci**
+Fakulta elektrotechniky a informatiky
 Obor Informační technologie
 
 ## 📚 Pracovní zkušenosti a projekty
@@ -268,4 +351,7 @@ Kompletní business řešení
 - 📧 Email - Info: [info@miccy.dev](mailto:info@miccy.dev)
 - 📧 Email - Spolupráce: [jobs@miccy.dev](mailto:jobs@miccy.dev)
 
+<div align="center">
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
+</div>
+```
