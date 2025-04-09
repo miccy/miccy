@@ -15,8 +15,6 @@ This README.md will temporarily serve as my CV until I complete my new website.
   - [🛠️ Development Tools](#️-development-tools)
 - [👨‍🎓 Education](#-education)
 - [📚 Work Experience & Projects](#-work-experience--projects)
-  - [💼 Freelancer (2019 - Present)](#-freelancer-2019---present)
-  - [💼 As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
 - [🔭 Current Projects](#-current-projects)
 - [🔗 Current Focus](#-current-focus)
 - [📫 Contact](#-contact)
@@ -90,147 +88,39 @@ Field of Information Technology
 
 ### 💼 Freelancer (2019 - Present)
 
-#### [SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software | UK
-
-- DownloDev
-- March 2023 - August 2024
-- Stack: Expo, TypeScript, React Native
-
-#### [Union](https://www.union.sk/union-zp-aplikacia-na-mobile) - Health Insurance | SK
-
-- [BOOTIQ, part of BiQ Group](https://www.bootiq.io)
-- March 2022 - October 2022
-- Stack: TypeScript, GraphQL, React Native
-
-#### [Mamio](https://www.mamio-app.com) - Pregnancy App for Slovak Market | SK
-
-- [Eliaš IT Solutions](https://elias-itsolutions.sk)
-- May 2021 - December 2022
-- Stack: React Native, Expo
-
-#### [Tlappka](https://www.tlappka.cz/) - Pet Health in Your Pocket | CZ
-
-- [Veevoy](https://veevoy.com)
-- 2023
-- Stack: React Native, Expo
-
-#### [myPlann](https://www.sabservis.cz/myplann) - Stay with Your Client Forever | CZ
-
-- [SABService](https://www.sabservis.cz)
-- 2022
-- Stack: React Native, Expo
-
-#### Keys of the Treasure - Geolocation Game | CZ
-
-- [Sundisk](https://www.sundisk.cz/cs/)
-- 2020
-- Stack: React Native, Expo, Firebase
+| Project                                                    | Client                                             | Duration          | Stack                             |
+| ---------------------------------------------------------- | -------------------------------------------------- | ----------------- | --------------------------------- |
+| [SPUD Now](https://spudnow.co.uk/)                         | DownloDev                                          | 03/2023 - 08/2024 | Expo, TypeScript, React Native    |
+| [Union](https://www.union.sk/union-zp-aplikacia-na-mobile) | [BOOTIQ](https://www.bootiq.io)                    | 03/2022 - 10/2022 | TypeScript, GraphQL, React Native |
+| [Mamio](https://www.mamio-app.com)                         | [Eliaš IT Solutions](https://elias-itsolutions.sk) | 05/2021 - 12/2022 | React Native, Expo                |
+| [Tlappka](https://www.tlappka.cz/)                         | [Veevoy](https://veevoy.com)                       | 2023              | React Native, Expo                |
+| [myPlann](https://www.sabservis.cz/myplann)                | [SABService](https://www.sabservis.cz)             | 2022              | React Native, Expo                |
+| Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | React Native, Expo, Firebase      |
 
 ### 💼 As4u.cz (2004 - 2018)
 
-#### Turnov v mobilu (2024 | last updated 2025)
-
-- Official app for the city of Turnov
-- Expo, React Native, Supabase, Drizzle ORM
-
-#### Praha 11 (2024 | last updated 2025)
-
-- Official app for Prague 11 district
-- Expo, React Native, Supabase, Drizzle ORM
-
-#### Cestovatelský fotodeník (2023 | last updated 2024)
-
-- Travel photo diary competition game
-- Expo, React Native
-
-#### Vrbno v mobilu (2023 | last updated 2024)
-
-- Official app for the city of Vrbno pod Pradědem
-- React Native (Android / iOS)
-
-#### Prostějov v mobilu (2023 | last updated 2024)
-
-- Official app for the city of Prostějov
-- Expo, React Native
-
-#### Jablonec v mobilu (2014 | last updated 2024)
-
-- Official app for the city of Jablonec nad Nisou
-- Migration from Ionic/Cordova to React Native and Expo
-
-#### Litovel v mobilu (2016 | last updated 2024)
-
-- Official app for the city of Litovel
-- React Native (Android / iOS)
-
-#### Šumperk v mobilu (2023)
-
-- Official app for the city of Šumperk
-- React Native and Expo (Android and iOS)
-
-#### Jindřichův Hradec v mobilu (2015 | last updated 2023)
-
-- Official city application
-- Migration from Cordova to React Native and Expo
-
-#### Kuřim v mobilu (2014 | last updated 2023)
-
-- Official app for the city of Kuřim
-- React Native and Expo (Android / iOS)
-
-#### Poznej Hradec (2014 | last updated 2023)
-
-- City discovery and competition game for Jindřichův Hradec
-- Annual updates for tourist season
-- React Native (Android / iOS)
-
-#### BITVA 1866 (2016 | last updated 2023)
-
-- Mobile app for the Museum of Eastern Bohemia in Hradec Králové
-- Created for the 150th anniversary of the Battle of Hradec Králové
-- Android/iOS
-
-#### Dny Evropského Dědictví (2022)
-
-- European Heritage Days mobile app
-- Expo, React Native
-
-#### Textilní a oděvní dílna (2016)
-
-- Educational children's game for the Textile Museum Dvůr Králové
-- Implementation for tablets and information kiosks
-- Native Android (Java)
-
-#### Kojetín v mobilu (2020)
-
-- Official app for the city of Kojetín
-- Expo, React Native
-
-#### Týniště nad Orlicí (2020)
-
-- Official app for the city of Týniště nad Orlicí
-- Expo, React Native
-
-#### Český ráj (2020)
-
-- Official tourist guide for Bohemian Paradise region
-- Expo, React Native
-
-#### Český systém kvality služeb (2015)
-
-- Official CSQS application
-- Search and rating of certified subjects
-- Cordova (Android/iOS)
-
-#### Mladoboleslavsko (2015)
-
-- Official tourist guide for Mladá Boleslav region
-- Ionic/Cordova (Android/iOS)
-
-#### Průvodce Libereckým krajem (2015)
-
-- Official tourist guide for Liberec region
-- Ionic/Cordova (Android/iOS)
+| Project                     | Year      | Stack                                                 |
+| --------------------------- | --------- | ----------------------------------------------------- |
+| Turnov v mobilu             | 2024      | Expo, React Native, Supabase, Drizzle ORM             |
+| Praha 11                    | 2024      | Expo, React Native, Supabase, Drizzle ORM             |
+| Cestovatelský fotodeník     | 2023      | Expo, React Native                                    |
+| Vrbno v mobilu              | 2023      | React Native (Android / iOS)                          |
+| Prostějov v mobilu          | 2023      | Expo, React Native                                    |
+| Jablonec v mobilu           | 2014-2024 | Migration from Ionic/Cordova to React Native and Expo |
+| Litovel v mobilu            | 2016-2024 | React Native (Android / iOS)                          |
+| Šumperk v mobilu            | 2023      | React Native and Expo (Android and iOS)               |
+| Jindřichův Hradec v mobilu  | 2015-2023 | Migration from Cordova to React Native and Expo       |
+| Kuřim v mobilu              | 2014-2023 | React Native and Expo (Android / iOS)                 |
+| Poznej Hradec               | 2014-2023 | React Native (Android / iOS)                          |
+| BITVA 1866                  | 2016-2023 | Android/iOS                                           |
+| Dny Evropského Dědictví     | 2022      | Expo, React Native                                    |
+| Textilní a oděvní dílna     | 2016      | Native Android (Java)                                 |
+| Kojetín v mobilu            | 2020      | Expo, React Native                                    |
+| Týniště nad Orlicí          | 2020      | Expo, React Native                                    |
+| Český ráj                   | 2020      | Expo, React Native                                    |
+| Český systém kvality služeb | 2015      | Cordova (Android/iOS)                                 |
+| Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
+| Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
 
 ## 🔭 Current Projects
 
