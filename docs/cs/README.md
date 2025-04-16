@@ -41,8 +41,6 @@
 - [🚀 O mně](#-o-mně)
 - [📊 GitHub Stats](#-github-stats)
 - [🛠 Tech Stack](#-tech-stack)
-  - [💻 Programovací jazyky](#-programovací-jazyky)
-  - [📱 Mobilní vývoj](#-mobilní-vývoj)
   - [🌐 Frontend UI/UX](#-frontend-uiux)
   - [🔄 State Management](#-state-management)
   - [🗄️ Backend \& API](#️-backend--api)
@@ -73,7 +71,7 @@
 
 ## 🚀 O mně
 
-Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve jsem se specializoval hlavně na vývoj mobilních aplikací, ale v současné době se zaměřuji hlavně na backend, SaaS, neopomíjím ani novinky ohledně webových aplikací, zkoumám možnosti integrace AI a trénování vlastních LLMs. Mým cílem je vytvářet robustní, uživatelsky přívětivá řešení, která propojují osvědčené postupy a nově vznikající technologie.
+Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve jsem se specializoval hlavně na vývoj mobilních aplikací, ale v současné době se zaměřuji více na backend, SaaS, neopomíjím ani novinky ohledně webových aplikací, zkoumám možnosti integrace AI a trénování vlastních LLMs. Mým cílem je vytvářet robustní, uživatelsky přívětivá řešení, která propojují osvědčené postupy a nově vznikající technologie.
 
 ## 📊 GitHub Stats
 
@@ -89,19 +87,14 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 
 ## 🛠 Tech Stack
 
-### 💻 Programovací jazyky
+<div align="left">
 
-<span align="left">
+- ### Programovací jazyky: <span style="display: inline-flex; align-items: center; gap: 5px; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></span>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+</div>
+<div align="left">
 
-</span>
-
-### 📱 Mobilní vývoj
+- ### Mobilní vývoj: <span style="display: inline-flex; align-items: center; gap: 5px; vertical-align: middle; margin-left: 10px;"><img src="" />k</span>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
@@ -109,6 +102,7 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
+</dev>
 ### 🌐 Frontend UI/UX
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -322,3 +316,10 @@ Kompletní business řešení
 <div align="center">
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
 </div>
+
+// TODO: Dodělat
+Proveď následující úpravy v Tech Stack.
+
+- Stejně jako programovací jazyky udělej i následující kategorie inline, bez ikony nadpisu.
+- Mobilní vvoj, za Expo přidat EAS, odstranit Electron a SQLite. Přidej Tamagui a Gluestack, nativewind Přidej nakonec Lynx
+- State menagement budou tyto: Redux, Legendstate,
