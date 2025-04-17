@@ -10,7 +10,7 @@
     <p style="margin-top: 10px; font-size: 1em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Mobile | Web | Desktop | BaaS | SaaS | LLM | MCP | Bitcoin</p>
   </div>
 </div> -->
-
+<br />
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <a href="../cs/README.md">
     <img src="https://img.shields.io/badge/🇨🇿_Česky-E4405F?style=for-the-badge" alt="Česká verze"/>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
+<br />
 <p align="center">
   <a href="#-about-me">About Me</a>
   ·
