@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px; margin-bottom: 30px;">
- <a href="../cs/README.md">
+  <a href="../cs/README.md">
     <img src="https://img.shields.io/badge/🇨🇿_Česky-E4405F?style=for-the-badge" alt="Česká verze"/>
   </a>
   <a href="mailto:info@miccy.dev">
