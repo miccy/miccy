@@ -1,13 +1,17 @@
-<div style="position: relative; padding: 30px 0; margin-bottom: 30px; text-align: center; max-width: 800px; margin: 0 auto;">
+<div align="center">
+<a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
+</div>
+
+<!-- <div style="position: relative; padding: 30px 0; margin-bottom: 30px; text-align: center; max-width: 800px; margin: 0 auto;">
   <img src="./assets/miccy-dev-banner.png" alt="Miloš Macek" width="800" style="width: 100%; max-width: 800px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);"/>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 85%; text-align: center; background-color: rgba(0, 0, 0, 0.75); padding: 20px 30px; color: white; border-radius: 20px; z-index: 2;">
     <h1 style="margin: 0; font-size: 2.5em; color: white !important; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Miloš Macek</h1>
     <p style="margin-top: 10px; font-size: 1.2em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Full Stack Developer</p>
     <p style="margin-top: 10px; font-size: 1em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Mobile | Web | Desktop | BaaS | SaaS | LLM | MCP | Bitcoin</p>
   </div>
-</div>
-
-<div align="center" style="margin-top: 10px; margin-bottom: 30px;">
+</div> -->
+<br/>
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
  <a href="./docs/cs/README.md">
     <img src="https://img.shields.io/badge/🇨🇿_Česky-E4405F?style=for-the-badge" alt="Česká verze"/>
   </a>
@@ -21,7 +25,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
+<br/>
 <p align="center">
   <a href="#-about-me">About Me</a>
   ·
@@ -237,7 +241,3 @@ timeline
 - 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
 - 📧 Email - Info: [info@miccy.dev](mailto:info@miccy.dev)
 - 📧 Email - Collaboration: [collab@miccy.dev](mailto:collab@miccy.dev)
-
-<div align="center">
-<a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
-</div>
