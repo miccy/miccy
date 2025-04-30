@@ -83,14 +83,23 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 
 ## 🛠 Tech Stack
 
-<div>
-  <span style="float: left;"><strong>Programovací jazyky:</strong></span>
-  <span style="float: right;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <strong>Programovací jazyky:</strong>
+  <span>
     <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </span>
-  <div style="clear: both;"></div>
 </div>
+
+<p>
+  <strong>Programovací jazyky:</strong>
+  <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+</p>
+
+**Programovací jazyky:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white)
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
