@@ -7,7 +7,7 @@ Tento soubor obsahuje další varianty řešení pro zarovnání textu doleva a 
 <table width="100%">
   <tr>
     <td width="200" style="min-width:200px">Programovací jazyky:</td>
-    <td align="right">
+    <td width="100%" align="right">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg" alt="TypeScript" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg" alt="JavaScript" />
     </td>
