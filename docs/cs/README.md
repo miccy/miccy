@@ -86,7 +86,7 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td width="200" style="border: none; padding: 8px 0;"><strong>Programovací jazyky:</strong></td>
-    <td align="right" style="border: none; white-space: nowrap;">
+    <td align="right" style="border: none; white-space: nowrap; vertical-align: middle;">
       <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
     </td>
   </tr>

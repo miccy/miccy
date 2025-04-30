@@ -131,3 +131,13 @@ Tento soubor obsahuje další varianty řešení pro zarovnání textu doleva a 
   </span>
   <div style="clear:both"></div>
 </div>
+
+## Varianta M:
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>Programovací jazyky:</strong></span>
+  <div>
+    <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  </div>
+</div>
