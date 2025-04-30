@@ -163,7 +163,7 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
     </td>
   </tr>
   <tr>
-    <td width="200" style="border: none; padding: 8px 0;"><strong>Bezpečnost & Autentizace:</strong></td>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Autentizace:</strong></td>
     <td align="right" style="border: none; white-space: nowrap;">
       <img src="https://img.shields.io/badge/Clerk-444444?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"><img src="https://img.shields.io/badge/Auth0-333333?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"><img src="https://img.shields.io/badge/NextAuth.js-222222?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"><img src="https://img.shields.io/badge/OAuth-111111?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
     </td>
