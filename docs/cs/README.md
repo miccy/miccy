@@ -83,68 +83,11 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 
 ## 🛠 Tech Stack
 
-<div width="100%">
-  <span style="display: inline-block; vertical-align: middle;">Programovací jazyky:</span>
-  <span style="float: right;">
-    <a href="">
-    <img src="https://img.shields.io/badge/Hugging_Face-444444?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LangChain-333333?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Claude-222222?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-  </a>
-  </span>
-</div>
-
-<div>
-  <div style="float:left;  margin-top:8px;">
-    Programovací jazyky:
-  </div>
-  <div align="right">
-    <a href="">
-    <img src="https://img.shields.io/badge/Hugging_Face-444444?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LangChain-333333?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Claude-222222?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-  </a>
-  </div>
-  <div style="clear:both;"></div>
-</div>
-
-<div width="100%" style="display: flex; align-items: center; ">
-  <div>Programovací jazyky:</div>
-<div align="right" style="margin-top: 10px; margin-bottom: 30px;">
-  <a href="">
-    <img src="https://img.shields.io/badge/Hugging_Face-444444?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LangChain-333333?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Claude-222222?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-  </a>
-  </div>
-</div>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td width="200" style="border: none; padding: 8px 0;"><strong>Programovací jazyky:</strong></td>
-    <td align="right" style="border: none; white-space: nowrap; vertical-align: middle;">
-      <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+    <td width="200" style="border: none; padding: 0;"><strong>Programovací jazyky:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap; padding: 8px 0 0 0;">
+    <a href=""><img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
     </td>
   </tr>
   <tr>
