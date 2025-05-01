@@ -84,15 +84,15 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 ## 🛠 Tech Stack
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td width="200" style="border: none; padding: 0;"><strong>Programovací jazyky:</strong></td>
-    <td align="right" style="border: none; white-space: nowrap; padding: 8px 0 0 0;">
+  <tr valign="middle" style="border: none; white-space: nowrap;">
+    <td width="200" style="border: none;"><strong>Programovací jazyky:</strong></td>
+    <td align="right" valign="middle" style="border: none;">
     <a href=""><img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
     </td>
   </tr>
-  <tr>
-    <td width="200" style="border: none; padding: 8px 0;"><strong>Mobile:</strong></td>
-    <td align="right" style="border: none; white-space: nowrap;">
+  <tr style="border: none;">
+    <td width="200" style="border: none;"><strong>Mobile:</strong></td>
+    <td align="right" valign="middle" style="border: none; white-space: nowrap;">
       <img src="https://img.shields.io/badge/React_Native-666666?style=for-the-badge&logo=react&logoColor=white" alt="React Native"><img src="https://img.shields.io/badge/Expo-555555?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"><img src="https://img.shields.io/badge/EAS-444444?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"><img src="https://img.shields.io/badge/Tamagui-333333?style=for-the-badge&logoColor=white" alt="Tamagui"><img src="https://img.shields.io/badge/Gluestack-222222?style=for-the-badge&logoColor=white" alt="Gluestack"><img src="https://img.shields.io/badge/NativeWind-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind">
     </td>
   </tr>
