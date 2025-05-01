@@ -84,7 +84,7 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 ## 🛠 Tech Stack
 
 <div>
-  <div style="float:left;">
+  <div style="float:left;  margin-top:8px;">
     Programovací jazyky:
   </div>
   <div align="right">
