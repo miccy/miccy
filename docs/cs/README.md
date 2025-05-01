@@ -83,8 +83,8 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 
 ## 🛠 Tech Stack
 
-<div>
-  <span style="vertical-align: middle;">Programovací jazyky:</span>
+<div width="100%">
+  <span style="display: inline-block; vertical-align: middle;">Programovací jazyky:</span>
   <span style="float: right;">
     <a href="">
     <img src="https://img.shields.io/badge/Hugging_Face-444444?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
