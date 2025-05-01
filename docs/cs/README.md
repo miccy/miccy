@@ -84,6 +84,24 @@ Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve js
 ## 🛠 Tech Stack
 
 <div>
+  <span style="vertical-align: middle;">Programovací jazyky:</span>
+  <span style="float: right;">
+    <a href="">
+    <img src="https://img.shields.io/badge/Hugging_Face-444444?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/LangChain-333333?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Claude-222222?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
+  </a>
+  </span>
+</div>
+
+<div>
   <div style="float:left;  margin-top:8px;">
     Programovací jazyky:
   </div>
