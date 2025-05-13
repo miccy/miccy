@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
-<a href="https://appwrite.io/init/tickets/miccy"><img src="https://appwrite.io/init/tickets/miccy" width="652" alt="AppWrite Ticket"/></a>
+<!-- <a href="https://appwrite.io/init/tickets/miccy"><img src="https://appwrite.io/init/tickets/miccy" alt="AppWrite Ticket"/></a> -->
 </div>
 
 <!-- <div style="position: relative; padding: 30px 0; margin-bottom: 30px; text-align: center; max-width: 800px; margin: 0 auto;">
