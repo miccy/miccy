@@ -2,6 +2,33 @@
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
 </div>
 
+<div align="center">
+<br/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDAwIDgwMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iYXV0byI+PHJlZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImdyYWRpZW50IiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwNTBmZiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzY0YzhmZiIvPjwvbGluZWFyR3JhZGllbnQ+PGZpbHRlciBpZD0iZ2xvdyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iOCIgaW49IlNvdXJjZUZpbHRlciIvPjxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iY29sb3JlZEJsdXIiLz48ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz48L2ZlTWVyZ2U+PC9maWx0ZXI+PC9kZWZzPjx0ZXh0IHg9IjUwIiB5PSI0MDAiIGZvbnQtZmFtaWx5PSJDb3VyaWVyLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQwIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzY2NiIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4mbHQ7PC90ZXh0Pjx0ZXh0IHg9IjEzMCIgeT0iNDAwIiBmb250LWZhbWlseT0iQ291cmllciwgbW9ub3NwYWNlIiBmb250LXNpemU9IjE0MCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9InVybCgjZ3JhZGllbnQpIiBmaWx0ZXI9InVybCgjZ2xvdykiPm1pY2N5PC90ZXh0Pjx0ZXh0IHg9IjU3MCIgeT0iNDAwIiBmb250LWZhbWlseT0iQ291cmllciwgbW9ub3NwYWNlIiBmb250LXNpemU9IjE0MCIgZmlsbD0iI2ZmNTA1MCIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4uPC90ZXh0Pjx0ZXh0IHg9IjYzMCIgeT0iNDAwIiBmb250LWZhbWlseT0iQ291cmllciwgbW9ub3NwYWNlIiBmb250LXNpemU9IjE0MCIgZmlsbD0iI2ZmZiIgZmlsdGVyPSJ1cmwoI2dsb3cpIj5kZXY8L3RleHQ+PHRleHQgeD0iOTYwIiB5PSI0MDAiIGZvbnQtZmFtaWx5PSJDb3VyaWVyLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQwIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzY2NiIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4vJmd0OzwvdGV4dD48L3N2Zz4=" alt="miccy.dev logo" />
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" width="100%" height="auto">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0050ff"/>
+      <stop offset="100%" stop-color="#64c8ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <text x="50" y="400" font-family="Courier, monospace" font-size="140" font-weight="bold" fill="#666" filter="url(#glow)">&lt;</text>
+  <text x="130" y="400" font-family="Courier, monospace" font-size="140" font-weight="bold" fill="url(#gradient)" filter="url(#glow)">miccy</text>
+  <text x="570" y="400" font-family="Courier, monospace" font-size="140" fill="#ff5050" filter="url(#glow)">.</text>
+  <text x="630" y="400" font-family="Courier, monospace" font-size="140" fill="#fff" filter="url(#glow)">dev</text>
+  <text x="960" y="400" font-family="Courier, monospace" font-size="140" font-weight="bold" fill="#666" filter="url(#glow)">/&gt;</text>
+</svg>
+</div>
+
 <!-- <div style="position: relative; padding: 30px 0; margin-bottom: 30px; text-align: center; max-width: 800px; margin: 0 auto;">
   <img src="./assets/miccy-dev-banner.png" alt="Miloš Macek" width="800" style="width: 100%; max-width: 800px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);"/>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 85%; text-align: center; background-color: rgba(0, 0, 0, 0.75); padding: 20px 30px; color: white; border-radius: 20px; z-index: 2;">
