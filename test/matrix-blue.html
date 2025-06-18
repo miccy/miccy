@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blue Matrix Animation</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000;
+        }
+        canvas {
+            display: block;
+        }
+        .controls {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            color: #00D9FF;
+            font-family: monospace;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #00D9FF;
+        }
+        .controls label {
+            display: block;
+            margin: 5px 0;
+        }
+        .controls input[type="range"] {
+            width: 200px;
+        }
+        .controls input[type="color"] {
+            width: 50px;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="matrix"></canvas>
+    
+    <div class="controls">
+        <label>
+            Speed: <input type="range" id="speed" min="20" max="200" value="50">
+        </label>
+        <label>
+            Density: <input type="range" id="density" min="5" max="50" value="25">
+        </label>
+        <label>
+            Font Size: <input type="range" id="fontSize" min="8" max="30" value="16">
+        </label>
+        <label>
+            Color: <input type="color" id="color" value="#00D9FF">
+        </label>
+        <label>
+            <input type="checkbox" id="useGradient" checked> Use Gradient
+        </label>
+        <label>
+            <input type="checkbox" id="useSymbols"> Use Symbols (instead of binary)
+        </label>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('matrix');
+        const ctx = canvas.getContext('2d');
+
+        // Set canvas size
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        // Configuration
+        let fontSize = 16;
+        let columns = Math.floor(canvas.width / fontSize);
+        let drops = [];
+        let mainColor = '#00D9FF';
+        let useGradient = true;
+        let useSymbols = false;
+        let speed = 50;
+        let density = 25;
+
+        // Matrix characters - mix of binary and symbols
+        const binary = '01';
+        const symbols = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        
+        // Initialize drops
+        function initDrops() {
+            drops = [];
+            columns = Math.floor(canvas.width / fontSize);
+            for (let i = 0; i < columns; i++) {
+                drops[i] = Math.random() * -100;
+            }
+        }
+
+        initDrops();
+
+        // Draw the matrix
+        function draw() {
+            // Add transparency for trail effect
+            ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Set font
+            ctx.font = fontSize + 'px monospace';
+
+            // Draw characters
+            for (let i = 0; i < drops.length; i++) {
+                // Choose character set
+                const chars = useSymbols ? symbols : binary;
+                const char = chars[Math.floor(Math.random() * chars.length)];
+
+                // Calculate position
+                const x = i * fontSize;
+                const y = drops[i] * fontSize;
+
+                // Create gradient or solid color
+                if (useGradient) {
+                    const gradient = ctx.createLinearGradient(x, y - fontSize * 5, x, y + fontSize * 2);
+                    gradient.addColorStop(0, mainColor + '00');
+                    gradient.addColorStop(0.5, mainColor + 'CC');
+                    gradient.addColorStop(1, mainColor + 'FF');
+                    ctx.fillStyle = gradient;
+                } else {
+                    ctx.fillStyle = mainColor;
+                }
+
+                // Add glow effect for leading character
+                if (Math.random() > 0.98) {
+                    ctx.shadowBlur = 20;
+                    ctx.shadowColor = mainColor;
+                } else {
+                    ctx.shadowBlur = 0;
+                }
+
+                // Draw character
+                ctx.fillText(char, x, y);
+
+                // Reset drop when it reaches bottom
+                if (y > canvas.height && Math.random() > (100 - density) / 100) {
+                    drops[i] = 0;
+                }
+
+                // Move drop down
+                drops[i]++;
+            }
+        }
+
+        // Animation loop
+        let animationId;
+        function animate() {
+            draw();
+            animationId = setTimeout(() => {
+                requestAnimationFrame(animate);
+            }, speed);
+        }
+
+        // Start animation
+        animate();
+
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+            initDrops();
+        });
+
+        // Controls
+        document.getElementById('speed').addEventListener('input', (e) => {
+            speed = parseInt(e.target.value);
+        });
+
+        document.getElementById('density').addEventListener('input', (e) => {
+            density = parseInt(e.target.value);
+        });
+
+        document.getElementById('fontSize').addEventListener('input', (e) => {
+            fontSize = parseInt(e.target.value);
+            initDrops();
+        });
+
+        document.getElementById('color').addEventListener('input', (e) => {
+            mainColor = e.target.value;
+        });
+
+        document.getElementById('useGradient').addEventListener('change', (e) => {
+            useGradient = e.target.checked;
+        });
+
+        document.getElementById('useSymbols').addEventListener('change', (e) => {
+            useSymbols = e.target.checked;
+        });
+
+        // Add keyboard controls
+        document.addEventListener('keydown', (e) => {
+            switch(e.key) {
+                case ' ':
+                    // Pause/Resume
+                    if (animationId) {
+                        clearTimeout(animationId);
+                        animationId = null;
+                    } else {
+                        animate();
+                    }
+                    break;
+                case 'r':
+                    // Reset
+                    initDrops();
+                    break;
+                case 'b':
+                    // Toggle binary/symbols
+                    useSymbols = !useSymbols;
+                    document.getElementById('useSymbols').checked = useSymbols;
+                    break;
+            }
+        });
+    </script>
+</body>
+</html>

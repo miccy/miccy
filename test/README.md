@@ -258,6 +258,63 @@
 
 ---
 
+## 🎬 Matrix Animation Demo
+
+### Option 1: Animated GIF (would need to be created)
+<!-- ![Matrix Blue Animation](./matrix-blue.gif) -->
+
+### Option 2: SVG with CSS Animation (limited support in GitHub)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=100&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=800&height=400&lines=01001000+01100101+01101100+01101100+01101111;01010111+01101111+01110010+01101100+01100100;01001101+01100001+01110100+01110010+01101001+01111000;01000011+01101111+01100100+01100101+00100000+01101001+01110011;01000101+01110110+01100101+01110010+01111001+01110111+01101000+01100101+01110010+01100101" alt="Matrix" />
+</div>
+
+### Option 3: ASCII Art Matrix Effect
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 0 1 0 0 1 0 0 0   0 1 1 0 0 1 0 1   0 1 1 0 1 1 0 0   │
+│ 0 1 1 0 1 1 0 0   0 1 1 0 1 1 1 1   0 0 1 0 0 0 0 0   │
+│ 0 1 0 1 0 1 1 1   0 1 1 0 1 1 1 1   0 1 1 1 0 0 1 0   │
+│ 0 1 1 0 1 1 0 0   0 1 1 0 0 1 0 0   0 0 1 0 0 0 0 0   │
+│                                                           │
+│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │
+│ ░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░ │
+│ ░░░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░░░ │
+│ ░░░░░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░░░░░ │
+│ ░░░░░░░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░░░░░░░ │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Option 4: Link to Live Demo
+<div align="center">
+  <a href="https://miccy.github.io/matrix-blue-animation">
+    <img src="https://img.shields.io/badge/🎬_View_Live_Matrix_Animation-00D9FF?style=for-the-badge&logoColor=white" alt="Matrix Animation" />
+  </a>
+</div>
+
+### Option 5: Code Block Animation (static representation)
+```javascript
+// Matrix Rain Effect - Blue Edition
+const matrix = () => {
+  const chars = '01アイウエオカキクケコサシスセソ';
+  const streams = Array(80).fill('').map(() => ({
+    x: Math.random() * 80,
+    y: Math.random() * 25,
+    speed: Math.random() * 0.5 + 0.5
+  }));
+  
+  return streams.map(s => 
+    `\x1b[38;2;0;217;255m${chars[Math.floor(Math.random() * chars.length)]}\x1b[0m`
+  ).join('');
+};
+
+// ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+// ░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░
+// ░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓
+// ░░░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░
+```
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer" />
   
