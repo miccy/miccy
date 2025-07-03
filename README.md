@@ -305,6 +305,6 @@ timeline
 
 ## 📫 Contacts
 
-- 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
-- 📧 Email - Info: [info@miccy.dev](mailto:info@miccy.dev)
-- 📧 Email - Collaboration: [collab@miccy.dev](mailto:collab@miccy.dev)
+- [🔗 LinkedIn](https://www.linkedin.com/in/miccy)
+- [📧 info@miccy.dev](mailto:info@miccy.dev)
+- [📧 collab@miccy.dev](mailto:collab@miccy.dev)
