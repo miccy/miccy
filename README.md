@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
-</div>
+</div> -->
 
 <!-- <div style="position: relative; padding: 30px 0; margin-bottom: 30px; text-align: center; max-width: 800px; margin: 0 auto;">
   <img src="./assets/miccy-dev-banner.png" alt="Miloš Macek" width="800" style="width: 100%; max-width: 800px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);"/>
@@ -305,6 +305,6 @@ timeline
 
 ## 📫 Contacts
 
-- 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
-- 📧 Email - Info: [info@miccy.dev](mailto:info@miccy.dev)
-- 📧 Email - Collaboration: [collab@miccy.dev](mailto:collab@miccy.dev)
+- [🔗 LinkedIn](https://www.linkedin.com/in/miccy)
+- [📧 info@miccy.dev](mailto:info@miccy.dev)
+- [📧 collab@miccy.dev](mailto:collab@miccy.dev)
