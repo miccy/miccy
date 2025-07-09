@@ -9,7 +9,7 @@
 		"editor.codeActionsOnSave": {
 			"source.fixAll": "explicit"
 		},
-		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.defaultFormatter": "biomejs.biome",
 		"editor.tabSize": 2,
 		"editor.insertSpaces": true,
 		"files.trimTrailingWhitespace": true,
@@ -39,14 +39,9 @@
 	},
 	"extensions": {
 		"recommendations": [
-			"esbenp.prettier-vscode",
 			"yzhang.markdown-all-in-one",
 			"davidanson.vscode-markdownlint",
-			"streetsidesoftware.code-spell-checker",
-			"streetsidesoftware.code-spell-checker-czech",
-			"gruntfuggly.todo-tree",
 			"github.vscode-pull-request-github",
-			"eamodio.gitlens"
 		]
 	},
 	"launch": {
