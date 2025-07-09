@@ -278,20 +278,13 @@
 <br>
 <table>
   <tr>
-    <td valign="top" width="200">
-      <b>📊 BY THE NUMBERS</b>
-      <ul>
-        <li>🚀 <b>Apps in Production:</b> 50+</li>
-        <li>👥 <b>Happy Clients:</b> 100+</li>
-        <li>💻 <b>Lines of Code:</b> 1M+</li>
-        <li>☕ <b>Coffee Consumed:</b> ∞</li>
-        <li>⭐ <b>App Store Rating:</b> 4.8/5</li>
-      </ul>
-    </td>
     <td valign="top">
       <p>
       I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend, SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
       </p>
+    </td>
+    <td valign="top" width="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>

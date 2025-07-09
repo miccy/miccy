@@ -36,30 +36,60 @@
     </a>
 </div>
 
----
 
 ## 🚀 About Me
 
-I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend, SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
+<table>
+  <tr>
+    <td valign="top">
+      <p>
+      I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend, SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
+      </p>
+    </td>
+    <td valign="top" width="300">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
 
 <details> 
-  <summary><h2>📊 GitHub Stats</h2></summary>
-
-  <p>
-  <a href="https://github.com/miccy">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&theme=radical" alt="GitHub Streak"  />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=radical" alt="Top Languages"  />
-</a>
-  </p>
+  <summary><b>My Stats</b></summary>
+  <br>
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+		</td>
+	</tr>
+</table>
+</details> 
+<br>
+<details> 
+  <summary><b>Contribution graph</b></summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 </details>
+<br>
 
+## 🛠 Tech Stack
+
+<details>
+  <summary><b>My Favourites</b></summary>
+  <br>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,express,blender,astro,svelte" height="42"/>
+</p>
+</details>
+<br>
 <details> 
-  <summary><h2>🛠 Tech Stack</h2></summary>
+  <summary><b>Categorized</b></summary>
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -166,39 +196,41 @@ I am an independent full-stack developer with fifteen years of experience. Previ
   </tr>
 </table>
 </details>
+<br>
 
 ## 👨‍🎓 Education
 
 <details> 
-  <summary><h3>🎓 2010 - 2014: Technical University of Liberec</h3></summary>
+  <summary><b>🎓 2010 - 2014: Technical University of Liberec</b></summary>
 
 **Faculty of Electrical Engineering and Computer Science**
 
 - Field of Information Technology
 - Incomplete
 </details>
-
+<br>
 <details> 
-  <summary><h3>🎓 2008 - 2010: Czech Technical University in Prague</h3></summary>
+  <summary><b>🎓 2008 - 2010: Czech Technical University in Prague</b></summary>
 
 **Faculty of Electrical Engineering**
 
 - Field of Electrical Engineering
 - Transferred to TUL
 </details>
-
+<br>
 <details> 
-  <summary><h3>🎓 2004 - 2008: VOŠ and SPŠ Masarykova</h3></summary>
+  <summary><b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b></summary>
 
-**Kutná Hora**
+**Field of Electrical Engineering**
 
-- Field of Electrical Engineering - Communication Technology
+- Communication Technology
 </details>
+<br>
 
 ## 📚 Work Experience and Projects
 
 <details> 
-  <summary><h3>💼 Freelancer (2019 - Present)</h3></summary>
+  <summary><b>💼 Freelancer (2019 - Present)</b></summary>
 
 | Project                                                    | Client                                             | Duration          | Stack                                  |
 | ---------------------------------------------------------- | -------------------------------------------------- | ----------------- | -------------------------------------- |
@@ -210,8 +242,9 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 | [SharkTracker](https://www.ocearch.org/tracker/?)          | [Mapotic](https://www.mapotic.cz)                  | 2021              | React Native, Maps, RestAPI            |
 | Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | ReactJS, React Native, Expo, Firebase  |
 </details>
+<br>
 <details> 
-  <summary><h3>💼 As4u.cz (2014 - 2018)</h3></summary>
+  <summary><b>💼 As4u.cz (2014 - 2018)</b></summary>
 
 | Project                     | Year      | Stack                                                 |
 | --------------------------- | --------- | ----------------------------------------------------- |
@@ -236,6 +269,7 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 | Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
 | Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
 </details>
+<br>
 
 ## 🔭 Current Projects
 
