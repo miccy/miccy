@@ -1,38 +1,38 @@
 <div align="left">
   <!-- Opening tag -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=1000&repeat=false&color=2472c8&vCenter=true&width=600&height=28&lines=%3Cmiccy.dev%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=1000&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3Cmiccy.dev%3E" alt="Typing SVG" />
   <!-- Content s odsazením vlevo -->
   <div style="margin-left: 50px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1500&pause=1000&color=FFB11B&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+15%2B+years+of+experience;%F0%9F%93%B1+React+Native+%7C+Expo+%7C+30%2B+apps+built;%F0%9F%9B%A1%EF%B8%8F+Privacy-First+%7C+Self-Hosted+%7C+Local-First;%F0%9F%A7%A0+AI%2FML+%7C+LLMs+%7C+MCP+%7C+RAG;%F0%9F%9F%A0+Bitcoin+Maxi+%7C+Orange+Pilled+%7C+SAT+Stacker" alt="Typing SVG" />
   </div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=2472c8&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <a href="/README.md">
-    <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge&labelColor=1d68dc&color=darkgreen" />
     </a>
     <a href="./docs/cs/README.md">
-      <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
 </div>  
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
 <a href="#-about-me">
-      <img src="https://img.shields.io/badge/👋-About_Me-FFB11B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/👋-About_Me-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
     </a>
     <a href="#-tech-stack">
-      <img src="https://img.shields.io/badge/🛠️-Tech_Stack-FFB11B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🛠️-Tech_Stack-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
     </a>
     <a href="#-projects">
-      <img src="https://img.shields.io/badge/🚀-Projects-FFB11B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🚀-Projects-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
     </a>
     <a href="#-open-source">
-      <img src="https://img.shields.io/badge/🌟-Open_Source-FFB11B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🌟-Open_Source-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
     </a>
     <a href="#-github-stats">
-      <img src="https://img.shields.io/badge/📊-GitHub_Stats-FFB11B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/📊-GitHub_Stats-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
     </a>
 </div>
 
