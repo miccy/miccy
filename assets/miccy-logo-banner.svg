@@ -1,0 +1,17 @@
+<svg width="550" height="110" viewBox="0 0 550 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="550" height="110" fill="#18181b" rx="24"/>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Fira Mono, JetBrains Mono, monospace" font-size="56" font-weight="bold" fill="#fff" letter-spacing="2">
+    &lt;<tspan fill="#60a5fa">miccy.dev</tspan>/&gt;
+  </text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Fira Mono, JetBrains Mono, monospace" font-size="56" font-weight="bold" fill="#f43f5e" opacity="0.19" letter-spacing="2" style="transform: translate(2px, 3px);">
+    &lt;<tspan fill="#38bdf8">miccy.dev</tspan>/&gt;
+  </text>
+  <style>
+    text {
+      paint-order: stroke fill;
+      stroke: #000;
+      stroke-width: 1.2px;
+      filter: drop-shadow(0 1px 6px #18181b);
+    }
+  </style>
+</svg>

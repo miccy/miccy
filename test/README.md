@@ -1,42 +1,199 @@
 <div align="center">
-  
   <!-- Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Miloš%20Macek&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Mobile%20Specialist%20|%20AI%20Enthusiast&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=miccy.dev&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Mobile%20Specialist%20|%20AI%20Enthusiast&descAlignY=55&descAlign=62" alt="Header" />
   
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=15%2B+years+of+coding+experience;React+Native+%7C+Expo+%7C+Next.js+Expert;Building+scalable+SaaS+solutions;AI%2FLLM+Integration+Specialist" alt="Typing SVG" />
-  </a>
-  
-  <!-- Profile Views & Followers -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=miccy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/miccy?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub followers" />
-  </p>
-  
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=%3Cmiccy.dev%2F%3E" alt="Typing SVG" />
+</div>
+
   <!-- Quick Links -->
   <p>
     <a href="#-about-me">About</a> •
     <a href="#-tech-stack">Skills</a> •
     <a href="#-featured-projects">Projects</a> •
     <a href="#-my-impact">Impact</a> •
-    <a href="#-lets-connect">Contact</a>
+    <a href="#-lets-connect">Contact</a> | 
+    <a href="/docs/cs/README.md">🇨🇿 Česky</a> •
+    <a href="/README.md">🇬🇧 English</a>
   </p>
-  
   <!-- Language Selector -->
+
+</div>
+
+<div align="left">
+  <!-- Opening tag -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=1000&repeat=false&color=002DFF&vCenter=true&width=600&height=28&lines=%3Cmiccy.dev%3E" alt="Typing SVG" />
+  <!-- Content s odsazením vlevo -->
+  <div style="margin-left: 50px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1500&pause=1000&color=FFB11B&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+10%2B+years+of+experience;%F0%9F%93%B1+React+Native+%7C+Expo+%7C+30%2B+apps+built;%F0%9F%9B%A1%EF%B8%8F+Privacy-First+%7C+Self-Hosted+%7C+Local-First;%F0%9F%A7%A0+AI%2FML+%7C+LLMs+%7C+MCP+%7C+RAG;%F0%9F%9F%A0+Bitcoin+Maxi+%7C+Orange+Pilled+%7C+SAT+Stacker" alt="Typing SVG" />
+  </div>
+  <!-- Closing tag -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=002DFF&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
+</div>
+<div align="center">
+
+  <!-- Navigation -->
   <p>
-    <a href="/docs/cs/README.md">🇨🇿 Česky</a> | 
+    <a href="#-about-me">
+      <img src="https://img.shields.io/badge/👋-About_Me-61DAFB?style=for-the-badge" />
+    </a>
+    <a href="#-tech-stack">
+      <img src="https://img.shields.io/badge/🛠️-Tech_Stack-61DAFB?style=for-the-badge" />
+    </a>
+    <a href="#-projects">
+      <img src="https://img.shields.io/badge/🚀-Projects-61DAFB?style=for-the-badge" />
+    </a>
+    <a href="#-open-source">
+      <img src="https://img.shields.io/badge/🌟-Open_Source-61DAFB?style=for-the-badge" />
+    </a>
+    <a href="#-github-stats">
+      <img src="https://img.shields.io/badge/📊-GitHub_Stats-61DAFB?style=for-the-badge" />
+    </a>
+    <a href="#-contact">
+      <img src="https://img.shields.io/badge/📫-Contact-61DAFB?style=for-the-badge" />
+    </a>
+  </p>
+  <p>
+    <a href="/README.md">
+      <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge" />
+    </a>
+    <a href="/README.cs.md">
+      <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge" />
+    </a>
+  </p>
+</div>
+<div align="center">
+
+  <!-- Navigation with big badges -->
+  <p>
+    <a href="#-about-me">
+      <img src="https://img.shields.io/badge/👋_About_Me-61DAFB?style=for-the-badge" />
+    </a>
+    <a href="#-tech-stack">
+      <img src="https://img.shields.io/badge/🛠️_Tech_Stack-FF6B6B?style=for-the-badge" />
+    </a>
+    <a href="#-projects">
+      <img src="https://img.shields.io/badge/🚀_Projects-00D26A?style=for-the-badge" />
+    </a>
+    <a href="#-open-source">
+      <img src="https://img.shields.io/badge/🌟_Open_Source-F7931A?style=for-the-badge" />
+    </a>
+    <a href="#-github-stats">
+      <img src="https://img.shields.io/badge/📊_GitHub_Stats-8B5CF6?style=for-the-badge" />
+    </a>
+    <a href="#-contact">
+      <img src="https://img.shields.io/badge/📫_Contact-1DA1F2?style=for-the-badge" />
+    </a>
+  </p>
+
+  <!-- Language Switch -->
+  <p>
+    <a href="/README.md">
+      <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge" />
+    </a>
+    <a href="/README.cs.md">
+      <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge" />
+    </a>
+  </p>
+
+</div>
+<div align="center">
+  <!-- Quick Links -->
+  <p>
+    <a href="#-about-me">About</a> •
+    <a href="#-tech-stack">Skills</a> •
+    <a href="#-featured-projects">Projects</a> •
+    <a href="#-my-impact">Impact</a> •
+    <a href="#-lets-connect">Contact</a> | 
+    <a href="/docs/cs/README.md">🇨🇿 Česky</a> •
     <a href="/README.md">🇬🇧 English</a>
   </p>
 </div>
 
----
+<div align="center">
+  
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/₿-Bitcoin%20Maxi-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D26A?style=for-the-badge&logo=statuspage&logoColor=white" />
+  </p>
+
+  <!-- Stats Badges -->
+  <p>
+    <img src="https://img.shields.io/github/followers/miccy?style=social" />
+    <img src="https://img.shields.io/github/stars/miccy?style=social" />
+    <img src="https://komarev.com/ghpvc/?username=miccy&color=blueviolet&style=flat-square" />
+  </p>
+
+  <!-- Navigation -->
+  <p>
+    <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-002DFF?style=flat-square" /></a>
+    <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-FF6B6B?style=flat-square" /></a>
+    <a href="#-projects"><img src="https://img.shields.io/badge/Projects-00D26A?style=flat-square" /></a>
+    <a href="#-open-source"><img src="https://img.shields.io/badge/Open%20Source-F7931A?style=flat-square" /></a>
+    <a href="#-contact"><img src="https://img.shields.io/badge/Contact-8B5CF6?style=flat-square" /></a>
+  </p>
+
+  <!-- Language Switch -->
+  <p>
+    <a href="/README.md">
+      <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge" />
+    </a>
+    <a href="/README.cs.md">
+      <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge" />
+    </a>
+  </p>
+
+</div>
+
+<div align="center">
+
+  <!-- Core Badges -->
+  [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.dev)
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)](https://bitcoin.org)
+  [![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)](https://expo.dev)
+
+  ---
+
+  **[About](#about) • [Skills](#skills) • [Projects](#projects) • [Contact](#contact)**
+  
+  🇬🇧 **EN** | [🇨🇿 CS](/README.cs.md)
+
+  ---
+
+</div>
+
+<!-- Repository specific badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/21-000-000/awesome-btc-cz?style=social" />
+  <img src="https://img.shields.io/github/forks/21-000-000/awesome-btc-cz?style=social" />
+  <img src="https://img.shields.io/github/issues/21-000-000/awesome-btc-cz" />
+  <img src="https://img.shields.io/github/license/21-000-000/awesome-btc-cz" />
+</p>
+
+
+<!-- Bitcoin Community Badges -->
+[![21M Club](https://img.shields.io/badge/21M-Club-F7931A?style=for-the-badge)](https://github.com/21-000-000)
+[![Lightning](https://img.shields.io/badge/⚡-Lightning-792EE5?style=for-the-badge)](https://lightning.network)
+[![HODL](https://img.shields.io/badge/💎-HODL-00D26A?style=for-the-badge)](https://bitcoin.org)
+
+<details>
+<summary>📊 Click to see my GitHub Stats</summary>
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=dark)
+
+</details>
 
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🚀 **Senior Full Stack Developer** with 15+ years of experience
+🚀 **Senior Full Stack Developer** with 10+ years of experience
 
 🏗️ Architecting scalable solutions from mobile apps to enterprise SaaS
 
@@ -50,8 +207,6 @@
 
 <br clear="right"/>
 
----
-
 ## 🏆 My Impact
 
 <div align="center">
@@ -62,13 +217,13 @@
 <div align="center">
   <h3>📊 By The Numbers</h3>
   
-  | Metric | Value |
-  |--------|-------|
-  | 🚀 **Apps in Production** | 50+ |
-  | 👥 **Happy Clients** | 100+ |
-  | 💻 **Lines of Code** | 1M+ |
-  | ☕ **Coffee Consumed** | ∞ |
-  | ⭐ **App Store Rating** | 4.8/5 |
+  | Metric                   | Value |
+  | ------------------------ | ----- |
+  | 🚀 **Apps in Production** | 50+   |
+  | 👥 **Happy Clients**      | 100+  |
+  | 💻 **Lines of Code**      | 1M+   |
+  | ☕ **Coffee Consumed**    | ∞     |
+  | ⭐ **App Store Rating**   | 4.8/5 |
 </div>
 
 ---
@@ -258,65 +413,9 @@
 
 ---
 
-## 🎬 Matrix Animation Demo
-
-### Option 1: Animated GIF (would need to be created)
-<!-- ![Matrix Blue Animation](./matrix-blue.gif) -->
-
-### Option 2: SVG with CSS Animation (limited support in GitHub)
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=100&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=800&height=400&lines=01001000+01100101+01101100+01101100+01101111;01010111+01101111+01110010+01101100+01100100;01001101+01100001+01110100+01110010+01101001+01111000;01000011+01101111+01100100+01100101+00100000+01101001+01110011;01000101+01110110+01100101+01110010+01111001+01110111+01101000+01100101+01110010+01100101" alt="Matrix" />
-</div>
-
-### Option 3: ASCII Art Matrix Effect
-```
-┌─────────────────────────────────────────────────────────────┐
-│ 0 1 0 0 1 0 0 0   0 1 1 0 0 1 0 1   0 1 1 0 1 1 0 0   │
-│ 0 1 1 0 1 1 0 0   0 1 1 0 1 1 1 1   0 0 1 0 0 0 0 0   │
-│ 0 1 0 1 0 1 1 1   0 1 1 0 1 1 1 1   0 1 1 1 0 0 1 0   │
-│ 0 1 1 0 1 1 0 0   0 1 1 0 0 1 0 0   0 0 1 0 0 0 0 0   │
-│                                                           │
-│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │
-│ ░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░ │
-│ ░░░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░░░ │
-│ ░░░░░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░░░░░ │
-│ ░░░░░░░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░░░░░░░ │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### Option 4: Link to Live Demo
-<div align="center">
-  <a href="https://miccy.github.io/matrix-blue-animation">
-    <img src="https://img.shields.io/badge/🎬_View_Live_Matrix_Animation-00D9FF?style=for-the-badge&logoColor=white" alt="Matrix Animation" />
-  </a>
-</div>
-
-### Option 5: Code Block Animation (static representation)
-```javascript
-// Matrix Rain Effect - Blue Edition
-const matrix = () => {
-  const chars = '01アイウエオカキクケコサシスセソ';
-  const streams = Array(80).fill('').map(() => ({
-    x: Math.random() * 80,
-    y: Math.random() * 25,
-    speed: Math.random() * 0.5 + 0.5
-  }));
-  
-  return streams.map(s => 
-    `\x1b[38;2;0;217;255m${chars[Math.floor(Math.random() * chars.length)]}\x1b[0m`
-  ).join('');
-};
-
-// ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-// ░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░
-// ░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓
-// ░░░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░▓▓░░░░
-```
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer" />
   
   <p>⭐️ From <a href="https://github.com/miccy">@miccy</a> with 💙</p>
 </div>
+

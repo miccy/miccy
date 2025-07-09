@@ -1,17 +1,44 @@
-<!-- <div align="center">
-<a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
-</div> -->
-
-<!-- <div style="position: relative; padding: 30px 0; margin-bottom: 30px; text-align: center; max-width: 800px; margin: 0 auto;">
-  <img src="./assets/miccy-dev-banner.png" alt="Miloš Macek" width="800" style="width: 100%; max-width: 800px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);"/>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 85%; text-align: center; background-color: rgba(0, 0, 0, 0.75); padding: 20px 30px; color: white; border-radius: 20px; z-index: 2;">
-    <h1 style="margin: 0; font-size: 2.5em; color: white !important; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Miloš Macek</h1>
-    <p style="margin-top: 10px; font-size: 1.2em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Full Stack Developer</p>
-    <p style="margin-top: 10px; font-size: 1em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Mobile | Web | Desktop | BaaS | SaaS | LLM | MCP | Bitcoin</p>
+<div align="left">
+  <!-- Opening tag -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=1000&repeat=false&color=2472c8&vCenter=true&width=600&height=28&lines=%3Cmiccy.dev%3E" alt="Typing SVG" />
+  <!-- Content s odsazením vlevo -->
+  <div style="margin-left: 50px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1500&pause=1000&color=FFB11B&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+15%2B+years+of+experience;%F0%9F%93%B1+React+Native+%7C+Expo+%7C+30%2B+apps+built;%F0%9F%9B%A1%EF%B8%8F+Privacy-First+%7C+Self-Hosted+%7C+Local-First;%F0%9F%A7%A0+AI%2FML+%7C+LLMs+%7C+MCP+%7C+RAG;%F0%9F%9F%A0+Bitcoin+Maxi+%7C+Orange+Pilled+%7C+SAT+Stacker" alt="Typing SVG" />
   </div>
-</div> -->
-<br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=2472c8&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
+</div>
+
+---
+
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="/README.md">
+    <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge" />
+    </a>
+    <a href="/README.cs.md">
+      <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge" />
+  </a>
+</div>  
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+<a href="#-about-me">
+      <img src="https://img.shields.io/badge/👋-About_Me-FFB11B?style=for-the-badge" />
+    </a>
+    <a href="#-tech-stack">
+      <img src="https://img.shields.io/badge/🛠️-Tech_Stack-FFB11B?style=for-the-badge" />
+    </a>
+    <a href="#-projects">
+      <img src="https://img.shields.io/badge/🚀-Projects-FFB11B?style=for-the-badge" />
+    </a>
+    <a href="#-open-source">
+      <img src="https://img.shields.io/badge/🌟-Open_Source-FFB11B?style=for-the-badge" />
+    </a>
+    <a href="#-github-stats">
+      <img src="https://img.shields.io/badge/📊-GitHub_Stats-FFB11B?style=for-the-badge" />
+    </a>
+</div>
+
+---
+
+<!-- <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
  <a href="./docs/cs/README.md">
     <img src="https://img.shields.io/badge/🇨🇿_Česky-E4405F?style=for-the-badge" alt="Česká verze"/>
   </a>
@@ -24,9 +51,9 @@
   <a href="https://github.com/miccy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-<br/>
-<p align="center">
+</div> -->
+
+<!-- <p align="center">
   <a href="#-about-me">About Me</a>
   ·
   <a href="#-tech-stack">Tech Stack</a>
@@ -38,7 +65,7 @@
   <a href="#-current-projects">Current Projects</a>
   ·
   <a href="#-contacts">Contact</a>
-</p>
+</p> -->
 
 <!-- <details style="display: none;">
 <summary>Hidden content for tools</summary>
@@ -305,6 +332,16 @@ timeline
 
 ## 📫 Contacts
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/miccy)
-- [📧 info@miccy.dev](mailto:info@miccy.dev)
-- [📧 collab@miccy.dev](mailto:collab@miccy.dev)
+<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
+  <a href="mailto:info@miccy.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miccy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/miccy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
