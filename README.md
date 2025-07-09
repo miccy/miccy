@@ -13,29 +13,35 @@
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <a href="/README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge&labelColor=1d68dc&color=darkgreen" />
-    </a>
-    <a href="./docs/cs/README.md">
-      <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="./docs/cs/README.md">
+    <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
 </div>  
-<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
-<a href="#-about-me">
-      <img src="https://img.shields.io/badge/👋-About_Me-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
-    </a>
-    <a href="#-tech-stack">
-      <img src="https://img.shields.io/badge/🛠️-Tech_Stack-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
-    </a>
-    <a href="#-projects">
-      <img src="https://img.shields.io/badge/🚀-Projects-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
-    </a>
-    <a href="#-open-source">
-      <img src="https://img.shields.io/badge/🌟-Open_Source-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
-    </a>
-    <a href="#-github-stats">
-      <img src="https://img.shields.io/badge/📊-GitHub_Stats-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
-    </a>
-</div>
 
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/👋-About_Me-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="#-github-stats">
+    <img src="https://img.shields.io/badge/📊-GitHub_Stats-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/🛠️-Tech_Stack-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="#-education">
+    <img src="https://img.shields.io/badge/🎓-Education-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="#-work-experience-and-projects">
+    <img src="https://img.shields.io/badge/📚-Work_Experience-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="#-current-focus">
+    <img src="https://img.shields.io/badge/🎯-Current_Focus-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="#-lets-connect">
+    <img src="https://img.shields.io/badge/💼-Lets_Connect-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+</div>
 
 ## 🚀 About Me
 
@@ -43,7 +49,7 @@
   <tr>
     <td valign="top">
       <p>
-      I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend, SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
+      I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend and SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
       </p>
     </td>
     <td valign="top" width="300">
@@ -55,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <details> 
-  <summary><b>My Stats</b></summary>
+  <summary><b>📈 My Stats</b></summary>
   <br>
 <table>
 	<tr>
@@ -70,7 +76,7 @@
 </details> 
 <br>
 <details> 
-  <summary><b>Contribution graph</b></summary>
+  <summary><b>📊 Contribution Graph</b></summary>
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
@@ -78,19 +84,19 @@
 </details>
 <br>
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <details>
-  <summary><b>My Favourites</b></summary>
+  <summary><b>⭐ My Favourites</b></summary>
   <br>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,express,blender,astro,svelte" height="42"/>
+  <img src="https://skillicons.dev/icons?i=astro,ts,react,fastapi,tailwind,appwrite,github,docker,apple,bun,tauri,grafana" height="42"/>
 </p>
 </details>
 <br>
 <details> 
-  <summary><b>Categorized</b></summary>
-
+  <summary><b>📦 Categorized</b></summary>
+<br>
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="110" style="border: none; padding: 8px 0;"><strong>Languages:</strong></td>
@@ -202,27 +208,26 @@
 
 <details> 
   <summary><b>🎓 2010 - 2014: Technical University of Liberec</b></summary>
+<br>
 
-**Faculty of Electrical Engineering and Computer Science**
-
+- Faculty of Electrical Engineering and Computer Science
 - Field of Information Technology
 - Incomplete
 </details>
 <br>
 <details> 
   <summary><b>🎓 2008 - 2010: Czech Technical University in Prague</b></summary>
+<br>
 
-**Faculty of Electrical Engineering**
-
-- Field of Electrical Engineering
+- Faculty of Electrical Engineering
 - Transferred to TUL
 </details>
 <br>
 <details> 
   <summary><b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b></summary>
+<br>
 
-**Field of Electrical Engineering**
-
+- Field of Electrical Engineering
 - Communication Technology
 </details>
 <br>
@@ -231,6 +236,7 @@
 
 <details> 
   <summary><b>💼 Freelancer (2019 - Present)</b></summary>
+<br>
 
 | Project                                                    | Client                                             | Duration          | Stack                                  |
 | ---------------------------------------------------------- | -------------------------------------------------- | ----------------- | -------------------------------------- |
@@ -245,6 +251,7 @@
 <br>
 <details> 
   <summary><b>💼 As4u.cz (2014 - 2018)</b></summary>
+<br>
 
 | Project                     | Year      | Stack                                                 |
 | --------------------------- | --------- | ----------------------------------------------------- |
@@ -291,7 +298,7 @@
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/server--v1.png" width="60" height="60" alt="VPS" />
         <br><strong>Own VPS</strong>
-        <br>Designing scalable cloud
+        <br>Designing scalable cloud infrastructure
       </td>
     </tr>
   </table>
@@ -336,7 +343,7 @@
         <br>Internal customer management system
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/electronics.png" width="60" height="60" alt="WLED" />
+        <img src="https://img.icons8.com/color/96/light-on--v2.png" width="60" height="60" alt="WLED" />
         <br><strong>Ignis WLED Controller</strong>
         <br>Studio for programming pixel light POI/Staff
       </td>
@@ -368,5 +375,5 @@
 ---
 
 <div align="center">
-  <p>Build by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
+  <p>Built by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
 </div>
