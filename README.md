@@ -271,33 +271,85 @@
 </details>
 <br>
 
-## 🔭 Current Projects
+## 🎯 Current Focus
 
-### 🎨 miccy-verse
+<details> 
+  <summary><b>🤖 AI / ML</b></summary>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60" height="60" alt="AI Agents" />
+        <br><strong>AI Agents | MCPs</strong>
+        <br>Optimizing pre-filtering data layers
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/workflow.png" width="60" height="60" alt="Orchestration" />
+        <br><strong>LLM Orchestration</strong>
+        <br>Centralized control of nested agents
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/server--v1.png" width="60" height="60" alt="VPS" />
+        <br><strong>Own VPS</strong>
+        <br>Designing scalable cloud
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+<br>
 
-- 🧩 Universal UI design system
-- 🔄 Same style and behavior for Native/Web components
-- 📐 Layouts, Templates, Bento Grids
-- 🛠️ Stack: React Native, Lynx, Astro, React, Tanstack
+<details> 
+  <summary><b>₿ Bitcoin | Privacy</b></summary>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/bitcoin--v1.png" width="60" height="60" alt="Bitcoin" />
+        <br><strong>SATstation</strong>
+        <br>All-in-one platform for Bitcoiners and adoption
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/source-code.png" width="60" height="60" alt="GitHub" />
+        <br><strong>21-000-000</strong>
+        <br>GitHub organization for the BTC community
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/database--v1.png" width="60" height="60" alt="Database" />
+        <br><strong>Evolu</strong>
+        <br>Contributing to Evolu local-first database
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+<br>
 
-### ₿ SATstation
-
-- 📱 Mobile, Web, SaaS, Messaging, Knowledge Base
-- 🏛️ Local-first, Secure, Zero-knowledge, Decentralization
-- 🛠️ Stack: Expo, React Native, TailwindCSS, Appwrite, MongoDB, Effect, React, Node.js, Evolu
-
-### 💎 Zvono Pawnshop
-
-- 💼 Internal customer management system
-- 🌐 Company website
-- 🚧 In active development
-- 🛠️ Stack: Expo, Next.js, TailwindCSS, Supabase, PostgreSQL, TypeScript, React, Node.js
-
-### 💡 Ignis WLED controller
-
-- 📱 Mobile/Desktop application for controlling light-shows
-- 🎨 Studio for programming pixel light POI/Staff
-- 🛠️ Stack: React Native, Typescript, Rust, Tauri, LegendState
+<details> 
+  <summary><b>🛠️ Others</b></summary>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/settings--v1.png" width="60" height="60" alt="System" />
+        <br><strong>PawnshopOS</strong>
+        <br>Internal customer management system
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/electronics.png" width="60" height="60" alt="WLED" />
+        <br><strong>Ignis WLED Controller</strong>
+        <br>Studio for programming pixel light POI/Staff
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/domain.png" width="60" height="60" alt="Company" />
+        <br><strong>7Transfer s.r.o.</strong>
+        <br>Landing page and hosting for Czech company
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+<br>
 
 ## 💼 Let's Connect!
 
