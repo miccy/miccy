@@ -169,29 +169,36 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 
 ## 👨‍🎓 Education
 
-### 🎓 2010 - 2014
+<details> 
+  <summary><h3>🎓 2010 - 2014: Technical University of Liberec</h3></summary>
 
-**Technical University of Liberec, Faculty of Electrical Engineering and Computer Science**
+**Faculty of Electrical Engineering and Computer Science**
 
 - Field of Information Technology
 - Incomplete
+</details>
 
-### 🎓 2008 - 2010
+<details> 
+  <summary><h3>🎓 2008 - 2010: Czech Technical University in Prague</h3></summary>
 
-**Czech Technical University in Prague, Faculty of Electrical Engineering**
+**Faculty of Electrical Engineering**
 
 - Field of Electrical Engineering
 - Transferred to TUL
+</details>
 
-### 🎓 2004 - 2008
+<details> 
+  <summary><h3>🎓 2004 - 2008: VOŠ and SPŠ Masarykova</h3></summary>
 
-**VOŠ and SPŠ Masarykova, Kutná Hora**
+**Kutná Hora**
 
 - Field of Electrical Engineering - Communication Technology
+</details>
 
 ## 📚 Work Experience and Projects
 
-### 💼 Freelancer (2019 - Present)
+<details> 
+  <summary><h3>💼 Freelancer (2019 - Present)</h3></summary>
 
 | Project                                                    | Client                                             | Duration          | Stack                                  |
 | ---------------------------------------------------------- | -------------------------------------------------- | ----------------- | -------------------------------------- |
@@ -202,10 +209,9 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 | [Mamio](https://www.mamio-app.com)                         | [Eliaš IT Solutions](https://elias-itsolutions.sk) | 05/2021 - 12/2022 | React Native, Expo, Zustand            |
 | [SharkTracker](https://www.ocearch.org/tracker/?)          | [Mapotic](https://www.mapotic.cz)                  | 2021              | React Native, Maps, RestAPI            |
 | Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | ReactJS, React Native, Expo, Firebase  |
-
-### 💼 As4u.cz (2014 - 2018)
-
-- App updates until 2024
+</details>
+<details> 
+  <summary><h3>💼 As4u.cz (2014 - 2018)</h3></summary>
 
 | Project                     | Year      | Stack                                                 |
 | --------------------------- | --------- | ----------------------------------------------------- |
@@ -229,6 +235,7 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 | Český systém kvality služeb | 2015      | Cordova (Android/iOS)                                 |
 | Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
 | Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
+</details>
 
 ## 🔭 Current Projects
 
