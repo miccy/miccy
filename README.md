@@ -14,7 +14,7 @@
   <a href="/README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge" />
     </a>
-    <a href="/README.cs.md">
+    <a href="./docs/cs/README.md">
       <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge" />
   </a>
 </div>  
@@ -38,67 +38,15 @@
 
 ---
 
-<!-- <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
- <a href="./docs/cs/README.md">
-    <img src="https://img.shields.io/badge/🇨🇿_Česky-E4405F?style=for-the-badge" alt="Česká verze"/>
-  </a>
-  <a href="mailto:info@miccy.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/miccy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/miccy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div> -->
-
-<!-- <p align="center">
-  <a href="#-about-me">About Me</a>
-  ·
-  <a href="#-tech-stack">Tech Stack</a>
-  ·
-  <a href="#-education">Education</a>
-  ·
-  <a href="#-work-experience-and-projects">Projects</a>
-  ·
-  <a href="#-current-projects">Current Projects</a>
-  ·
-  <a href="#-contacts">Contact</a>
-</p> -->
-
-<!-- <details style="display: none;">
-<summary>Hidden content for tools</summary>
-
-## 📋 Contents
-
-- [📋 Contents](#-contents)
-- [🚀 About Me](#-about-me)
-- [🛠 Tech Stack](#-tech-stack)
-- [🔄 Timeline](#-timeline)
-- [👨‍🎓 Education](#-education)
-  - [🎓 2010 - 2014](#-2010---2014)
-  - [🎓 2008 - 2010](#-2008---2010)
-  - [🎓 2004 - 2008](#-2004---2008)
-- [📚 Work Experience and Projects](#-work-experience-and-projects)
-  - [💼 Freelancer (2019 - Present)](#-freelancer-2019---present)
-  - [💼 As4u.cz (2014 - 2018)](#-as4ucz-2004---2018)
-- [🔭 Current Projects](#-current-projects)
-  - [🎨 miccy-verse](#-miccy-verse)
-  - [₿ SATstation](#-satstation)
-  - [💎 Zvono Pawnshop](#-zvono-pawnshop)
-  - [💡 Ignis WLED controller](#-ignis-wled-controller)
-- [📫 Contacts](#-contacts)
-</details>
-<br/> -->
-
 ## 🚀 About Me
 
 I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend, SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
 
-<!-- ## 📊 GitHub Stats
+<details> 
+  <summary><h2>📊 GitHub Stats</h2></summary>
 
-<a href="https://github.com/miccy">
+  <p>
+  <a href="https://github.com/miccy">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -106,9 +54,12 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=radical" alt="Top Languages"  />
-</a> -->
+</a>
+  </p>
+</details>
 
-## 🛠 Tech Stack
+<details> 
+  <summary><h2>🛠 Tech Stack</h2></summary>
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -214,30 +165,7 @@ I am an independent full-stack developer with fifteen years of experience. Previ
     </td>
   </tr>
 </table>
-
-## 🔄 Timeline
-
-```mermaid
-timeline
-    title My Professional Journey
-    2014 : Joined As4u.cz
-    2015 : Mobile apps for Android (Java)
-    2016 : Hybrid mobile apps Ionic/Cordova
-    2017 : Transition to React Native
-    2019 : Left As4u.cz, started as Freelancer
-    2020 : Expo and EAS
-    2022 : NextJS, NodeJS, Backend
-    2023 : Full Stack Developer
-    2024 : LLM, RAG, MCP
-```
-
-<!-- ## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/miccy-dev/as4u/mmvm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miccy&repo=expo-playground&theme=radical" alt="AS4U Mobile Solutions" />
-  </a>
-</div> -->
+</details>
 
 ## 👨‍🎓 Education
 
@@ -330,7 +258,7 @@ timeline
 - 🎨 Studio for programming pixel light POI/Staff
 - 🛠️ Stack: React Native, Typescript, Rust, Tauri, LegendState
 
-## 📫 Contacts
+## 💼 Let's Connect!
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
   <a href="mailto:info@miccy.dev">
@@ -345,3 +273,7 @@ timeline
 </div>
 
 ---
+
+<div align="center">
+  <p>Build by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
+</div>
