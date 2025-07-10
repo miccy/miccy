@@ -184,6 +184,7 @@
   </tr>
 </table>
 </details>
+<br>
 
 ## 👨‍🎓 Education
 
@@ -211,6 +212,7 @@
 - Field of Electrical Engineering
 - Communication Technology
 </details>
+<br>
 
 ## 📚 Work Experience and Projects
 
@@ -256,14 +258,15 @@
 | Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
 | Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
 </details>
+<br>
 
 ## 🎯 Current Focus
 
 <details> 
   <summary><b>🤖 AI / ML</b></summary>
 <div align="center">
-<br>
   <table>
+  <br>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60" height="60" alt="AI Agents" />
@@ -289,8 +292,8 @@
 <details> 
   <summary><b>₿ Bitcoin | Privacy</b></summary>
 <div align="center">
-<br>
   <table>
+  <br>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/bitcoin--v1.png" width="60" height="60" alt="Bitcoin" />
@@ -316,8 +319,8 @@
 <details> 
   <summary><b>🛠️ Others</b></summary>
 <div align="center">
-<br>
   <table>
+  <br>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/settings--v1.png" width="60" height="60" alt="System" />
@@ -338,6 +341,7 @@
   </table>
 </div>
 </details>
+<br>
 
 ## 💼 Let's Connect!
 
