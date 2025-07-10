@@ -27,14 +27,19 @@
 
 ## 🚀 About Me
 
+<style>
+  .top-aligned {
+    vertical-align: top;
+  }
+</style>
 <table>
   <tr>
-    <td valign="top">
+    <td class="top-aligned">
       <p>
       I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend and SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
       </p>
     </td>
-    <td valign="top" width="300">
+    <td class="top-aligned" style="width: 300px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
