@@ -1,0 +1,91 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll": "explicit"
+		},
+		"editor.defaultFormatter": "biomejs.biome",
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true,
+		"files.trimTrailingWhitespace": true,
+		"files.insertFinalNewline": true,
+		"files.eol": "\n",
+		"files.exclude": {
+			"**/.git": true,
+			"**/.DS_Store": true,
+			"**/node_modules": true,
+			"**/.specstory": true
+		},
+		"search.exclude": {
+			"**/node_modules": true,
+			"**/package-lock.json": true,
+			"**/.git": true
+		},
+		"typescript.preferences.includePackageJsonAutoImports": "on",
+		"javascript.preferences.includePackageJsonAutoImports": "on",
+		"[markdown]": {
+			"editor.defaultFormatter": "yzhang.markdown-all-in-one",
+			"files.trimTrailingWhitespace": false
+		},
+		"markdown.preview.breaks": true,
+		"markdown.extension.toc.levels": "2..6",
+		"git.autofetch": true,
+		"git.confirmSync": false
+	},
+	"extensions": {
+		"recommendations": [
+			"yzhang.markdown-all-in-one",
+			"davidanson.vscode-markdownlint",
+			"github.vscode-pull-request-github",
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "node",
+				"request": "launch",
+				"name": "Check Docs Sync",
+				"program": "${workspaceFolder}/scripts/check-docs-sync.js",
+				"cwd": "${workspaceFolder}"
+			},
+			{
+				"type": "node",
+				"request": "launch",
+				"name": "Auto Translate Docs",
+				"program": "${workspaceFolder}/scripts/auto-translate-docs.js",
+				"cwd": "${workspaceFolder}",
+				"env": {
+					"GOOGLE_APPLICATION_CREDENTIALS": "${env:GOOGLE_APPLICATION_CREDENTIALS}"
+				}
+			}
+		]
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "Check Documentation Sync",
+				"type": "npm",
+				"script": "docs:check",
+				"problemMatcher": [],
+				"group": {
+					"kind": "test",
+					"isDefault": true
+				}
+			},
+			{
+				"label": "Translate Documentation",
+				"type": "npm",
+				"script": "docs:translate",
+				"problemMatcher": [],
+				"group": "build"
+			}
+		]
+	}
+}

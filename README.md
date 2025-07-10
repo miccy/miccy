@@ -1,88 +1,89 @@
-<!-- <div align="center">
-<a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
-</div> -->
-
-<!-- <div style="position: relative; padding: 30px 0; margin-bottom: 30px; text-align: center; max-width: 800px; margin: 0 auto;">
-  <img src="./assets/miccy-dev-banner.png" alt="Miloš Macek" width="800" style="width: 100%; max-width: 800px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);"/>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 85%; text-align: center; background-color: rgba(0, 0, 0, 0.75); padding: 20px 30px; color: white; border-radius: 20px; z-index: 2;">
-    <h1 style="margin: 0; font-size: 2.5em; color: white !important; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Miloš Macek</h1>
-    <p style="margin-top: 10px; font-size: 1.2em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Full Stack Developer</p>
-    <p style="margin-top: 10px; font-size: 1em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Mobile | Web | Desktop | BaaS | SaaS | LLM | MCP | Bitcoin</p>
+<div align="left">
+  <!-- Opening tag -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=1000&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3Cmiccy.dev%3E" alt="Typing SVG" />
+  <!-- Content s odsazením vlevo -->
+  <div style="margin-left: 50px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1500&pause=1000&color=FFB11B&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+15%2B+years+of+experience;%F0%9F%93%B1+React+Native+%7C+Expo+%7C+30%2B+apps+built;%F0%9F%9B%A1%EF%B8%8F+Privacy-First+%7C+Self-Hosted+%7C+Local-First;%F0%9F%A7%A0+AI%2FML+%7C+LLMs+%7C+MCP+%7C+RAG;%F0%9F%9F%A0+Bitcoin+Maxi+%7C+Orange+Pilled+%7C+SAT+Stacker" alt="Typing SVG" />
   </div>
-</div> -->
-<br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
+</div>
+
+---
+
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
- <a href="./docs/cs/README.md">
-    <img src="https://img.shields.io/badge/🇨🇿_Česky-E4405F?style=for-the-badge" alt="Česká verze"/>
+  <a href="./cv/cv-en.pdf">
+    <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV PDF badge" />
   </a>
-  <a href="mailto:info@miccy.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="./cv/cv-en.html">
+    <img src="https://img.shields.io/badge/🇬🇧_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
-  <a href="https://www.linkedin.com/in/miccy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="./cv/cv-cs.pdf">
+    <img src="https://img.shields.io/badge/🇨🇿_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
-  <a href="https://github.com/miccy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="./cv/cv-cs.html">
+    <img src="https://img.shields.io/badge/🇨🇿_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
 </div>
-<br/>
-<p align="center">
-  <a href="#-about-me">About Me</a>
-  ·
-  <a href="#-tech-stack">Tech Stack</a>
-  ·
-  <a href="#-education">Education</a>
-  ·
-  <a href="#-work-experience-and-projects">Projects</a>
-  ·
-  <a href="#-current-projects">Current Projects</a>
-  ·
-  <a href="#-contacts">Contact</a>
-</p>
-
-<!-- <details style="display: none;">
-<summary>Hidden content for tools</summary>
-
-## 📋 Contents
-
-- [📋 Contents](#-contents)
-- [🚀 About Me](#-about-me)
-- [🛠 Tech Stack](#-tech-stack)
-- [🔄 Timeline](#-timeline)
-- [👨‍🎓 Education](#-education)
-  - [🎓 2010 - 2014](#-2010---2014)
-  - [🎓 2008 - 2010](#-2008---2010)
-  - [🎓 2004 - 2008](#-2004---2008)
-- [📚 Work Experience and Projects](#-work-experience-and-projects)
-  - [💼 Freelancer (2019 - Present)](#-freelancer-2019---present)
-  - [💼 As4u.cz (2014 - 2018)](#-as4ucz-2004---2018)
-- [🔭 Current Projects](#-current-projects)
-  - [🎨 miccy-verse](#-miccy-verse)
-  - [₿ SATstation](#-satstation)
-  - [💎 Zvono Pawnshop](#-zvono-pawnshop)
-  - [💡 Ignis WLED controller](#-ignis-wled-controller)
-- [📫 Contacts](#-contacts)
-</details>
-<br/> -->
 
 ## 🚀 About Me
 
-I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend, SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
+<style>
+  .top-aligned {
+    vertical-align: top;
+  }
+</style>
+<table>
+  <tr>
+    <td class="top-aligned">
+      <p>
+      I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend and SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
+      </p>
+    </td>
+    <td class="top-aligned" style="width: 300px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<a href="https://github.com/miccy">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&theme=radical" alt="GitHub Streak"  />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=radical" alt="Top Languages"  />
-</a> -->
+<details> 
+  <summary><strong>📈 My Stats</strong></summary>
+  <br>
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+		</td>
+	</tr>
+</table>
+</details> 
+<br>
+<details> 
+  <summary><b>📊 Contribution Graph</b></summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+</details>
+<br>
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
+<details>
+  <summary><b>⭐ My Favourites</b></summary>
+  <br>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=astro,ts,react,fastapi,tailwind,appwrite,github,docker,apple,bun,tauri,grafana" height="42"/>
+</p>
+</details>
+<br>
+<details> 
+  <summary><b>📦 Categorized</b></summary>
+<br>
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="110" style="border: none; padding: 8px 0;"><strong>Languages:</strong></td>
@@ -187,56 +188,40 @@ I am an independent full-stack developer with fifteen years of experience. Previ
     </td>
   </tr>
 </table>
-
-## 🔄 Timeline
-
-```mermaid
-timeline
-    title My Professional Journey
-    2014 : Joined As4u.cz
-    2015 : Mobile apps for Android (Java)
-    2016 : Hybrid mobile apps Ionic/Cordova
-    2017 : Transition to React Native
-    2019 : Left As4u.cz, started as Freelancer
-    2020 : Expo and EAS
-    2022 : NextJS, NodeJS, Backend
-    2023 : Full Stack Developer
-    2024 : LLM, RAG, MCP
-```
-
-<!-- ## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/miccy-dev/as4u/mmvm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miccy&repo=expo-playground&theme=radical" alt="AS4U Mobile Solutions" />
-  </a>
-</div> -->
+</details>
 
 ## 👨‍🎓 Education
 
-### 🎓 2010 - 2014
+<details> 
+  <summary><b>🎓 2010 - 2014: Technical University of Liberec</b></summary>
+<br>
 
-**Technical University of Liberec, Faculty of Electrical Engineering and Computer Science**
-
+- Faculty of Electrical Engineering and Computer Science
 - Field of Information Technology
 - Incomplete
+</details>
+<br>
+<details> 
+  <summary><b>🎓 2008 - 2010: Czech Technical University in Prague</b></summary>
+<br>
 
-### 🎓 2008 - 2010
-
-**Czech Technical University in Prague, Faculty of Electrical Engineering**
+- Faculty of Electrical Engineering
+- Transferred to TUL
+</details>
+<br>
+<details> 
+  <summary><b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b></summary>
+<br>
 
 - Field of Electrical Engineering
-- Transferred to TUL
-
-### 🎓 2004 - 2008
-
-**VOŠ and SPŠ Masarykova, Kutná Hora**
-
-- Field of Electrical Engineering - Communication Technology
+- Communication Technology
+</details>
 
 ## 📚 Work Experience and Projects
 
-### 💼 Freelancer (2019 - Present)
+<details> 
+  <summary><b>💼 Freelancer (2019 - Present)</b></summary>
+<br>
 
 | Project                                                    | Client                                             | Duration          | Stack                                  |
 | ---------------------------------------------------------- | -------------------------------------------------- | ----------------- | -------------------------------------- |
@@ -247,10 +232,11 @@ timeline
 | [Mamio](https://www.mamio-app.com)                         | [Eliaš IT Solutions](https://elias-itsolutions.sk) | 05/2021 - 12/2022 | React Native, Expo, Zustand            |
 | [SharkTracker](https://www.ocearch.org/tracker/?)          | [Mapotic](https://www.mapotic.cz)                  | 2021              | React Native, Maps, RestAPI            |
 | Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | ReactJS, React Native, Expo, Firebase  |
-
-### 💼 As4u.cz (2014 - 2018)
-
-- App updates until 2024
+</details>
+<br>
+<details> 
+  <summary><b>💼 As4u.cz (2014 - 2018)</b></summary>
+<br>
 
 | Project                     | Year      | Stack                                                 |
 | --------------------------- | --------- | ----------------------------------------------------- |
@@ -274,37 +260,106 @@ timeline
 | Český systém kvality služeb | 2015      | Cordova (Android/iOS)                                 |
 | Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
 | Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
+</details>
 
-## 🔭 Current Projects
+## 🎯 Current Focus
 
-### 🎨 miccy-verse
+<details> 
+  <summary><b>🤖 AI / ML</b></summary>
+<div align="center">
+<br>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60" height="60" alt="AI Agents" />
+        <br><strong>AI Agents | MCPs</strong>
+        <br>Optimizing pre-filtering data layers
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/workflow.png" width="60" height="60" alt="Orchestration" />
+        <br><strong>LLM Orchestration</strong>
+        <br>Centralized control of nested agents
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/server--v1.png" width="60" height="60" alt="VPS" />
+        <br><strong>Own VPS</strong>
+        <br>Designing scalable cloud infrastructure
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+<br>
 
-- 🧩 Universal UI design system
-- 🔄 Same style and behavior for Native/Web components
-- 📐 Layouts, Templates, Bento Grids
-- 🛠️ Stack: React Native, Lynx, Astro, React, Tanstack
+<details> 
+  <summary><b>₿ Bitcoin | Privacy</b></summary>
+<div align="center">
+<br>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/bitcoin--v1.png" width="60" height="60" alt="Bitcoin" />
+        <br><strong>SATstation</strong>
+        <br>All-in-one platform for Bitcoiners and adoption
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/source-code.png" width="60" height="60" alt="GitHub" />
+        <br><strong>21-000-000</strong>
+        <br>GitHub organization for the BTC community
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/database--v1.png" width="60" height="60" alt="Database" />
+        <br><strong>Evolu</strong>
+        <br>Contributing to Evolu local-first database
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+<br>
 
-### ₿ SATstation
+<details> 
+  <summary><b>🛠️ Others</b></summary>
+<div align="center">
+<br>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/settings--v1.png" width="60" height="60" alt="System" />
+        <br><strong>PawnshopOS</strong>
+        <br>Internal customer management system
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/light-on--v2.png" width="60" height="60" alt="WLED" />
+        <br><strong>Ignis WLED Controller</strong>
+        <br>Studio for programming pixel light POI/Staff
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/domain.png" width="60" height="60" alt="Company" />
+        <br><strong>7Transfer s.r.o.</strong>
+        <br>Landing page and hosting for Czech company
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
 
-- 📱 Mobile, Web, SaaS, Messaging, Knowledge Base
-- 🏛️ Local-first, Secure, Zero-knowledge, Decentralization
-- 🛠️ Stack: Expo, React Native, TailwindCSS, Appwrite, MongoDB, Effect, React, Node.js, Evolu
+## 💼 Let's Connect!
 
-### 💎 Zvono Pawnshop
+<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
+  <a href="mailto:info@miccy.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miccy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/miccy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-- 💼 Internal customer management system
-- 🌐 Company website
-- 🚧 In active development
-- 🛠️ Stack: Expo, Next.js, TailwindCSS, Supabase, PostgreSQL, TypeScript, React, Node.js
+---
 
-### 💡 Ignis WLED controller
-
-- 📱 Mobile/Desktop application for controlling light-shows
-- 🎨 Studio for programming pixel light POI/Staff
-- 🛠️ Stack: React Native, Typescript, Rust, Tauri, LegendState
-
-## 📫 Contacts
-
-- [🔗 LinkedIn](https://www.linkedin.com/in/miccy)
-- [📧 info@miccy.dev](mailto:info@miccy.dev)
-- [📧 collab@miccy.dev](mailto:collab@miccy.dev)
+<div align="center">
+  <p>Built by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
+</div>
