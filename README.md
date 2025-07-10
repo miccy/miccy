@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+<div align="center" style="margin-top: 30px; margin-bottom: 50px;">
   <a href="/README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge&labelColor=1d68dc&color=darkgreen" />
   </a>
@@ -18,28 +18,27 @@
     <img src="https://img.shields.io/badge/🇨🇿_Česky-available-blue?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
 </div>  
-
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <a href="#-about-me">
     <img src="https://img.shields.io/badge/👋-About_Me-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
   <a href="#-github-stats">
-    <img src="https://img.shields.io/badge/📊-GitHub_Stats-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+    <img src="https://img.shields.io/badge/📊-Stats-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
   <a href="#-tech-stack">
-    <img src="https://img.shields.io/badge/🛠️-Tech_Stack-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+    <img src="https://img.shields.io/badge/🛠️-Stack-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
   <a href="#-education">
     <img src="https://img.shields.io/badge/🎓-Education-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
   <a href="#-work-experience-and-projects">
-    <img src="https://img.shields.io/badge/📚-Work_Experience-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+    <img src="https://img.shields.io/badge/📚-Experience-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
   <a href="#-current-focus">
-    <img src="https://img.shields.io/badge/🎯-Current_Focus-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+    <img src="https://img.shields.io/badge/🎯-Focus-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
   <a href="#-lets-connect">
-    <img src="https://img.shields.io/badge/💼-Lets_Connect-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+    <img src="https://img.shields.io/badge/💼-Contacts-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
 </div>
 
@@ -202,7 +201,6 @@
   </tr>
 </table>
 </details>
-<br>
 
 ## 👨‍🎓 Education
 
@@ -230,7 +228,6 @@
 - Field of Electrical Engineering
 - Communication Technology
 </details>
-<br>
 
 ## 📚 Work Experience and Projects
 
@@ -276,13 +273,13 @@
 | Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
 | Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
 </details>
-<br>
 
 ## 🎯 Current Focus
 
 <details> 
   <summary><b>🤖 AI / ML</b></summary>
 <div align="center">
+<br>
   <table>
     <tr>
       <td align="center" width="33%">
@@ -309,6 +306,7 @@
 <details> 
   <summary><b>₿ Bitcoin | Privacy</b></summary>
 <div align="center">
+<br>
   <table>
     <tr>
       <td align="center" width="33%">
@@ -335,6 +333,7 @@
 <details> 
   <summary><b>🛠️ Others</b></summary>
 <div align="center">
+<br>
   <table>
     <tr>
       <td align="center" width="33%">
@@ -356,7 +355,6 @@
   </table>
 </div>
 </details>
-<br>
 
 ## 💼 Let's Connect!
 
