@@ -10,7 +10,22 @@
 
 ---
 
-<div align="center" style="margin-top: 30px; margin-bottom: 50px;">
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="./cv/cv-en.pdf">
+    <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="./cv/cv-en.html">
+    <img src="https://img.shields.io/badge/🇬🇧_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="./cv/cv-cs.pdf">
+    <img src="https://img.shields.io/badge/🇨🇿_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="./cv/cv-cs.html">
+    <img src="https://img.shields.io/badge/🇨🇿_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+</div>
+
+<!-- <div align="center" style="margin-top: 30px; margin-bottom: 50px;">
   <a href="/README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-active-success?style=for-the-badge&labelColor=1d68dc&color=darkgreen" />
   </a>
@@ -40,7 +55,7 @@
   <a href="#-lets-connect">
     <img src="https://img.shields.io/badge/💼-Contacts-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
-</div>
+</div> -->
 
 ## 🚀 About Me
 
