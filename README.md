@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <details> 
-  <summary><b>📈 My Stats</b></summary>
+  <summary><strong>📈 My Stats</strong></summary>
   <br>
 <table>
 	<tr>
