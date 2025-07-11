@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<details> 
-  <summary><strong>📈 My Stats</strong></summary>
-  <br>
 <table>
 	<tr>
 		<td>
@@ -25,10 +18,9 @@
 		</td>
 	</tr>
 </table>
-</details> 
 
 <details> 
-  <summary><b>📊 Contribution Graph</b></summary>
+  <summary><b>📊 More Github stats...</b></summary>
 <br>
 <table>
   <tr>
