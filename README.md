@@ -10,23 +10,6 @@
 
 ---
 
-<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <a href="./cv/cv-en.pdf">
-    <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV PDF badge" />
-  </a>
-  <a href="./cv/cv-en.html">
-    <img src="https://img.shields.io/badge/🇬🇧_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
-  </a>
-  <a href="./cv/cv-cs.pdf">
-    <img src="https://img.shields.io/badge/🇨🇿_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
-  </a>
-  <a href="./cv/cv-cs.html">
-    <img src="https://img.shields.io/badge/🇨🇿_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
-  </a>
-</div>
-
----
-
 ## 🚀 About Me
 
 <table>
@@ -363,6 +346,23 @@
   </a>
   <a href="https://github.com/miccy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+# 🧾 Download my CV
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="./cv/cv-en.pdf">
+    <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV PDF badge" />
+  </a>
+  <a href="./cv/cv-en.html">
+    <img src="https://img.shields.io/badge/🇬🇧_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="./cv/cv-cs.pdf">
+    <img src="https://img.shields.io/badge/🇨🇿_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+  </a>
+  <a href="./cv/cv-cs.html">
+    <img src="https://img.shields.io/badge/🇨🇿_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
   </a>
 </div>
 
