@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=astro,ts,react,fastapi,tailwind,appwrite,github,docker,apple,bun,tauri,grafana" height="42"/>
 </p>
 </details>
-<br>
+
 <details> 
   <summary><b>📦 Categorized</b></summary>
 <br>
@@ -185,7 +185,7 @@
 - Field of Information Technology
 - Incomplete
 </details>
-<br>
+
 <details> 
   <summary><b>🎓 2008 - 2010: Czech Technical University in Prague</b></summary>
 <br>
@@ -193,7 +193,7 @@
 - Faculty of Electrical Engineering
 - Transferred to TUL
 </details>
-<br>
+
 <details> 
   <summary><b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b></summary>
 <br>
@@ -220,7 +220,7 @@
 | [SharkTracker](https://www.ocearch.org/tracker/?)          | [Mapotic](https://www.mapotic.cz)                  | 2021              | React Native, Maps, RestAPI            |
 | Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | ReactJS, React Native, Expo, Firebase  |
 </details>
-<br>
+
 <details> 
   <summary><b>💼 As4u.cz (2014 - 2018)</b></summary>
 <br>
@@ -278,7 +278,6 @@
   </table>
 </div>
 </details>
-<br>
 
 <details> 
   <summary><b>₿ Bitcoin | Privacy</b></summary>
@@ -305,7 +304,6 @@
   </table>
 </div>
 </details>
-<br>
 
 <details> 
   <summary><b>🛠️ Others</b></summary>
@@ -337,7 +335,7 @@
 
 ## 💼 Let's Connect!
 
-<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 30px; margin-bottom: 0px;">
   <a href="mailto:info@miccy.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -350,8 +348,8 @@
 </div>
 
 ---
-# 🧾 Download my CV
-<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+## 🧾 Download my CV
+<div align="center" style="margin-top: 30px; margin-bottom: 0px;">
   <a href="./cv/cv-en.pdf">
     <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV PDF badge" />
   </a>
