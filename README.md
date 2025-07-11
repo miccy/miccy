@@ -38,16 +38,12 @@
 
 ## 🛠️ Tech Stack
 
-<details>
-  <summary><b>⭐ My Favourites</b></summary>
-  <br>
-  <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=astro,ts,react,fastapi,tailwind,appwrite,github,docker,apple,bun,tauri,grafana" height="42"/>
 </p>
-</details>
 
 <details> 
-  <summary><b>📦 Categorized</b></summary>
+  <summary><b>📦 Full Tech Stack - Categorized...</b></summary>
 <br>
 <table width="100%" style="border-collapse: collapse;">
   <tr>
