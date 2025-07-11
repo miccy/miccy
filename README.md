@@ -8,21 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-
-<table>
-  <tr>
-    <td class="top">
-      <p>
-      I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend and SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
-      </p>
-    </td>
-    <td valign="top" width="300">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📊 GitHub Stats
@@ -45,9 +30,16 @@
 <details> 
   <summary><b>📊 Contribution Graph</b></summary>
 <br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+<table>
+  <tr>
+    <td class="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+    </td>
+    <td valign="top" width="300">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 </details>
 
 ---
