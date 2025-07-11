@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
 </div>
 
----
-
 ## 🚀 About Me
 
 <table>
@@ -43,7 +41,7 @@
 	</tr>
 </table>
 </details> 
-<br>
+
 <details> 
   <summary><b>📊 Contribution Graph</b></summary>
 <br>
