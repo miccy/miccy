@@ -25,6 +25,8 @@
   </a>
 </div>
 
+---
+
 ## 🚀 About Me
 
 <table>
@@ -39,6 +41,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -64,7 +68,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 </details>
-<br>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -184,7 +189,8 @@
   </tr>
 </table>
 </details>
-<br>
+
+---
 
 ## 👨‍🎓 Education
 
@@ -259,7 +265,8 @@
 | Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
 | Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
 </details>
-<br>
+
+---
 
 ## 🎯 Current Focus
 
@@ -342,7 +349,8 @@
   </table>
 </div>
 </details>
-<br>
+
+---
 
 ## 💼 Let's Connect!
 
