@@ -212,7 +212,8 @@
 - Field of Electrical Engineering
 - Communication Technology
 </details>
-<br>
+
+---
 
 ## 📚 Work Experience and Projects
 
