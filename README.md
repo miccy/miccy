@@ -28,7 +28,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
     </td>
     <td valign="top" width="300">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compat&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
