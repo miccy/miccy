@@ -11,10 +11,10 @@
 <table>
 	<tr>
 		<td>
-			<img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
+			<img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
 		</td>
 	</tr>
 </table>
@@ -332,13 +332,13 @@
     <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV PDF badge" />
   </a>
   <a href="./cv/cv-en.html">
-    <img src="https://img.shields.io/badge/🇬🇧_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+    <img src="https://img.shields.io/badge/🇬🇧_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV HTML badge"  />
   </a>
   <a href="./cv/cv-cs.pdf">
-    <img src="https://img.shields.io/badge/🇨🇿_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+    <img src="https://img.shields.io/badge/🇨🇿_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="Czech CV PDF badge"  />
   </a>
   <a href="./cv/cv-cs.html">
-    <img src="https://img.shields.io/badge/🇨🇿_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" />
+    <img src="https://img.shields.io/badge/🇨🇿_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="Czech CV HTML badge"  />
   </a>
 </div>
 
