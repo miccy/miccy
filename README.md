@@ -326,7 +326,9 @@
 </div>
 
 ---
+
 ## 🧾 Download my CV
+
 <div align="center" style="margin-top: 30px; margin-bottom: 0px;">
   <a href="./cv/cv-en.pdf">
     <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV PDF badge" />
