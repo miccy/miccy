@@ -9,14 +9,14 @@
 </div>
 </br>
 <table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-		</td>
-		<td>
-			<img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
-		</td>
-	</tr>
+ <tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  </td>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
+  </td>
+</tr>
 </table>
 
 <details> 
