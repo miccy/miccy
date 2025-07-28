@@ -154,6 +154,7 @@
 <details> 
   <summary><b>🎓 2010 - 2014: Technical University of Liberec</b></summary>
 <br>
+  
 - Faculty of Electrical Engineering and Computer Science
 - Field of Information Technology
 - Incomplete
@@ -162,6 +163,7 @@
 <details> 
   <summary><b>🎓 2008 - 2010: Czech Technical University in Prague</b></summary>
 <br>
+  
 - Faculty of Electrical Engineering
 - Transferred to TUL
 </details>
@@ -169,6 +171,7 @@
 <details> 
   <summary><b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b></summary>
 <br>
+  
 - Field of Electrical Engineering
 - Communication Technology
 </details>
