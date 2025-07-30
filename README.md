@@ -327,16 +327,16 @@
 
 <div align="center" style="margin-top: 30px; margin-bottom: 0px;">
   <a href="./cv/cv-en.pdf">
-    <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV PDF badge" />
+    <img src="https://img.shields.io/badge/🇬🇧_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV PDF" />
   </a>
   <a href="./cv/cv-en.html">
-    <img src="https://img.shields.io/badge/🇬🇧_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV HTML badge"  />
+    <img src="https://img.shields.io/badge/🇬🇧_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="English CV HTML"  />
   </a>
   <a href="./cv/cv-cs.pdf">
-    <img src="https://img.shields.io/badge/🇨🇿_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="Czech CV PDF badge"  />
+    <img src="https://img.shields.io/badge/🇨🇿_CV-PDF-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="Czech CV PDF"  />
   </a>
   <a href="./cv/cv-cs.html">
-    <img src="https://img.shields.io/badge/🇨🇿_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="Czech CV HTML badge"  />
+    <img src="https://img.shields.io/badge/🇨🇿_CV-HTML-1d68dc?style=for-the-badge&labelColor=1d68dc&color=ffb21c" alt="Czech CV HTML"  />
   </a>
 </div>
 
