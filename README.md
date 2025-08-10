@@ -3,7 +3,7 @@
   <div style="margin-left: 50px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1500&pause=1000&color=FFB11B&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+15%2B+years+of+experience;%F0%9F%93%B1+React+Native+%7C+Expo+%7C+30%2B+apps+built;%F0%9F%9B%A1%EF%B8%8F+Privacy-First+%7C+Self-Hosted+%7C+Local-First;%F0%9F%A7%A0+AI%2FML+%7C+LLMs+%7C+MCP+%7C+RAG;%F0%9F%9F%A0+Bitcoin+Maxi+%7C+Orange+Pilled+%7C+SAT+Stacker" alt="Typing SVG" />
   </div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing style SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
 </div>
 </br>
 <table>
