@@ -193,7 +193,7 @@
 | [myPlann](https://www.sabservis.cz/myplann)                | [SABService](https://www.sabservis.cz)             | 2022              | ReactJS, Strapi, Tailwind, Redux       |
 | [Mamio](https://www.mamio-app.com)                         | [Eliaš IT Solutions](https://elias-itsolutions.sk) | 05/2021 - 12/2022 | React Native, Expo, Zustand            |
 | [SharkTracker](https://www.ocearch.org/tracker/?)          | [Mapotic](https://www.mapotic.cz)                  | 2021              | React Native, Maps, RestAPI            |
-| Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | ReactJS, React Native, Expo, Firebase  |
+| Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2019 - 2021       | ReactJS, React Native, Expo, Firebase  |
 </details>
 
 <details> 
