@@ -17,8 +17,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
   </div>
   <div width="100%" valign="top" halign="center" align="center">
-     <a href="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true"><img alt="Miccy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" height="192px"/></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=4""><img alt="Miccy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=4" height="192px"/></a>
+     <a href="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true"><img alt="Miccy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" height="200px"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=4""><img alt="Miccy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=4" height="200px"/></a>
   </div>
 </details>
 
