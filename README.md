@@ -344,5 +344,5 @@
 ---
 
 <div align="center">
-  <p>By <a href="https://github.com/miccy">@miccy</a> with 💙</p>
+  <p>🛠 Maintained by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
 </div>
