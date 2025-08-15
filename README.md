@@ -8,10 +8,7 @@
 </br>
 <table>
  <tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" />
-  </td>
-  <td>
+  <td halign="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
   </td>
 </tr>
@@ -21,8 +18,13 @@
 <br>
 <table>
   <tr>
-    <td class="top">
+    <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+    </td>
+  </tr>  
+  <tr>
+    <td class="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" alt="Stats" />
     </td>
     <td valign="top" width="300">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
