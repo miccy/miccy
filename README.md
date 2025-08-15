@@ -16,16 +16,18 @@
   <div width="100%" valign="center" halign="center" align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
   </div>
-<table width="100%">  
-  <tr width="100%">
-    <td class="top" width="100%">
+  <div width="100%" valign="center" halign="center" align="center">
+<table>  
+  <tr>
+    <td class="top>
       <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" alt="Stats" />
     </td>
-    <td valign="top" width="100%">
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
+    </div>
 </details>
 
 ---
