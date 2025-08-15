@@ -16,17 +16,15 @@
 <details> 
   <summary><b>📊 More Github stats...</b></summary>
 <br>
-<table>
-  <tr width="100%" valign="center" halign="center" align="center">
-    <td width="100%" valign="center" halign="center" align="center">
+    <div width="100%" valign="center" halign="center" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-    </td>
-  </tr>  
+    </div>
+<table>  
   <tr>
     <td class="top">
       <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" alt="Stats" />
     </td>
-    <td valign="top" width="300">
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
