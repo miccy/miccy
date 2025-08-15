@@ -23,7 +23,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" alt="Stats" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&layout=compact&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
