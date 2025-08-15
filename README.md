@@ -17,8 +17,8 @@
   <summary><b>📊 More Github stats...</b></summary>
 <br>
 <table>
-  <tr>
-    <td>
+  <tr width="100%" valign="center" halign="center" align="center">
+    <td width="100%" valign="center" halign="center" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
     </td>
   </tr>  
