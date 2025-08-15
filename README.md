@@ -29,8 +29,8 @@
 </table>
     </div>
   <div width="100%" valign="top" halign="center" align="center">
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Miccy's Github Stats" src="https://miccy-github-readme-stats.vercel.app/api/?username=miccy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Miccy's Top Languages" src="https://miccy-github-readme-stats.vercel.app/api/top-langs/?username=miccy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+     <a href="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true"><img alt="Miccy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" height="192px"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=8&layout=compact""><img alt="Miccy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=8&layout=compact" height="192px"/></a>
   </div>
 </details>
 
