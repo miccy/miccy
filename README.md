@@ -17,8 +17,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
   </div>
   <div width="100%" valign="center" halign="center" align="center">
-<table>  
-  <tr>
+<table width="100%">  
+  <tr width="100%">
     <td class="top>
       <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" alt="Stats" />
     </td>
