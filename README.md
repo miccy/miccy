@@ -8,7 +8,6 @@
 
 ---
     
-</br>
 <div width="100%" valign="center" halign="center" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
 </div>
