@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=astro,ts,react,fastapi,tailwind,appwrite,github,docker,apple,bun,tauri,grafana" height="42" alt="Skill icon" />
+  <img src="https://skillicons.dev/icons?i=astro,ts,react,rust,css,java,python,fastapi,tailwind,appwrite,github,docker,apple,bun,tauri" height="42" alt="Skill icon" />
 </p>
 <details> 
   <summary><b>📦 Full Tech Stack - Categorized...</b></summary>
