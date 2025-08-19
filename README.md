@@ -253,17 +253,17 @@
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/bitcoin--v1.png" width="60" height="60" alt="Bitcoin" />
         <br><strong>SATstation</strong>
-        <br>All-in-one platform for Bitcoiners and adoption
+        <br>All-in-one platform for Bitcoiners
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/source-code.png" width="60" height="60" alt="GitHub" />
         <br><strong>21-000-000</strong>
-        <br>GitHub organization for the BTC community
+        <br>Support for the BTC community
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/database--v1.png" width="60" height="60" alt="Database" />
         <br><strong>Evolu</strong>
-        <br>Contributing to Evolu local-first database
+        <br>Contributing to Evolu local-first DB
       </td>
     </tr>
   </table>
