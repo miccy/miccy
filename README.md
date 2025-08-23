@@ -286,12 +286,12 @@
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/light-on--v2.png" width="60" height="60" alt="WLED" />
         <br><strong>Ignis WLED Controller</strong>
-        <br>Studio for programming pixel light POI/Staff
+        <br>Studio for pixel light juggling toys
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/domain.png" width="60" height="60" alt="Company" />
         <br><strong>7Transfer s.r.o.</strong>
-        <br>Landing page and hosting for Czech company
+        <br>Landing page for Czech company
       </td>
     </tr>
   </table>
