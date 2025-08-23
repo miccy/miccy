@@ -281,7 +281,7 @@
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/settings--v1.png" width="60" height="60" alt="System" />
         <br><strong>PawnshopOS</strong>
-        <br>Internal customer management system
+        <br>Internal pawnshop CMS
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/light-on--v2.png" width="60" height="60" alt="WLED" />
