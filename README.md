@@ -274,10 +274,10 @@
 
 <details> 
   <summary><b>🛠️ Others</b></summary>
-<div align="center">
-  <table>
+<div align="center" width="100%">
+  <table width="100%">
   <br>
-    <tr>
+    <tr width="100%">
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/settings--v1.png" width="60" height="60" alt="System" />
         <br><strong>PawnshopOS</strong>
