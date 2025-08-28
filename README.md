@@ -38,25 +38,25 @@
 <table style="width: auto; margin: 0 auto; border-collapse: collapse;">
   <tr>
     <td width="110" style="border: none; padding: 4px 0;"><strong>Languages:</strong></td>
-    <td style="border: none; width: 100%; text-align: right;">
+    <td align="right" style="border: none; width: 100%; text-align: right;">
       <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
     </td>
   </tr>
   <tr>
     <td width="110" style="border: none; padding: 4px 0;"><strong>Mobile:</strong></td>
-    <td style="border: none; width: 100%; text-align: right;">
+    <td style="border: none; width: 100%; white-space: nowrap;">
       <img src="https://img.shields.io/badge/React_Native-666666?style=for-the-badge&logo=react&logoColor=white" alt="React Native"><img src="https://img.shields.io/badge/Expo-555555?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"><img src="https://img.shields.io/badge/EAS-444444?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"><img src="https://img.shields.io/badge/Tamagui-333333?style=for-the-badge&logoColor=white" alt="Tamagui"><img src="https://img.shields.io/badge/Gluestack-222222?style=for-the-badge&logoColor=white" alt="Gluestack"><img src="https://img.shields.io/badge/NativeWind-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind">
     </td>
   </tr>
   <tr>
     <td width="110" style="border: none; padding: 4px 0;"><strong>Frontend:</strong></td>
-    <td style="border: none; width: 100%; text-align: right;">
+    <td align="right" style="border: none; width: 100%;  white-space: nowrap;">
       <img src="https://img.shields.io/badge/HTML5-777777?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-666666?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white" alt="React"><img src="https://img.shields.io/badge/Next_JS-444444?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"><img src="https://img.shields.io/badge/Astro-333333?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"><img src="https://img.shields.io/badge/Radix_UI-222222?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"><img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
     </td>
   </tr>
   <tr>
-    <td width="110" style="border: none; padding: 8px 0;"><strong>Backend:</strong></td>
-    <td style="border: none; width: 100%; text-align: right;">
+    <td width="110" style="border: none; padding: 0;"><strong>Backend:</strong></td>
+    <td align="right" style="border: none; width: 100%;  white-space: nowrap;">
       <img src="https://img.shields.io/badge/Node.js-666666?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"><img src="https://img.shields.io/badge/Bun-555555?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"><img src="https://img.shields.io/badge/Serverless-444444?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"><img src="https://img.shields.io/badge/Deno-333333?style=for-the-badge&logo=deno&logoColor=white" alt="Deno"><img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"><img src="https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
     </td>
   </tr>
