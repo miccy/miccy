@@ -310,10 +310,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="./cv/cv-en.pdf">
-    <img src="https://img.shields.io/badge/⬇️_CV-🇬🇧-cccccc?style=for-the-badge&labelColor=cccccc&color=1d68dc" alt="English CV PDF" />
+    <img src="https://img.shields.io/badge/⬇️_CV-🇬🇧-cccccc?style=for-the-badge&labelColor=cccccc&color=1d68dc" alt="English CV" />
   </a>
   <a href="./cv/cv-cs.pdf">
-    <img src="https://img.shields.io/badge/⬇️_CV-🇨🇿-cccccc?style=for-the-badge&labelColor=cccccc&color=1d68dc" alt="Czech CV PDF" />
+    <img src="https://img.shields.io/badge/⬇️_CV-🇨🇿-cccccc?style=for-the-badge&labelColor=cccccc&color=1d68dc" alt="Czech CV" />
   </a>
 </div>
 
