@@ -322,32 +322,233 @@
   </div>
 </details>
 
-<details> 
+<details>
   <summary><b>💼 As4u.cz (2014 - 2018)</b></summary>
-<br>
-
-| Project                     | Year      | Stack                                                 |
-| --------------------------- | --------- | ----------------------------------------------------- |
-| Turnov v mobilu             | 2015-2024 | Expo, React Native, Supabase, Drizzle ORM             |
-| Praha 11                    | 2016-2024 | Expo, React Native, Supabase, Drizzle ORM             |
-| Cestovatelský fotodeník     | 2017-2023 | Expo, React Native                                    |
-| Vrbno v mobilu              | 2018-2023 | React Native (Android / iOS)                          |
-| Prostějov v mobilu          | 2018-2023 | Expo, React Native                                    |
-| Jablonec v mobilu           | 2014-2024 | Migration from Ionic/Cordova to React Native and Expo |
-| Litovel v mobilu            | 2016-2024 | React Native (Android / iOS)                          |
-| Šumperk v mobilu            | 2015-2023 | React Native and Expo                                 |
-| Jindřichův Hradec v mobilu  | 2015-2023 | Migration from Cordova to React Native and Expo       |
-| Kuřim v mobilu              | 2014-2023 | React Native and Expo                                 |
-| Poznej Hradec               | 2014-2023 | React Native (Android / iOS)                          |
-| BITVA 1866                  | 2016-2023 | Android/iOS                                           |
-| Dny Evropského Dědictví     | 2018-2022 | Expo, React Native                                    |
-| Textilní a oděvní dílna     | 2016      | Native Android (Java)                                 |
-| Kojetín v mobilu            | 2016-2020 | Expo, React Native                                    |
-| Týniště nad Orlicí          | 2017-2020 | Expo, React Native                                    |
-| Český ráj                   | 2016-2020 | Expo, React Native                                    |
-| Český systém kvality služeb | 2015      | Cordova (Android/iOS)                                 |
-| Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
-| Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
+  <br />
+  <table style="width:100%; border-collapse:collapse;">
+    <colgroup>
+      <col style="width:280px;" />
+      <col style="width:140px;" />
+      <col style="width:auto;" />
+    </colgroup>
+    <thead>
+      <tr>
+        <th align="left" style="border:none; padding:6px 0;">Project</th>
+        <th align="left" style="border:none; padding:6px 0;">Year</th>
+        <th align="left" style="border:none; padding:6px 0;">Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border:none; padding:6px 0;">Turnov v mobilu</td>
+        <td style="border:none; padding:6px 0;">2015–2024</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Supabase" height="18" src="https://img.shields.io/badge/Supabase-333?style=flat-square&logo=supabase&logoColor=white" />
+            <img alt="Drizzle ORM" height="18" src="https://img.shields.io/badge/Drizzle_ORM-555?style=flat-square" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Praha 11</td>
+        <td style="border:none; padding:6px 0;">2016–2024</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Supabase" height="18" src="https://img.shields.io/badge/Supabase-333?style=flat-square&logo=supabase&logoColor=white" />
+            <img alt="Drizzle ORM" height="18" src="https://img.shields.io/badge/Drizzle_ORM-555?style=flat-square" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Cestovatelský fotodeník</td>
+        <td style="border:none; padding:6px 0;">2017–2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Vrbno v mobilu</td>
+        <td style="border:none; padding:6px 0;">2018–2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Prostějov v mobilu</td>
+        <td style="border:none; padding:6px 0;">2018–2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Jablonec v mobilu</td>
+        <td style="border:none; padding:6px 0;">2014–2024</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Ionic" height="18" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
+            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Litovel v mobilu</td>
+        <td style="border:none; padding:6px 0;">2016–2024</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Šumperk v mobilu</td>
+        <td style="border:none; padding:6px 0;">2015–2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Jindřichův Hradec v mobilu</td>
+        <td style="border:none; padding:6px 0;">2015–2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Kuřim v mobilu</td>
+        <td style="border:none; padding:6px 0;">2014–2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Poznej Hradec</td>
+        <td style="border:none; padding:6px 0;">2014–2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">BITVA 1866</td>
+        <td style="border:none; padding:6px 0;">2016–2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Dny Evropského Dědictví</td>
+        <td style="border:none; padding:6px 0;">2018–2022</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Textilní a oděvní dílna</td>
+        <td style="border:none; padding:6px 0;">2016</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Java" height="18" src="https://img.shields.io/badge/Java-333?style=flat-square&logo=openjdk&logoColor=white" />
+            <img alt="Android" height="18" src="https://img.shields.io/badge/Android-555?style=flat-square&logo=android&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Kojetín v mobilu</td>
+        <td style="border:none; padding:6px 0;">2016–2020</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Týniště nad Orlicí</td>
+        <td style="border:none; padding:6px 0;">2017–2020</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Český ráj</td>
+        <td style="border:none; padding:6px 0;">2016–2020</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Český systém kvality služeb</td>
+        <td style="border:none; padding:6px 0;">2015</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Mladoboleslavsko</td>
+        <td style="border:none; padding:6px 0;">2015</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Ionic" height="18" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
+            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">Průvodce Libereckým krajem</td>
+        <td style="border:none; padding:6px 0;">2015</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
+            <img alt="Ionic" height="18" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
+            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </details>
 
 ---
