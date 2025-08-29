@@ -191,10 +191,10 @@
     </colgroup>
     <thead>
       <tr>
-        <th align="left" style="border:none; padding:6px 0;">Project</th>
-        <th align="left" style="border:none; padding:6px 0;">Client</th>
-        <th align="left" style="border:none; padding:6px 0;">Duration</th>
-        <th align="left" style="border:none; padding:6px 0;">Stack</th>
+        <th align="center" style="border:none; padding:6px 0;">Project</th>
+        <th align="center" style="border:none; padding:6px 0;">Client</th>
+        <th align="center" style="border:none; padding:6px 0;">Duration</th>
+        <th align="center" style="border:none; padding:6px 0;">Stack</th>
       </tr>
     </thead>
     <tbody>
@@ -210,9 +210,9 @@
         </td>
         <td valign="middle" style="border:none; padding:6px 0;">
           <span style="display:flex; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="20" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="20" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="REST API" height="20" src="https://img.shields.io/badge/REST_API-333?style=flat-square" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="REST API" height="24" src="https://img.shields.io/badge/REST_API-333?style=flat-square" />
           </span>
         </td>
       </tr>
@@ -226,10 +226,10 @@
         <td style="border:none; padding:6px 0;">2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="20" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Expo" height="20" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="Tamagui" height="20" src="https://img.shields.io/badge/Tamagui-333?style=flat-square" />
-            <img alt="Storybook" height="20" src="https://img.shields.io/badge/Storybook-555?style=flat-square&logo=storybook&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="Tamagui" height="24" src="https://img.shields.io/badge/Tamagui-333?style=flat-square" />
+            <img alt="Storybook" height="24" src="https://img.shields.io/badge/Storybook-555?style=flat-square&logo=storybook&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -243,11 +243,11 @@
         <td style="border:none; padding:6px 0;">03/2022 – 10/2022</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="20" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Expo" height="20" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="GraphQL" height="20" src="https://img.shields.io/badge/GraphQL-333?style=flat-square&logo=graphql&logoColor=white" />
-            <img alt="Apollo" height="20" src="https://img.shields.io/badge/Apollo-555?style=flat-square&logo=apollographql&logoColor=white" />
-            <img alt="MobX" height="20" src="https://img.shields.io/badge/MobX-444?style=flat-square&logo=mobx&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="GraphQL" height="24" src="https://img.shields.io/badge/GraphQL-333?style=flat-square&logo=graphql&logoColor=white" />
+            <img alt="Apollo" height="24" src="https://img.shields.io/badge/Apollo-555?style=flat-square&logo=apollographql&logoColor=white" />
+            <img alt="MobX" height="24" src="https://img.shields.io/badge/MobX-444?style=flat-square&logo=mobx&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -261,10 +261,10 @@
         <td style="border:none; padding:6px 0;">2022</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; flex-wrap:wrap; gap:4px;">
-            <img alt="React" height="20" src="https://img.shields.io/badge/React-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Strapi" height="20" src="https://img.shields.io/badge/Strapi-555?style=flat-square&logo=strapi&logoColor=white" />
-            <img alt="Tailwind" height="20" src="https://img.shields.io/badge/Tailwind-333?style=flat-square&logo=tailwindcss&logoColor=white" />
-            <img alt="Redux" height="20" src="https://img.shields.io/badge/Redux-444?style=flat-square&logo=redux&logoColor=white" />
+            <img alt="React" height="24" src="https://img.shields.io/badge/React-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Strapi" height="24" src="https://img.shields.io/badge/Strapi-555?style=flat-square&logo=strapi&logoColor=white" />
+            <img alt="Tailwind" height="24" src="https://img.shields.io/badge/Tailwind-333?style=flat-square&logo=tailwindcss&logoColor=white" />
+            <img alt="Redux" height="24" src="https://img.shields.io/badge/Redux-444?style=flat-square&logo=redux&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -278,9 +278,9 @@
         <td style="border:none; padding:6px 0;">05/2021 – 12/2022</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="20" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Expo" height="20" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="Zustand" height="20" src="https://img.shields.io/badge/Zustand-333?style=flat-square" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="Zustand" height="24" src="https://img.shields.io/badge/Zustand-333?style=flat-square" />
           </span>
         </td>
       </tr>
@@ -294,9 +294,9 @@
         <td style="border:none; padding:6px 0;">2021</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="20" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Maps" height="20" src="https://img.shields.io/badge/Maps-555?style=flat-square" />
-            <img alt="REST API" height="20" src="https://img.shields.io/badge/REST_API-333?style=flat-square" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Maps" height="24" src="https://img.shields.io/badge/Maps-555?style=flat-square" />
+            <img alt="REST API" height="24" src="https://img.shields.io/badge/REST_API-333?style=flat-square" />
           </span>
         </td>
       </tr>
@@ -310,10 +310,10 @@
         <td style="border:none; padding:6px 0;">2019 – 2021</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; flex-wrap:wrap; gap:4px;">
-            <img alt="React" height="20" src="https://img.shields.io/badge/React-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="React Native" height="20" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Expo" height="20" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="Firebase" height="20" src="https://img.shields.io/badge/Firebase-333?style=flat-square&logo=firebase&logoColor=white" />
+            <img alt="React" height="24" src="https://img.shields.io/badge/React-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="Firebase" height="24" src="https://img.shields.io/badge/Firebase-333?style=flat-square&logo=firebase&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -345,10 +345,10 @@
         <td style="border:none; padding:6px 0;">2015–2024</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Supabase" height="18" src="https://img.shields.io/badge/Supabase-333?style=flat-square&logo=supabase&logoColor=white" />
-            <img alt="Drizzle ORM" height="18" src="https://img.shields.io/badge/Drizzle_ORM-555?style=flat-square" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Supabase" height="24" src="https://img.shields.io/badge/Supabase-333?style=flat-square&logo=supabase&logoColor=white" />
+            <img alt="Drizzle ORM" height="24" src="https://img.shields.io/badge/Drizzle_ORM-555?style=flat-square" />
           </span>
         </td>
       </tr>
@@ -357,10 +357,10 @@
         <td style="border:none; padding:6px 0;">2016–2024</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Supabase" height="18" src="https://img.shields.io/badge/Supabase-333?style=flat-square&logo=supabase&logoColor=white" />
-            <img alt="Drizzle ORM" height="18" src="https://img.shields.io/badge/Drizzle_ORM-555?style=flat-square" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Supabase" height="24" src="https://img.shields.io/badge/Supabase-333?style=flat-square&logo=supabase&logoColor=white" />
+            <img alt="Drizzle ORM" height="24" src="https://img.shields.io/badge/Drizzle_ORM-555?style=flat-square" />
           </span>
         </td>
       </tr>
@@ -369,8 +369,8 @@
         <td style="border:none; padding:6px 0;">2017–2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -379,8 +379,8 @@
         <td style="border:none; padding:6px 0;">2018–2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Android/iOS" height="24" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -389,8 +389,8 @@
         <td style="border:none; padding:6px 0;">2018–2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -399,10 +399,10 @@
         <td style="border:none; padding:6px 0;">2014–2024</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Ionic" height="18" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
-            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="Ionic" height="24" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
+            <img alt="Cordova" height="24" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -411,8 +411,8 @@
         <td style="border:none; padding:6px 0;">2016–2024</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Android/iOS" height="24" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -421,8 +421,8 @@
         <td style="border:none; padding:6px 0;">2015–2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -431,9 +431,9 @@
         <td style="border:none; padding:6px 0;">2015–2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="Cordova" height="24" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -442,8 +442,8 @@
         <td style="border:none; padding:6px 0;">2014–2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -452,8 +452,8 @@
         <td style="border:none; padding:6px 0;">2014–2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
-            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Android/iOS" height="24" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -462,7 +462,7 @@
         <td style="border:none; padding:6px 0;">2016–2023</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+            <img alt="Android/iOS" height="24" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -471,8 +471,8 @@
         <td style="border:none; padding:6px 0;">2018–2022</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -481,8 +481,8 @@
         <td style="border:none; padding:6px 0;">2016</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Java" height="18" src="https://img.shields.io/badge/Java-333?style=flat-square&logo=openjdk&logoColor=white" />
-            <img alt="Android" height="18" src="https://img.shields.io/badge/Android-555?style=flat-square&logo=android&logoColor=white" />
+            <img alt="Java" height="24" src="https://img.shields.io/badge/Java-333?style=flat-square&logo=openjdk&logoColor=white" />
+            <img alt="Android" height="24" src="https://img.shields.io/badge/Android-555?style=flat-square&logo=android&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -491,8 +491,8 @@
         <td style="border:none; padding:6px 0;">2016–2020</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -501,8 +501,8 @@
         <td style="border:none; padding:6px 0;">2017–2020</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -511,8 +511,8 @@
         <td style="border:none; padding:6px 0;">2016–2020</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
-            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="24" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -521,8 +521,8 @@
         <td style="border:none; padding:6px 0;">2015</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
-            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+            <img alt="Cordova" height="24" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="Android/iOS" height="24" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -531,9 +531,9 @@
         <td style="border:none; padding:6px 0;">2015</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Ionic" height="18" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
-            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
-            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+            <img alt="Ionic" height="24" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
+            <img alt="Cordova" height="24" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="Android/iOS" height="24" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
           </span>
         </td>
       </tr>
@@ -542,9 +542,9 @@
         <td style="border:none; padding:6px 0;">2015</td>
         <td style="border:none; padding:6px 0;">
           <span style="display:flex; justify-content:flex-end; flex-wrap:wrap; gap:4px;">
-            <img alt="Ionic" height="18" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
-            <img alt="Cordova" height="18" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
-            <img alt="Android/iOS" height="18" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
+            <img alt="Ionic" height="24" src="https://img.shields.io/badge/Ionic-555?style=flat-square&logo=ionic&logoColor=white" />
+            <img alt="Cordova" height="24" src="https://img.shields.io/badge/Cordova-333?style=flat-square&logo=apachecordova&logoColor=white" />
+            <img alt="Android/iOS" height="24" src="https://img.shields.io/badge/Android%2FiOS-555?style=flat-square&logo=android&logoColor=white" />
           </span>
         </td>
       </tr>
