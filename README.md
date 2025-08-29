@@ -325,6 +325,7 @@
 <details>
   <summary><b>💼 As4u.cz (2014 - 2018)</b></summary>
   <br />
+  <div align="center">
   <table style="width:100%; border-collapse:collapse;">
     <colgroup>
       <col style="width:280px;" />
@@ -333,9 +334,9 @@
     </colgroup>
     <thead>
       <tr>
-        <th align="left" style="border:none; padding:6px 0;">Project</th>
-        <th align="left" style="border:none; padding:6px 0;">Year</th>
-        <th align="left" style="border:none; padding:6px 0;">Stack</th>
+        <th align="center" style="border:none; padding:6px 0;">Project</th>
+        <th align="center" style="border:none; padding:6px 0;">Year</th>
+        <th align="center" style="border:none; padding:6px 0;">Stack</th>
       </tr>
     </thead>
     <tbody>
@@ -549,6 +550,7 @@
       </tr>
     </tbody>
   </table>
+  </div>
 </details>
 
 ---
