@@ -37,8 +37,8 @@
 <div align="center">
 <table style="width: auto; margin: 0 auto; border-collapse: collapse;">
   <tr>
-    <td width="110" align="left"><strong>Languages:</strong></td>
-    <td width="100%" align="right">
+    <td width="110" align="left" valign="middle"><strong>Languages:</strong></td>
+    <td width="100%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
     </td>
   </tr>
