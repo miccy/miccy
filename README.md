@@ -37,23 +37,20 @@
 <div align="center">
 <table style="width: auto; margin: 0 auto; border-collapse: collapse;">
   <tr>
-    <td width="110" align="left" valign="middle"><strong>Languages:</strong></td>
-    <td width="100%" align="right" valign="middle">
+    <td width="110" align="left"><strong>Languages:</strong></td>
+    <td width="100%" align="right">
       <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
     </td>
   </tr>
   <tr>
     <td width="110" align="left"><strong>Mobile:</strong></td>
-    <td width="100%" style="vertical-align: middle;">
-    <span style="display:flex; align-items:center; justify-content:flex-end; flex-wrap:wrap; gap:6px;">
+    <td width="100%" align="right">
       <img src="https://img.shields.io/badge/React_Native-666666?style=for-the-badge&logo=react&logoColor=white" alt="React Native"><img src="https://img.shields.io/badge/Expo-555555?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"><img src="https://img.shields.io/badge/EAS-444444?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"><img src="https://img.shields.io/badge/Tamagui-333333?style=for-the-badge&logoColor=white" alt="Tamagui"><img src="https://img.shields.io/badge/Gluestack-222222?style=for-the-badge&logoColor=white" alt="Gluestack"><img src="https://img.shields.io/badge/NativeWind-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind">
-    </span>
     </td>
   </tr>
   <tr>
     <td width="110" align="left"><strong>Frontend:</strong></td>
-    <td width="100%" align="right"
-      style="vertical-align: middle; font-size: 0; white-space: nowrap;">
+    <td width="100%" align="right">
       <img src="https://img.shields.io/badge/HTML5-777777?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-666666?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white" alt="React"><img src="https://img.shields.io/badge/Next_JS-444444?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"><img src="https://img.shields.io/badge/Astro-333333?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"><img src="https://img.shields.io/badge/Radix_UI-222222?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"><img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
     </td>
   </tr>
@@ -150,25 +147,28 @@
 ## 👨‍🎓 Education
 
 <details> 
-  <summary><b>🎓 2010 - 2014: Technical University of Liberec</b></summary>
-<br>
-  
+  <summary>
+    <b>🎓 2010 - 2014: Technical University of Liberec</b>
+  </summary>
+
 - Faculty of Electrical Engineering and Computer Science
 - Field of Information Technology
 - Incomplete
 </details>
 
 <details> 
-  <summary><b>🎓 2008 - 2010: Czech Technical University in Prague</b></summary>
-<br>
+  <summary>
+    <b>🎓 2008 - 2010: Czech Technical University in Prague</b>
+  </summary>
   
 - Faculty of Electrical Engineering
 - Transferred to TUL
 </details>
 
 <details> 
-  <summary><b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b></summary>
-<br>
+  <summary>
+    <b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b>
+  </summary>
   
 - Field of Electrical Engineering
 - Communication Technology
