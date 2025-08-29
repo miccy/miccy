@@ -178,19 +178,147 @@
 
 ## 📚 Work Experience and Projects
 
-<details> 
+<details>
   <summary><b>💼 Freelancer (2019 - Present)</b></summary>
-<br>
+  <br />
 
-| Project                                                    | Client                                             | Duration          | Stack                                  |
-| ---------------------------------------------------------- | -------------------------------------------------- | ----------------- | -------------------------------------- |
-| [SPUD Now](https://spudnow.co.uk/)                         | DownloDev                                          | 03/2023 - 08/2024 | Expo, React Native, RestAPI            |
-| [Tlappka](https://www.tlappka.cz/)                         | [Veevoy](https://veevoy.com)                       | 2023              | React Native, Expo, Tamagui, Storybook |
-| [Union](https://www.union.sk/union-zp-aplikacia-na-mobile) | [BOOTIQ](https://www.bootiq.io)                    | 03/2022 - 10/2022 | RN, Expo, GraphQL, Apollo, MobX        |
-| [myPlann](https://www.sabservis.cz/myplann)                | [SABService](https://www.sabservis.cz)             | 2022              | ReactJS, Strapi, Tailwind, Redux       |
-| [Mamio](https://www.mamio-app.com)                         | [Eliaš IT Solutions](https://elias-itsolutions.sk) | 05/2021 - 12/2022 | React Native, Expo, Zustand            |
-| [SharkTracker](https://www.ocearch.org/tracker/?)          | [Mapotic](https://www.mapotic.cz)                  | 2021              | React Native, Maps, RestAPI            |
-| Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2019 - 2021       | ReactJS, React Native, Expo, Firebase  |
+  <table style="width:100%; border-collapse:collapse;">
+    <colgroup>
+      <col style="width:260px;" />
+      <col style="width:220px;" />
+      <col style="width:140px;" />
+      <col style="width:auto;" />
+    </colgroup>
+    <thead>
+      <tr>
+        <th align="left" style="border:none; padding:6px 0;">Project</th>
+        <th align="left" style="border:none; padding:6px 0;">Client</th>
+        <th align="left" style="border:none; padding:6px 0;">Duration</th>
+        <th align="left" style="border:none; padding:6px 0;">Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="middle" style="border:none; padding:6px 0;">
+          <a href="https://spudnow.co.uk/">SPUD Now</a>
+        </td>
+        <td valign="middle" style="border:none; padding:6px 0;">
+          DownloDev
+        </td>
+        <td valign="middle" style="border:none; padding:6px 0;">
+          03/2023 – 08/2024
+        </td>
+        <td valign="middle" style="border:none; padding:6px 0;">
+          <span style="display:flex; flex-wrap:wrap; gap:4px;">
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="REST API" height="18" src="https://img.shields.io/badge/REST_API-333?style=flat-square" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.tlappka.cz/">Tlappka</a>
+        </td>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://veevoy.com">Veevoy</a>
+        </td>
+        <td style="border:none; padding:6px 0;">2023</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="Tamagui" height="18" src="https://img.shields.io/badge/Tamagui-333?style=flat-square" />
+            <img alt="Storybook" height="18" src="https://img.shields.io/badge/Storybook-555?style=flat-square&logo=storybook&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.union.sk/union-zp-aplikacia-na-mobile">Union</a>
+        </td>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.bootiq.io">BOOTIQ</a>
+        </td>
+        <td style="border:none; padding:6px 0;">03/2022 – 10/2022</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="GraphQL" height="18" src="https://img.shields.io/badge/GraphQL-333?style=flat-square&logo=graphql&logoColor=white" />
+            <img alt="Apollo" height="18" src="https://img.shields.io/badge/Apollo-555?style=flat-square&logo=apollographql&logoColor=white" />
+            <img alt="MobX" height="18" src="https://img.shields.io/badge/MobX-444?style=flat-square&logo=mobx&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.sabservis.cz/myplann">myPlann</a>
+        </td>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.sabservis.cz">SABService</a>
+        </td>
+        <td style="border:none; padding:6px 0;">2022</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; flex-wrap:wrap; gap:4px;">
+            <img alt="React" height="18" src="https://img.shields.io/badge/React-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Strapi" height="18" src="https://img.shields.io/badge/Strapi-555?style=flat-square&logo=strapi&logoColor=white" />
+            <img alt="Tailwind" height="18" src="https://img.shields.io/badge/Tailwind-333?style=flat-square&logo=tailwindcss&logoColor=white" />
+            <img alt="Redux" height="18" src="https://img.shields.io/badge/Redux-444?style=flat-square&logo=redux&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.mamio-app.com">Mamio</a>
+        </td>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://elias-itsolutions.sk">Eliaš IT Solutions</a>
+        </td>
+        <td style="border:none; padding:6px 0;">05/2021 – 12/2022</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="Zustand" height="18" src="https://img.shields.io/badge/Zustand-333?style=flat-square" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.ocearch.org/tracker/?">SharkTracker</a>
+        </td>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.mapotic.cz">Mapotic</a>
+        </td>
+        <td style="border:none; padding:6px 0;">2021</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; flex-wrap:wrap; gap:4px;">
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Maps" height="18" src="https://img.shields.io/badge/Maps-555?style=flat-square" />
+            <img alt="REST API" height="18" src="https://img.shields.io/badge/REST_API-333?style=flat-square" />
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="border:none; padding:6px 0;">
+          Keys of the Treasure
+        </td>
+        <td style="border:none; padding:6px 0;">
+          <a href="https://www.sundisk.cz/cs/">Sundisk</a>
+        </td>
+        <td style="border:none; padding:6px 0;">2019 – 2021</td>
+        <td style="border:none; padding:6px 0;">
+          <span style="display:flex; flex-wrap:wrap; gap:4px;">
+            <img alt="React" height="18" src="https://img.shields.io/badge/React-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="React Native" height="18" src="https://img.shields.io/badge/React_Native-444?style=flat-square&logo=react&logoColor=white" />
+            <img alt="Expo" height="18" src="https://img.shields.io/badge/Expo-555?style=flat-square&logo=expo&logoColor=white" />
+            <img alt="Firebase" height="18" src="https://img.shields.io/badge/Firebase-333?style=flat-square&logo=firebase&logoColor=white" />
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </details>
 
 <details> 
