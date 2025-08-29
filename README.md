@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td width="110" align="left"><strong>Mobile:</strong></td>
-    <td width="100%" align="right" style="vertical-align: middle; line-height: 0;">
+    <td width="100%" style="vertical-align: middle;">
     <span style="display:flex; align-items:center; justify-content:flex-end; flex-wrap:wrap; gap:6px;">
       <img src="https://img.shields.io/badge/React_Native-666666?style=for-the-badge&logo=react&logoColor=white" alt="React Native"><img src="https://img.shields.io/badge/Expo-555555?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"><img src="https://img.shields.io/badge/EAS-444444?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"><img src="https://img.shields.io/badge/Tamagui-333333?style=for-the-badge&logoColor=white" alt="Tamagui"><img src="https://img.shields.io/badge/Gluestack-222222?style=for-the-badge&logoColor=white" alt="Gluestack"><img src="https://img.shields.io/badge/NativeWind-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind">
     </span>
