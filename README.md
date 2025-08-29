@@ -52,7 +52,8 @@
   </tr>
   <tr>
     <td width="110" align="left"><strong>Frontend:</strong></td>
-    <td width="100%" align="right">
+    <td width="100%" align="right"
+      style="vertical-align: middle; font-size: 0; white-space: nowrap;">
       <img src="https://img.shields.io/badge/HTML5-777777?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-666666?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white" alt="React"><img src="https://img.shields.io/badge/Next_JS-444444?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"><img src="https://img.shields.io/badge/Astro-333333?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"><img src="https://img.shields.io/badge/Radix_UI-222222?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"><img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
     </td>
   </tr>
