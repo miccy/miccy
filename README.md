@@ -640,7 +640,7 @@
 ## 💼 Let's Connect!
 
 <div align="center" style="margin-top: 30px; margin-bottom: 0px;">
-  <a href="mailto:info@miccy.dev">
+  <a href="mailto:collab@miccy.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/miccy">
