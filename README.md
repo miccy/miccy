@@ -199,6 +199,42 @@
     </td>
   </tr>
 </table>
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td style="width:28%; min-width:220px; vertical-align:middle; text-align:left;">
+      <strong>Scripting Langs:</strong>
+    </td>
+    <td style="vertical-align:middle; text-align:right;">
+      <div style="display:flex; align-items:center; justify-content:flex-end; flex-wrap:wrap; gap:0;">
+        <a href="https://www.typescriptlang.org" target="_blank"
+           style="text-decoration:none; display:inline-block; line-height:0;">
+          <img src="https://img.shields.io/badge/TypeScript-555?style=for-the-badge&logo=typescript&logoColor=white"
+               alt="TypeScript" style="display:block; height:28px;">
+        </a>
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"
+           style="text-decoration:none; display:inline-block; line-height:0;">
+          <img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white"
+               alt="JavaScript" style="display:block; height:28px;">
+        </a>
+        <a href="https://daringfireball.net/projects/markdown/" target="_blank"
+           style="text-decoration:none; display:inline-block; line-height:0;">
+          <img src="https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white"
+               alt="Markdown" style="display:block; height:28px;">
+        </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"
+           style="text-decoration:none; display:inline-block; line-height:0;">
+          <img src="https://img.shields.io/badge/Bash-222?style=for-the-badge&logo=gnubash&logoColor=white"
+               alt="Bash" style="display:block; height:28px;">
+        </a>
+        <a href="https://regex101.com" target="_blank"
+           style="text-decoration:none; display:inline-block; line-height:0;">
+          <img src="https://img.shields.io/badge/Regex-111?style=for-the-badge&logoColor=white"
+               alt="Regex" style="display:block; height:28px;">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 <table width="100%" style="width: auto; margin: 0 auto; border-collapse: collapse;">
     <td width="300" align="left">
       <strong>Languages:</strong>
