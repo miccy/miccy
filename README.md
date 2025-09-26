@@ -43,361 +43,281 @@
   <summary><b>📦 Full Tech Stack - Categorized...</b></summary>
 <br>
 <div align="center">
-<table width="100%">
-<!-- LANGUAGES: Core & Scripting -->
-    <tr>
-      <td width="300" align="left"><strong>Scripting Langs:</strong></td>
-      <td width="100%" align="right">
-        <a href="https://www.typescriptlang.org" target="_blank">
-          <img src="https://img.shields.io/badge/TypeScript-777777?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        </a>
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-          <img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-        </a>
-        <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-          <img src="https://img.shields.io/badge/Markdown-333333?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank">
-          <img src="https://img.shields.io/badge/Bash-222?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-        </a>
-        <a href="https://regex101.com" target="_blank">
-          <img src="https://img.shields.io/badge/Regex-111?style=for-the-badge&logoColor=white" alt="Regex">
-        </a>
-      </td>
-    </tr>
-  <tr>
-  <!-- LANGUAGES: Systems & Compiled -->
-    <tr>
-      <td width="300" align="left"><strong>Systems & Compiled Langs:</strong></td>
-      <td align="right">
-        <a href="https://www.rust-lang.org" target="_blank"><img src="https://img.shields.io/badge/Rust-777777?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></a>
-        <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-666666?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
-        <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-        <a href="https://crystal-lang.org" target="_blank"><img src="https://img.shields.io/badge/Crystal-444444?style=for-the-badge&logo=crystal&logoColor=white" alt="Crystal"></a>
-        <a href="https://webassembly.org" target="_blank"><img src="https://img.shields.io/badge/WASM-333333?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"></a>
-      </td>
-    </tr>
-    <!-- LANGUAGES: Domain-Specific -->
-    <tr>
-      <td width="300" align="left"><strong>Domain‑Specific Langs:</strong></td>
-      <td align="right">
-        <a href="https://www.postgresql.org/docs/sql.html" target="_blank"><img src="https://img.shields.io/badge/SQL-777777?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
-        <a href="https://soliditylang.org" target="_blank"><img src="https://img.shields.io/badge/Solidity-666666?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"></a>
-        <a href="https://www.lua.org" target="_blank"><img src="https://img.shields.io/badge/Lua-555555?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></a>
-      </td>
-    </tr>
-</table>
-<table width="100%">
-  <!-- LANGUAGES: Core & Scripting -->
-  <tr>
-    <td width="300" align="left"><strong>Scripting Langs:</strong></td>
-    <td width="100%" align="right" style="vertical-align: middle;">
-      <!-- FLEX WRAPPER = vertikální střed i s <a><img> -->
-      <div style="display:flex; align-items:center; justify-content:flex-end; gap:8px; flex-wrap:wrap;">
-        <a href="https://www.typescriptlang.org" target="_blank">
-          <img src="https://img.shields.io/badge/TypeScript-777777?style=for-the-badge&logo=typescript&logoColor=white"
-               alt="TypeScript" style="display:block; height:28px;">
-        </a>
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-          <img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white"
-               alt="JavaScript" style="display:block; height:28px;">
-        </a>
-        <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-          <img src="https://img.shields.io/badge/Markdown-333333?style=for-the-badge&logo=markdown&logoColor=white"
-               alt="Markdown" style="display:block; height:28px;">
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank">
-          <img src="https://img.shields.io/badge/Bash-222?style=for-the-badge&logo=gnubash&logoColor=white"
-               alt="Bash" style="display:block; height:28px;">
-        </a>
-        <a href="https://regex101.com" target="_blank">
-          <img src="https://img.shields.io/badge/Regex-111?style=for-the-badge&logoColor=white"
-               alt="Regex" style="display:block; height:28px;">
-        </a>
-      </div>
-    </td>
-  </tr>
-
-  <!-- LANGUAGES: Systems & Compiled -->
-  <tr>
-    <td width="300" align="left"><strong>Systems & Compiled Langs:</strong></td>
-    <td align="right" style="vertical-align: middle;">
-      <div style="display:flex; align-items:center; justify-content:flex-end; gap:8px; flex-wrap:wrap;">
-        <a href="https://www.rust-lang.org" target="_blank"><img src="https://img.shields.io/badge/Rust-777777?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="display:block; height:28px;"></a>
-        <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-666666?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="display:block; height:28px;"></a>
-        <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="display:block; height:28px;"></a>
-        <a href="https://crystal-lang.org" target="_blank"><img src="https://img.shields.io/badge/Crystal-444444?style=for-the-badge&logo=crystal&logoColor=white" alt="Crystal" style="display:block; height:28px;"></a>
-        <a href="https://webassembly.org" target="_blank"><img src="https://img.shields.io/badge/WASM-333333?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" style="display:block; height:28px;"></a>
-      </div>
-    </td>
-  </tr>
-
-  <!-- LANGUAGES: Domain-Specific -->
-  <tr>
-    <td width="300" align="left"><strong>Domain-Specific Langs:</strong></td>
-    <td align="right" style="vertical-align: middle;">
-      <div style="display:flex; align-items:center; justify-content:flex-end; gap:8px; flex-wrap:wrap;">
-        <a href="https://www.postgresql.org/docs/sql.html" target="_blank"><img src="https://img.shields.io/badge/SQL-777777?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="display:block; height:28px;"></a>
-        <a href="https://soliditylang.org" target="_blank"><img src="https://img.shields.io/badge/Solidity-666666?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="display:block; height:28px;"></a>
-        <a href="https://www.lua.org" target="_blank"><img src="https://img.shields.io/badge/Lua-555555?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" style="display:block; height:28px;"></a>
-      </div>
-    </td>
-  </tr>
-</table>
-<table width="100%" style="table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td width="28%" align="left" style="vertical-align:middle;">
-      <strong>Scripting Langs:</strong>
-    </td>
-    <td width="72%" align="right" style="vertical-align:middle;">
-      <div style="display:flex; align-items:center; justify-content:flex-end; flex-wrap:wrap; gap:0;">
-        <a href="https://www.typescriptlang.org" target="_blank">
-          <img src="https://img.shields.io/badge/TypeScript-555?style=for-the-badge&logo=typescript&logoColor=white"
-               alt="TypeScript" style="display:block; height:28px;">
-        </a>
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-          <img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white"
-               alt="JavaScript" style="display:block; height:28px;">
-        </a>
-        <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-          <img src="https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white"
-               alt="Markdown" style="display:block; height:28px;">
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank">
-          <img src="https://img.shields.io/badge/Bash-222?style=for-the-badge&logo=gnubash&logoColor=white"
-               alt="Bash" style="display:block; height:28px;">
-        </a>
-        <a href="https://regex101.com" target="_blank">
-          <img src="https://img.shields.io/badge/Regex-111?style=for-the-badge&logoColor=white"
-               alt="Regex" style="display:block; height:28px;">
-        </a>
-      </div>
-    </td>
-  </tr>
-    <tr>
-    <td width="28%" align="left" style="vertical-align:middle;">
-      <strong>Systems & Compiled Langs:</strong>
-    </td>
-    <td width="72%" align="right" style="vertical-align:middle;">
-      <div style="display:flex; align-items:center; justify-content:flex-end; flex-wrap:wrap; gap:0;">
-        <a href="https://www.rust-lang.org" target="_blank">
-          <img src="https://img.shields.io/badge/Rust-555?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="display:block; height:28px;">
-        </a>
-        <a href="https://go.dev" target="_blank">
-          <img src="https://img.shields.io/badge/Go-444?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="display:block; height:28px;">
-        </a>
-        <a href="https://www.java.com" target="_blank">
-          <img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="display:block; height:28px;">
-        </a>
-        <a href="https://crystal-lang.org" target="_blank">
-          <img src="https://img.shields.io/badge/Crystal-222?style=for-the-badge&logo=crystal&logoColor=white" alt="Crystal" style="display:block; height:28px;">
-        </a>
-        <a href="https://webassembly.org" target="_blank">
-          <img src="https://img.shields.io/badge/WASM-111?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" style="display:block; height:28px;">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td style="width:28%; min-width:220px; vertical-align:middle; text-align:left;">
-      <strong>Scripting Langs:</strong>
-    </td>
-    <td style="vertical-align:middle; text-align:right;">
-      <div style="display:flex; align-items:center; justify-content:flex-end; flex-wrap:wrap; gap:0;">
-        <a href="https://www.typescriptlang.org" target="_blank"
-           style="text-decoration:none; display:inline-block; line-height:0;">
-          <img src="https://img.shields.io/badge/TypeScript-555?style=for-the-badge&logo=typescript&logoColor=white"
-               alt="TypeScript" style="display:block; height:28px;">
-        </a>
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"
-           style="text-decoration:none; display:inline-block; line-height:0;">
-          <img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white"
-               alt="JavaScript" style="display:block; height:28px;">
-        </a>
-        <a href="https://daringfireball.net/projects/markdown/" target="_blank"
-           style="text-decoration:none; display:inline-block; line-height:0;">
-          <img src="https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white"
-               alt="Markdown" style="display:block; height:28px;">
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"
-           style="text-decoration:none; display:inline-block; line-height:0;">
-          <img src="https://img.shields.io/badge/Bash-222?style=for-the-badge&logo=gnubash&logoColor=white"
-               alt="Bash" style="display:block; height:28px;">
-        </a>
-        <a href="https://regex101.com" target="_blank"
-           style="text-decoration:none; display:inline-block; line-height:0;">
-          <img src="https://img.shields.io/badge/Regex-111?style=for-the-badge&logoColor=white"
-               alt="Regex" style="display:block; height:28px;">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-<table width="100%">
-  <tr>
-    <td width="28%" align="left" valign="middle"><strong>Scripting Langs:</strong></td>
-    <td align="right" valign="middle">
-      <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-555?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"></a><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="28"></a><a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" height="28"></a><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-222?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" height="28"></a><a href="https://regex101.com" target="_blank"><img src="https://img.shields.io/badge/Regex-111?style=for-the-badge&logoColor=white" alt="Regex" height="28"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" align="left" valign="middle"><strong>Systems & Compiled Langs:</strong></td>
-    <td align="right" valign="middle">
-      <a href="https://www.rust-lang.org" target="_blank"><img src="https://img.shields.io/badge/Rust-555?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="28"></a><a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-444?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="28"></a><a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="28"></a><a href="https://crystal-lang.org" target="_blank"><img src="https://img.shields.io/badge/Crystal-222?style=for-the-badge&logo=crystal&logoColor=white" alt="Crystal" height="28"></a><a href="https://webassembly.org" target="_blank"><img src="https://img.shields.io/badge/WASM-111?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM" height="28"></a>
-    </td>
-  </tr>
-</table>
-<table width="100%">
-  <tr width="100%">
-    <td width="28%" align="left" valign="middle"><strong>Scripting Langs:</strong></td>
-    <td align="right" valign="middle">
-      <a href="https://www.typescriptlang.org" target="_blank">
-        <img src="https://img.shields.io/badge/TypeScript-555?style=for-the-badge&logo=typescript&logoColor=white"
-             alt="TypeScript" height="28" align="absmiddle">
-      </a><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white"
-             alt="JavaScript" height="28" align="absmiddle">
-      </a><a href="https://daringfireball.net/projects/markdown/" target="_blank">
-        <img src="https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white"
-             alt="Markdown" height="28" align="absmiddle">
-      </a><a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://img.shields.io/badge/Bash-222?style=for-the-badge&logo=gnubash&logoColor=white"
-             alt="Bash" height="28" align="absmiddle">
-      </a><a href="https://regex101.com" target="_blank">
-        <img src="https://img.shields.io/badge/Regex-111?style=for-the-badge&logoColor=white"
-             alt="Regex" height="28" align="absmiddle">
-      </a>
-    </td>
-  </tr>
-
-  <tr width="100%">
-    <td width="28%" align="left" valign="middle"><strong>Systems & Compiled Langs:</strong></td>
-    <td align="right" valign="middle">
-      <a href="https://www.rust-lang.org" target="_blank">
-        <img src="https://img.shields.io/badge/Rust-555?style=for-the-badge&logo=rust&logoColor=white"
-             alt="Rust" height="28" align="absmiddle">
-      </a><a href="https://go.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Go-444?style=for-the-badge&logo=go&logoColor=white"
-             alt="Go" height="28" align="absmiddle">
-      </a><a href="https://www.java.com" target="_blank">
-        <img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white"
-             alt="Java" height="28" align="absmiddle">
-      </a><a href="https://crystal-lang.org" target="_blank">
-        <img src="https://img.shields.io/badge/Crystal-222?style=for-the-badge&logo=crystal&logoColor=white"
-             alt="Crystal" height="28" align="absmiddle">
-      </a><a href="https://webassembly.org" target="_blank">
-        <img src="https://img.shields.io/badge/WASM-111?style=for-the-badge&logo=webassembly&logoColor=white"
-             alt="WASM" height="28" align="absmiddle">
-      </a>
-    </td>
-  </tr>
-</table>
 <table width="100%" style="width: auto; margin: 0 auto; border-collapse: collapse;">
-    <td width="300" align="left">
-      <strong>Languages:</strong>
-    </td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-    </td>
-  </tr>
+  <!-- Systems & Compiled -->
   <tr>
-    <td width="300" align="left"><strong>Mobile:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/React_Native-666666?style=for-the-badge&logo=react&logoColor=white" alt="React Native"><img src="https://img.shields.io/badge/Expo-555555?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"><img src="https://img.shields.io/badge/EAS-444444?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"><img src="https://img.shields.io/badge/Tamagui-333333?style=for-the-badge&logoColor=white" alt="Tamagui"><img src="https://img.shields.io/badge/Gluestack-222222?style=for-the-badge&logoColor=white" alt="Gluestack"><img src="https://img.shields.io/badge/NativeWind-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind">
+    <td width="28%" align="left" valign="middle"><strong>Systems & Compiled:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://www.rust-lang.org" target="_blank"><img src="https://img.shields.io/badge/Rust-555?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="28" align="absmiddle"></a><a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-444?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="28" align="absmiddle"></a><a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="28" align="absmiddle"></a><a href="https://crystal-lang.org" target="_blank"><img src="https://img.shields.io/badge/Crystal-222?style=for-the-badge&logo=crystal&logoColor=white" alt="Crystal" height="28" align="absmiddle"></a><a href="https://webassembly.org" target="_blank"><img src="https://img.shields.io/badge/WASM-111?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM" height="28" align="absmiddle"></a>
     </td>
   </tr>
+  <!-- Runtimes -->
+<tr>
+  <td width="28%" align="left" valign="middle"><strong>Runtimes:</strong></td>
+  <td align="right" valign="middle">
+    <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-555?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28" align="absmiddle"></a><a href="https://deno.com" target="_blank"><img src="https://img.shields.io/badge/Deno-444?style=for-the-badge&logo=deno&logoColor=white" alt="Deno" height="28" align="absmiddle"></a><a href="https://bun.sh" target="_blank"><img src="https://img.shields.io/badge/Bun-333?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" height="28" align="absmiddle"></a>
+  </td>
+</tr>
+
+<!-- Package Mgmt -->
+<tr>
+  <td width="28%" align="left" valign="middle"><strong>Package Mgmt:</strong></td>
+  <td align="right" valign="middle">
+    <a href="https://pnpm.io" target="_blank"><img src="https://img.shields.io/badge/pnpm-555?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" height="28" align="absmiddle"></a><a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/npm-444?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="28" align="absmiddle"></a>
+  </td>
+</tr>
+
+<!-- Terminal -->
+<tr>
+  <td width="28%" align="left" valign="middle"><strong>Terminal:</strong></td>
+  <td align="right" valign="middle">
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-555?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" height="28" align="absmiddle"></a><a href="https://www.zsh.org" target="_blank"><img src="https://img.shields.io/badge/Zsh-444?style=for-the-badge&logoColor=white" alt="Zsh" height="28" align="absmiddle"></a><a href="https://www.lua.org" target="_blank"><img src="https://img.shields.io/badge/Lua-333?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" height="28" align="absmiddle"></a><a href="https://neovim.io" target="_blank"><img src="https://img.shields.io/badge/Neovim-222?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" height="28" align="absmiddle"></a>
+  </td>
+</tr>
+
+<!-- Config -->
+<tr>
+  <td width="28%" align="left" valign="middle"><strong>Config:</strong></td>
+  <td align="right" valign="middle">
+    <a href="https://yaml.org" target="_blank"><img src="https://img.shields.io/badge/YAML-555?style=for-the-badge&logoColor=white" alt="YAML" height="28" align="absmiddle"></a><a href="https://www.json.org" target="_blank"><img src="https://img.shields.io/badge/JSON-444?style=for-the-badge&logoColor=white" alt="JSON" height="28" align="absmiddle"></a>
+  </td>
+</tr>
+  <!-- Domain-Specific -->
   <tr>
-    <td width="300" align="left"><strong>Frontend:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/HTML5-777777?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-666666?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white" alt="React"><img src="https://img.shields.io/badge/Next_JS-444444?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"><img src="https://img.shields.io/badge/Astro-333333?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"><img src="https://img.shields.io/badge/Radix_UI-222222?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"><img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    <td width="28%" align="left" valign="middle"><strong>Domain-Specific:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://www.postgresql.org/docs/sql.html" target="_blank"><img src="https://img.shields.io/badge/SQL-555?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="28" align="absmiddle"></a><a href="https://soliditylang.org" target="_blank"><img src="https://img.shields.io/badge/Solidity-444?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" height="28" align="absmiddle"></a><a href="https://regex101.com" target="_blank"><img src="https://img.shields.io/badge/Regex-333?style=for-the-badge&logoColor=white" alt="Regex" height="28" align="absmiddle"></a>
     </td>
   </tr>
+  <!-- Scripting -->
   <tr>
-    <td width="300" align="left"><strong>Backend:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Node.js-666666?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"><img src="https://img.shields.io/badge/Bun-555555?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"><img src="https://img.shields.io/badge/Serverless-444444?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"><img src="https://img.shields.io/badge/Deno-333333?style=for-the-badge&logo=deno&logoColor=white" alt="Deno"><img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"><img src="https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    <td width="28%" align="left" valign="middle"><strong>Scripting:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-555?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28" align="absmiddle"></a><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="28" align="absmiddle"></a><a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28" align="absmiddle"></a>
     </td>
   </tr>
+
+  <!-- Markup -->
   <tr>
-    <td width="300" align="left"><strong>Desktop:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Electron-222222?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"><img src="https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
+    <td width="28%" align="left" valign="middle"><strong>Markup:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-555?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="28" align="absmiddle"></a><a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://img.shields.io/badge/Markdown-222?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" height="28" align="absmiddle"></a><a href="https://www.w3.org/XML" target="_blank"><img src="https://img.shields.io/badge/XML-111?style=for-the-badge&logo=xml&logoColor=white" alt="XML" height="28" align="absmiddle"></a>
     </td>
   </tr>
+
+  <!-- Styling -->
   <tr>
-    <td width="300" align="left"><strong>State:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Redux-555555?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"><img src="https://img.shields.io/badge/LegendState-444444?style=for-the-badge&logo=react&logoColor=white" alt="LegendState"><img src="https://img.shields.io/badge/Zustand-333333?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"><img src="https://img.shields.io/badge/TanStack_Query-222222?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"><img src="https://img.shields.io/badge/Context_API-111111?style=for-the-badge&logo=react&logoColor=white" alt="Context API">
+    <td width="28%" align="left" valign="middle"><strong>Styling:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-444?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="28" align="absmiddle"></a><a href="https://sass-lang.com" target="_blank"><img src="https://img.shields.io/badge/Sass-333?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="28" align="absmiddle"></a><a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-555?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="28" align="absmiddle"></a><a href="https://www.nativewind.dev" target="_blank"><img src="https://img.shields.io/badge/NativeWind-444?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" height="28" align="absmiddle"></a>
     </td>
   </tr>
+
+  <!-- UI Libs -->
   <tr>
-    <td width="300" align="left"><strong>API:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/REST_API-777777?style=for-the-badge&logo=api&logoColor=white" alt="REST API"><img src="https://img.shields.io/badge/GraphQL-666666?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"><img src="https://img.shields.io/badge/Apollo-555555?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo"><img src="https://img.shields.io/badge/Webhooks-444444?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks"><img src="https://img.shields.io/badge/Cron-333333?style=for-the-badge&logo=clockify&logoColor=white" alt="Cron"><img src="https://img.shields.io/badge/Swagger-222222?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"><img src="https://img.shields.io/badge/OpenAPI-111111?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+    <td width="28%" align="left" valign="middle"><strong>UI Libs:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://www.radix-ui.com" target="_blank"><img src="https://img.shields.io/badge/Radix_UI-555?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" height="28" align="absmiddle"></a><a href="https://tamagui.dev" target="_blank"><img src="https://img.shields.io/badge/Tamagui-444?style=for-the-badge&logo=react&logoColor=white" alt="Tamagui" height="28" align="absmiddle"></a><a href="https://gluestack.io" target="_blank"><img src="https://img.shields.io/badge/Gluestack-333?style=for-the-badge&logoColor=white" alt="Gluestack" height="28" align="absmiddle"></a>
     </td>
   </tr>
+
+  <!-- Frontend -->
   <tr>
-    <td width="300" align="left"><strong>BaaS:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Supabase-333333?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"><img src="https://img.shields.io/badge/Firebase-222222?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"><img src="https://img.shields.io/badge/Appwrite-111111?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite">
+    <td width="28%" align="left" valign="middle"><strong>Frontend:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-555?style=for-the-badge&logo=react&logoColor=white" alt="React" height="28" align="absmiddle"></a><a href="https://astro.build" target="_blank"><img src="https://img.shields.io/badge/Astro-444?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" height="28" align="absmiddle"></a><a href="https://vuejs.org" target="_blank"><img src="https://img.shields.io/badge/Vue-333?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" height="28" align="absmiddle"></a><a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-222?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28" align="absmiddle"></a>
     </td>
   </tr>
+
+  <!-- Multiplatform -->
   <tr>
-    <td width="300" align="left"><strong>DB & ORM:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><img src="https://img.shields.io/badge/SQLite-444444?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"><img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"><img src="https://img.shields.io/badge/Drizzle_ORM-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMS45OTggMGMyLjQ0OSAwIDQuNjYzLjk5NCA2LjI2NyAyLjYwMmE4Ljg0NiA4Ljg0NiAwIDAgMSAyLjU5OSA2LjI3OCA4Ljg0NiA4Ljg0NiAwIDAgMS0yLjU5OSA2LjI3OGMtMS42MDQgMS42MDgtMy44MTggMi42MDItNi4yNjcgMi42MDItMi40NDkgMC00LjY2NC0uOTk0LTYuMjY3LTIuNjAyYTguODQ2IDguODQ2IDAgMCAxLTIuNi02LjI3OCA4Ljg0NiA4Ljg0NiAwIDAgMSAyLjYtNi4yNzhDNy4zMzQuOTk0IDkuNTQ5IDAgMTEuOTk4IDB6Ii8+PC9zdmc+&logoColor=white" alt="Drizzle ORM"><img src="https://img.shields.io/badge/Watermelon-111111?style=for-the-badge&logo=watermelon&logoColor=white" alt="Watermelon">
+    <td width="28%" align="left" valign="middle"><strong>Multiplatform:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/React_Native-555?style=for-the-badge&logo=react&logoColor=white" alt="React Native" height="28" align="absmiddle"></a><a href="https://expo.dev" target="_blank"><img src="https://img.shields.io/badge/Expo-444?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" height="28" align="absmiddle"></a><a href="https://www.electronjs.org" target="_blank"><img src="https://img.shields.io/badge/Electron-333?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" height="28" align="absmiddle"></a><a href="https://tauri.app" target="_blank"><img src="https://img.shields.io/badge/Tauri-222?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" height="28" align="absmiddle"></a><a href="https://dioxuslabs.com" target="_blank"><img src="https://img.shields.io/badge/Dioxus-111?style=for-the-badge&logo=rust&logoColor=white" alt="Dioxus" height="28" align="absmiddle"></a><a href="#" target="_blank"><img src="https://img.shields.io/badge/LynxJS-000?style=for-the-badge&logoColor=white" alt="LynxJS" height="28" align="absmiddle"></a>
     </td>
   </tr>
-  <tr>
-    <td width="300" align="left"><strong>DevOps:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Git-666666?style=for-the-badge&logo=git&logoColor=white" alt="Git"><img src="https://img.shields.io/badge/GitHub_Actions-555555?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"><img src="https://img.shields.io/badge/CI%2FCD-444444?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD"><img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><img src="https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"><img src="https://img.shields.io/badge/Turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo">
-    </td>
-  </tr>
-  <tr>
-    <td width="300" align="left"><strong>Testing:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Jest-444444?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"><img src="https://img.shields.io/badge/Detox-333333?style=for-the-badge&logo=wix&logoColor=white" alt="Detox"><img src="https://img.shields.io/badge/Vitest-222222?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"><img src="https://img.shields.io/badge/Cypress-111111?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
-    </td>
-  </tr>
-  <tr>
-    <td width="300" align="left"><strong>Monitoring:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Sentry-222222?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"><img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-    </td>
-  </tr>
-  <tr>
-    <td width="300" align="left"><strong>Dev Tools:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/VS_Code-444444?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"><img src="https://img.shields.io/badge/Cursor-333333?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"><img src="https://img.shields.io/badge/Replit-222222?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"><img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot">
-    </td>
-  </tr>
-  <tr>
-    <td width="300" align="left"><strong>Auth:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Clerk-444444?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"><img src="https://img.shields.io/badge/Auth0-333333?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"><img src="https://img.shields.io/badge/NextAuth.js-222222?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"><img src="https://img.shields.io/badge/OAuth-111111?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
-    </td>
-  </tr>
-  <tr>
-    <td width="300" align="left"><strong>Payments:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Stripe-222222?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"><img src="https://img.shields.io/badge/PayPal-111111?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-    </td>
-  </tr>
-  <tr>
-    <td width="300" align="left"><strong>CMS:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Payload_CMS-333333?style=for-the-badge&logo=ghost&logoColor=white" alt="Payload CMS"><img src="https://img.shields.io/badge/Strapi-222222?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"><img src="https://img.shields.io/badge/Directus-111111?style=for-the-badge&logo=directus&logoColor=white" alt="Directus">
-    </td>
-  </tr>
-  <tr>
-    <td width="300" align="left"><strong>AI & ML:</strong></td>
-    <td width="100%" align="right">
-      <img src="https://img.shields.io/badge/Hugging_Face-444444?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"><img src="https://img.shields.io/badge/LangChain-333333?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"><img src="https://img.shields.io/badge/Claude-222222?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"><img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-    </td>
-  </tr>
+  <!-- DESIGN & NO-CODE -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>No-Code Design:</strong></td>
+    <td align="right" valign="middle">
+        <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-777777?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="28" align="absmiddle"></a><a href="https://webflow.com" target="_blank"><img src="https://img.shields.io/badge/Webflow-666666?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- BACKEND & RUNTIME -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Backend & Runtime:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-777777?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28" align="absmiddle"></a>
+        <a href="https://bun.sh" target="_blank"><img src="https://img.shields.io/badge/Bun-666666?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" height="28" align="absmiddle"></a>
+        <a href="https://deno.com" target="_blank"><img src="https://img.shields.io/badge/Deno-555555?style=for-the-badge&logo=deno&logoColor=white" alt="Deno" height="28" align="absmiddle"></a>
+        <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="28" align="absmiddle"></a>
+        <a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/NestJS-333333?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" height="28" align="absmiddle"></a>
+        <a href="https://elysiajs.com" target="_blank"><img src="https://img.shields.io/badge/Elysia-222222?style=for-the-badge&logoColor=white" alt="Elysia" height="28" align="absmiddle"></a>
+        <a href="https://www.serverless.com" target="_blank"><img src="https://img.shields.io/badge/Serverless-111111?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless" height="28" align="absmiddle"></a>
+        <a href="https://nginx.org" target="_blank"><img src="https://img.shields.io/badge/Nginx-222222?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- AUTOMATION & ORCHESTRATION -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Automation:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-777777?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="28" align="absmiddle"></a>
+        <a href="https://www.langflow.org" target="_blank"><img src="https://img.shields.io/badge/Langflow-666666?style=for-the-badge&logoColor=white" alt="Langflow" height="28" align="absmiddle"></a>
+        <a href="https://novu.co" target="_blank"><img src="https://img.shields.io/badge/Novu-555555?style=for-the-badge&logo=novu&logoColor=white" alt="Novu" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- AI & AGENTS -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>AI & Agents:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://platform.openai.com" target="_blank"><img src="https://img.shields.io/badge/OpenAI_API-777777?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" height="28" align="absmiddle"></a>
+        <a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/Claude_API-666666?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" height="28" align="absmiddle"></a>
+        <a href="https://huggingface.co" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" height="28" align="absmiddle"></a>
+        <a href="https://www.langchain.com" target="_blank"><img src="https://img.shields.io/badge/LangChain-444444?style=for-the-badge&logoColor=white" alt="LangChain" height="28" align="absmiddle"></a>
+        <a href="https://openhands.ai" target="_blank"><img src="https://img.shields.io/badge/openHands-333333?style=for-the-badge&logoColor=white" alt="openHands" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- STATE & DATA MGMT -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>State & Data Management:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://redux.js.org" target="_blank"><img src="https://img.shields.io/badge/Redux-777777?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="28" align="absmiddle"></a>
+        <a href="https://github.com/pmndrs/zustand" target="_blank"><img src="https://img.shields.io/badge/Zustand-666666?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" height="28" align="absmiddle"></a>
+        <a href="https://legendapp.com/open-source/state/" target="_blank"><img src="https://img.shields.io/badge/LegendState-555555?style=for-the-badge&logo=react&logoColor=white" alt="LegendState" height="28" align="absmiddle"></a>
+        <a href="https://tanstack.com/query" target="_blank"><img src="https://img.shields.io/badge/TanStack_Query-444444?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" height="28" align="absmiddle"></a>
+        <a href="https://react.dev/learn/passing-data-deeply-with-context" target="_blank"><img src="https://img.shields.io/badge/Context_API-333333?style=for-the-badge&logo=react&logoColor=white" alt="Context API" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- APIs & INTEGRATIONS -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>APIs & Integrations:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://developer.mozilla.org/docs/Glossary/REST" target="_blank"><img src="https://img.shields.io/badge/REST_API-777777?style=for-the-badge&logo=api&logoColor=white" alt="REST API" height="28" align="absmiddle"></a>
+        <a href="https://graphql.org" target="_blank"><img src="https://img.shields.io/badge/GraphQL-666666?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="28" align="absmiddle"></a>
+        <a href="https://www.apollographql.com" target="_blank"><img src="https://img.shields.io/badge/Apollo-555555?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo" height="28" align="absmiddle"></a>
+        <a href="https://www.openapis.org" target="_blank"><img src="https://img.shields.io/badge/OpenAPI-444444?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" height="28" align="absmiddle"></a>
+        <a href="https://swagger.io" target="_blank"><img src="https://img.shields.io/badge/Swagger-333333?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" height="28" align="absmiddle"></a>
+        <a href="https://en.wikipedia.org/wiki/Webhook" target="_blank"><img src="https://img.shields.io/badge/Webhooks-222222?style=for-the-badge&logoColor=white" alt="Webhooks" height="28" align="absmiddle"></a>
+        <a href="https://crontab.guru" target="_blank"><img src="https://img.shields.io/badge/Cron-111111?style=for-the-badge&logo=clockify&logoColor=white" alt="Cron" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- AUTH -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Auth & Identity:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://clerk.com" target="_blank"><img src="https://img.shields.io/badge/Clerk-777777?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" height="28" align="absmiddle"></a>
+        <a href="https://auth0.com" target="_blank"><img src="https://img.shields.io/badge/Auth0-666666?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" height="28" align="absmiddle"></a>
+        <a href="https://next-auth.js.org" target="_blank"><img src="https://img.shields.io/badge/NextAuth.js-555555?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" height="28" align="absmiddle"></a>
+        <a href="https://oauth.net" target="_blank"><img src="https://img.shields.io/badge/OAuth-444444?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- PAYMENTS -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Payments:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://stripe.com" target="_blank"><img src="https://img.shields.io/badge/Stripe-777777?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" height="28" align="absmiddle"></a>
+        <a href="https://www.paypal.com" target="_blank"><img src="https://img.shields.io/badge/PayPal-666666?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- CMS & LOW-CODE -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>CMS & Low‑code:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://payloadcms.com" target="_blank"><img src="https://img.shields.io/badge/Payload_CMS-777777?style=for-the-badge&logo=ghost&logoColor=white" alt="Payload CMS" height="28" align="absmiddle"></a>
+        <a href="https://strapi.io" target="_blank"><img src="https://img.shields.io/badge/Strapi-666666?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" height="28" align="absmiddle"></a>
+        <a href="https://directus.io" target="_blank"><img src="https://img.shields.io/badge/Directus-555555?style=for-the-badge&logo=directus&logoColor=white" alt="Directus" height="28" align="absmiddle"></a>
+        <a href="https://ghost.org" target="_blank"><img src="https://img.shields.io/badge/Ghost-444444?style=for-the-badge&logo=ghost&logoColor=white" alt="Ghost" height="28" align="absmiddle"></a>
+        <a href="https://pagescms.org" target="_blank"><img src="https://img.shields.io/badge/PagesCMS-333333?style=for-the-badge&logoColor=white" alt="PagesCMS" height="28" align="absmiddle"></a>
+        <a href="https://www.nocobase.com" target="_blank"><img src="https://img.shields.io/badge/NocoBase-222222?style=for-the-badge&logoColor=white" alt="NocoBase" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- KNOWLEDGE BASE & DOCS -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Knowledge Base & Docs:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://obsidian.md" target="_blank"><img src="https://img.shields.io/badge/Obsidian-777777?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" height="28" align="absmiddle"></a>
+        <a href="https://www.getoutline.com" target="_blank"><img src="https://img.shields.io/badge/Outline-666666?style=for-the-badge&logoColor=white" alt="Outline" height="28" align="absmiddle"></a>
+        <a href="https://docusaurus.io" target="_blank"><img src="https://img.shields.io/badge/Docusaurus-555555?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Docusaurus" height="28" align="absmiddle"></a>
+        <a href="https://excalidraw.com" target="_blank"><img src="https://img.shields.io/badge/Excalidraw-444444?style=for-the-badge&logoColor=white" alt="Excalidraw" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- SEARCH & INDEXING -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Search & Indexing:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://typesense.org" target="_blank"><img src="https://img.shields.io/badge/Typesense-777777?style=for-the-badge&logoColor=white" alt="Typesense" height="28" align="absmiddle"></a>
+        <a href="https://opensearch.org" target="_blank"><img src="https://img.shields.io/badge/OpenSearch-666666?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- BAAS -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Backend‑as‑a‑Service:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://supabase.com" target="_blank"><img src="https://img.shields.io/badge/Supabase-777777?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="28" align="absmiddle"></a>
+        <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-666666?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" height="28" align="absmiddle"></a>
+        <a href="https://appwrite.io" target="_blank"><img src="https://img.shields.io/badge/Appwrite-555555?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- DEVOPS / INFRA & TOOLING -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>DevOps / Infra & Tooling:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-777777?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28" align="absmiddle"></a>
+        <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-666666?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" align="absmiddle"></a>
+        <a href="https://gitea.io" target="_blank"><img src="https://img.shields.io/badge/Gitea-555555?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" height="28" align="absmiddle"></a>
+        <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-444444?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" height="28" align="absmiddle"></a>
+        <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/CI%2FCD-333333?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD" height="28" align="absmiddle"></a>
+        <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="28" align="absmiddle"></a>
+        <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="28" align="absmiddle"></a>
+        <a href="https://turbo.build/repo" target="_blank"><img src="https://img.shields.io/badge/Turborepo-222222?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" height="28" align="absmiddle"></a>
+        <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="28" align="absmiddle"></a>
+        <a href="https://pnpm.io" target="_blank"><img src="https://img.shields.io/badge/pnpm-222222?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" height="28" align="absmiddle"></a>
+        <a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/npm-111111?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="28" align="absmiddle"></a>
+        <a href="https://yarnpkg.com" target="_blank"><img src="https://img.shields.io/badge/yarn-222222?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" height="28" align="absmiddle"></a>
+        <a href="https://dokku.com" target="_blank"><img src="https://img.shields.io/badge/Dokku-111111?style=for-the-badge&logo=dokku&logoColor=white" alt="Dokku" height="28" align="absmiddle"></a>
+        <a href="https://easypanel.io" target="_blank"><img src="https://img.shields.io/badge/EasyPanel-222222?style=for-the-badge&logoColor=white" alt="EasyPanel" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- MONITORING & OBSERVABILITY -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Monitoring & Observability:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://sentry.io" target="_blank"><img src="https://img.shields.io/badge/Sentry-777777?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" height="28" align="absmiddle"></a>
+        <a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-666666?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="28" align="absmiddle"></a>
+        <a href="https://prometheus.io" target="_blank"><img src="https://img.shields.io/badge/Prometheus-555555?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="28" align="absmiddle"></a>
+        <a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://img.shields.io/badge/Loki-444444?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" height="28" align="absmiddle"></a>
+        <a href="https://uptime.kuma.pet" target="_blank"><img src="https://img.shields.io/badge/Uptime_Kuma-333333?style=for-the-badge&logoColor=white" alt="Uptime Kuma" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- SECURITY & PRIVACY -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Security & Privacy:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://bitwarden.com" target="_blank"><img src="https://img.shields.io/badge/Bitwarden-777777?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden" height="28" align="absmiddle"></a>
+        <a href="https://tailscale.com" target="_blank"><img src="https://img.shields.io/badge/Tailscale-666666?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" height="28" align="absmiddle"></a>
+        <img src="https://img.shields.io/badge/Sop-555555?style=for-the-badge&logoColor=white" alt="Sop" height="28" align="absmiddle">
+      </td>
+    </tr>
+    <!-- PRODUCT OPS & COLLABORATION -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Product Ops & Collaboration:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://plane.so" target="_blank"><img src="https://img.shields.io/badge/Plane-777777?style=for-the-badge&logoColor=white" alt="Plane" height="28" align="absmiddle"></a>
+        <a href="https://www.odoo.com" target="_blank"><img src="https://img.shields.io/badge/Odoo-666666?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" height="28" align="absmiddle"></a>
+        <a href="https://www.discourse.org" target="_blank"><img src="https://img.shields.io/badge/Discourse-555555?style=for-the-badge&logo=discourse&logoColor=white" alt="Discourse" height="28" align="absmiddle"></a>
+        <a href="https://www.rocket.chat" target="_blank"><img src="https://img.shields.io/badge/RocketChat-444444?style=for-the-badge&logo=rocketchat&logoColor=white" alt="RocketChat" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
+    <!-- TESTING -->
+    <tr>
+      <td width="28%" align="left" valign="middle"><strong>Testing:</strong></td>
+      <td align="right" valign="middle">
+        <a href="https://jestjs.io" target="_blank"><img src="https://img.shields.io/badge/Jest-777777?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="28" align="absmiddle"></a>
+        <a href="https://vitest.dev" target="_blank"><img src="https://img.shields.io/badge/Vitest-666666?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" height="28" align="absmiddle"></a>
+        <a href="https://www.cypress.io" target="_blank"><img src="https://img.shields.io/badge/Cypress-555555?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" height="28" align="absmiddle"></a>
+        <a href="https://wix.github.io/Detox/" target="_blank"><img src="https://img.shields.io/badge/Detox-444444?style=for-the-badge&logoColor=white" alt="Detox" height="28" align="absmiddle"></a>
+      </td>
+    </tr>
 </table>
 </div>
 <!-- </details> -->
