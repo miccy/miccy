@@ -249,6 +249,51 @@
     </td>
   </tr>
 </table>
+<table width="100%">
+  <tr>
+    <td width="28%" align="left" valign="middle"><strong>Scripting Langs:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://www.typescriptlang.org" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-555?style=for-the-badge&logo=typescript&logoColor=white"
+             alt="TypeScript" height="28" align="absmiddle">
+      </a><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white"
+             alt="JavaScript" height="28" align="absmiddle">
+      </a><a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img src="https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white"
+             alt="Markdown" height="28" align="absmiddle">
+      </a><a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://img.shields.io/badge/Bash-222?style=for-the-badge&logo=gnubash&logoColor=white"
+             alt="Bash" height="28" align="absmiddle">
+      </a><a href="https://regex101.com" target="_blank">
+        <img src="https://img.shields.io/badge/Regex-111?style=for-the-badge&logoColor=white"
+             alt="Regex" height="28" align="absmiddle">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="28%" align="left" valign="middle"><strong>Systems & Compiled Langs:</strong></td>
+    <td align="right" valign="middle">
+      <a href="https://www.rust-lang.org" target="_blank">
+        <img src="https://img.shields.io/badge/Rust-555?style=for-the-badge&logo=rust&logoColor=white"
+             alt="Rust" height="28" align="absmiddle">
+      </a><a href="https://go.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Go-444?style=for-the-badge&logo=go&logoColor=white"
+             alt="Go" height="28" align="absmiddle">
+      </a><a href="https://www.java.com" target="_blank">
+        <img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white"
+             alt="Java" height="28" align="absmiddle">
+      </a><a href="https://crystal-lang.org" target="_blank">
+        <img src="https://img.shields.io/badge/Crystal-222?style=for-the-badge&logo=crystal&logoColor=white"
+             alt="Crystal" height="28" align="absmiddle">
+      </a><a href="https://webassembly.org" target="_blank">
+        <img src="https://img.shields.io/badge/WASM-111?style=for-the-badge&logo=webassembly&logoColor=white"
+             alt="WASM" height="28" align="absmiddle">
+      </a>
+    </td>
+  </tr>
+</table>
 <table width="100%" style="width: auto; margin: 0 auto; border-collapse: collapse;">
     <td width="300" align="left">
       <strong>Languages:</strong>
