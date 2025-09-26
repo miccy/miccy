@@ -43,7 +43,18 @@
   <summary><b>📦 Full Tech Stack - Categorized...</b></summary>
 <br>
 <div align="center">
-<table width="100%" style="width: auto; margin: 0 auto; border-collapse: collapse;">
+<table width="100%" style="width: 100%; border-collapse: collapse;">
+    <colgroup>
+      <col width="28%" style="width:28%;" />
+      <col style="width:auto;" />
+    </colgroup>
+    <thead>
+      <tr>
+        <th align="center" style="border:none; padding:6px 0;">Duration</th>
+        <th align="center" style="border:none; padding:6px 0;">Stack</th>
+      </tr>
+    </thead>
+    <tbody>
   <!-- Systems & Compiled -->
   <tr>
     <td width="28%" align="left" valign="middle"><strong>Systems & Compiled:</strong></td>
@@ -58,7 +69,6 @@
     <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-555?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28" align="absmiddle"></a><a href="https://deno.com" target="_blank"><img src="https://img.shields.io/badge/Deno-444?style=for-the-badge&logo=deno&logoColor=white" alt="Deno" height="28" align="absmiddle"></a><a href="https://bun.sh" target="_blank"><img src="https://img.shields.io/badge/Bun-333?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" height="28" align="absmiddle"></a>
   </td>
 </tr>
-
 <!-- Package Mgmt -->
 <tr>
   <td width="28%" align="left" valign="middle"><strong>Package Mgmt:</strong></td>
@@ -66,7 +76,6 @@
     <a href="https://pnpm.io" target="_blank"><img src="https://img.shields.io/badge/pnpm-555?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" height="28" align="absmiddle"></a><a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/npm-444?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="28" align="absmiddle"></a>
   </td>
 </tr>
-
 <!-- Terminal -->
 <tr>
   <td width="28%" align="left" valign="middle"><strong>Terminal:</strong></td>
@@ -74,7 +83,6 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-555?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" height="28" align="absmiddle"></a><a href="https://www.zsh.org" target="_blank"><img src="https://img.shields.io/badge/Zsh-444?style=for-the-badge&logoColor=white" alt="Zsh" height="28" align="absmiddle"></a><a href="https://www.lua.org" target="_blank"><img src="https://img.shields.io/badge/Lua-333?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" height="28" align="absmiddle"></a><a href="https://neovim.io" target="_blank"><img src="https://img.shields.io/badge/Neovim-222?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" height="28" align="absmiddle"></a>
   </td>
 </tr>
-
 <!-- Config -->
 <tr>
   <td width="28%" align="left" valign="middle"><strong>Config:</strong></td>
@@ -96,7 +104,6 @@
       <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-555?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28" align="absmiddle"></a><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="28" align="absmiddle"></a><a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28" align="absmiddle"></a>
     </td>
   </tr>
-
   <!-- Markup -->
   <tr>
     <td width="28%" align="left" valign="middle"><strong>Markup:</strong></td>
@@ -104,7 +111,6 @@
       <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-555?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="28" align="absmiddle"></a><a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://img.shields.io/badge/Markdown-222?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" height="28" align="absmiddle"></a><a href="https://www.w3.org/XML" target="_blank"><img src="https://img.shields.io/badge/XML-111?style=for-the-badge&logo=xml&logoColor=white" alt="XML" height="28" align="absmiddle"></a>
     </td>
   </tr>
-
   <!-- Styling -->
   <tr>
     <td width="28%" align="left" valign="middle"><strong>Styling:</strong></td>
@@ -112,7 +118,6 @@
       <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-444?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="28" align="absmiddle"></a><a href="https://sass-lang.com" target="_blank"><img src="https://img.shields.io/badge/Sass-333?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="28" align="absmiddle"></a><a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-555?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="28" align="absmiddle"></a><a href="https://www.nativewind.dev" target="_blank"><img src="https://img.shields.io/badge/NativeWind-444?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" height="28" align="absmiddle"></a>
     </td>
   </tr>
-
   <!-- UI Libs -->
   <tr>
     <td width="28%" align="left" valign="middle"><strong>UI Libs:</strong></td>
@@ -120,7 +125,6 @@
       <a href="https://www.radix-ui.com" target="_blank"><img src="https://img.shields.io/badge/Radix_UI-555?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" height="28" align="absmiddle"></a><a href="https://tamagui.dev" target="_blank"><img src="https://img.shields.io/badge/Tamagui-444?style=for-the-badge&logo=react&logoColor=white" alt="Tamagui" height="28" align="absmiddle"></a><a href="https://gluestack.io" target="_blank"><img src="https://img.shields.io/badge/Gluestack-333?style=for-the-badge&logoColor=white" alt="Gluestack" height="28" align="absmiddle"></a>
     </td>
   </tr>
-
   <!-- Frontend -->
   <tr>
     <td width="28%" align="left" valign="middle"><strong>Frontend:</strong></td>
@@ -128,7 +132,6 @@
       <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-555?style=for-the-badge&logo=react&logoColor=white" alt="React" height="28" align="absmiddle"></a><a href="https://astro.build" target="_blank"><img src="https://img.shields.io/badge/Astro-444?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" height="28" align="absmiddle"></a><a href="https://vuejs.org" target="_blank"><img src="https://img.shields.io/badge/Vue-333?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" height="28" align="absmiddle"></a><a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-222?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28" align="absmiddle"></a>
     </td>
   </tr>
-
   <!-- Multiplatform -->
   <tr>
     <td width="28%" align="left" valign="middle"><strong>Multiplatform:</strong></td>
@@ -318,6 +321,7 @@
         <a href="https://wix.github.io/Detox/" target="_blank"><img src="https://img.shields.io/badge/Detox-444444?style=for-the-badge&logoColor=white" alt="Detox" height="28" align="absmiddle"></a>
       </td>
     </tr>
+    </tbody>
 </table>
 </div>
 <!-- </details> -->
@@ -362,7 +366,7 @@
   <summary><b>💼 Freelancer (2019 - Present)</b></summary>
   <br />
 <div align="center">
-  <table style="width:100%; border-collapse:collapse;">
+  <table width="100%" style="width:100%; border-collapse:collapse;">
     <colgroup>
       <col style="width:260px;" />
       <col style="width:220px;" />
