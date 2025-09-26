@@ -250,7 +250,7 @@
   </tr>
 </table>
 <table width="100%">
-  <tr>
+  <tr width="100%">
     <td width="28%" align="left" valign="middle"><strong>Scripting Langs:</strong></td>
     <td align="right" valign="middle">
       <a href="https://www.typescriptlang.org" target="_blank">
@@ -272,7 +272,7 @@
     </td>
   </tr>
 
-  <tr>
+  <tr width="100%">
     <td width="28%" align="left" valign="middle"><strong>Systems & Compiled Langs:</strong></td>
     <td align="right" valign="middle">
       <a href="https://www.rust-lang.org" target="_blank">
