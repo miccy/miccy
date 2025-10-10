@@ -7,6 +7,6 @@
     "docs:translate": "node scripts/auto-translate-docs.js"
   },
   "dependencies": {
-    "@google-cloud/translate": "^7.0.0"
+    "@google-cloud/translate": "^9.0.0"
   }
 }
