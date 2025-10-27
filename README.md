@@ -22,8 +22,6 @@
   </div>
 </details>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -142,8 +140,6 @@
 </div>
 </details>
 
----
-
 ## 👨‍🎓 Education
 
 <details> 
@@ -173,8 +169,6 @@
 - Field of Electrical Engineering
 - Communication Technology
 </details>
-
----
 
 ## 📚 Work Experience and Projects
 
@@ -552,90 +546,6 @@
   </table>
   </div>
 </details>
-
----
-
-## 🎯 Current Focus
-
-<details> 
-  <summary><b>🤖 AI / ML</b></summary>
-<div align="center">
-  <table>
-  <br>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60" height="60" alt="AI Agents" />
-        <br><strong>AI Agents | MCPs</strong>
-        <br>Optimizing pre-filtering data layers
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/workflow.png" width="60" height="60" alt="Orchestration" />
-        <br><strong>LLM Orchestration</strong>
-        <br>Centralized control of nested agents
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/server--v1.png" width="60" height="60" alt="VPS" />
-        <br><strong>Own VPS</strong>
-        <br>Designing scalable cloud infrastructure
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-
-<details> 
-  <summary><b>₿ Bitcoin | Privacy</b></summary>
-<div align="center">
-  <table>
-  <br>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/bitcoin--v1.png" width="60" height="60" alt="Bitcoin" />
-        <br><strong>SATstation</strong>
-        <br>All-in-one platform for Bitcoiners
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/source-code.png" width="60" height="60" alt="GitHub" />
-        <br><strong>21-000-000</strong>
-        <br>Support for the BTC community
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/database--v1.png" width="60" height="60" alt="Database" />
-        <br><strong>Evolu</strong>
-        <br>Contributing to Evolu local-first DB
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-
-<details> 
-  <summary><b>🛠️ Others</b></summary>
-<div align="center" width="100%">
-  <table width="100%">
-  <br>
-    <tr width="100%">
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/settings--v1.png" width="60" height="60" alt="System" />
-        <br><strong>PawnshopOS</strong>
-        <br>Internal pawnshop CMS
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/light-on--v2.png" width="60" height="60" alt="WLED" />
-        <br><strong>Ignis WLED Controller</strong>
-        <br>Studio for pixel light juggling toys
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/domain.png" width="60" height="60" alt="Company" />
-        <br><strong>7Transfer s.r.o.</strong>
-        <br>Landing page for Czech company
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-
----
 
 ## 💼 Let's Connect!
 
