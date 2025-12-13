@@ -14,7 +14,7 @@ lerna-debug.log*
 .env.production.local
 
 # IDE and editor folders
-.vscode/
+#.vscode/
 .idea/
 *.swp
 *.swo
@@ -106,3 +106,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# local
+local-*
