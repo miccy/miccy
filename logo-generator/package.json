@@ -1,0 +1,12 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "export": "node export.js",
+    "preview": "open canvas.html"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}

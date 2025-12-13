@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>miccy.dev neon banner</title>
+    <style>
+    :root {
+      /* Barvy (laditelné) */
+      --silver: #d8dbe0;
+      --blue: #3a6cff; /* royal-ish */
+      --orange: #ff8a1a;
+      --red: #ff2d2d;
+
+      /* Neon intenzita */
+      --glow1: 10px;
+      --glow2: 22px;
+      --glow3: 45px;
+
+      /* Rozměr banneru */
+      --w: 1280;
+      --h: 640;
+
+      /* Podklad (0..1) */
+      --bg-alpha: 0.28;
+    }
+
+    html,
+    body {
+      height: 100%;
+    }
+
+    body {
+      margin: 0;
+      display: grid;
+      place-items: center;
+      background: transparent;
+      overflow: hidden;
+    }
+
+    /* Preview režimy (exportuj ideálně transparent) */
+    body.bg {
+      /* Jemný podklad, jehož sílu řídí --bg-alpha */
+      background:
+        radial-gradient(
+          1200px 600px at 50% 55%,
+          rgba(20, 28, 40, var(--bg-alpha)),
+          rgba(0, 0, 0, 0) 60%
+        ),
+        radial-gradient(
+          900px 500px at 50% 55%,
+          rgba(10, 14, 20, calc(var(--bg-alpha) * 0.9)),
+          rgba(0, 0, 0, 0) 70%
+        );
+    }
+
+    body.bg::before {
+      content: "";
+      position: fixed;
+      inset: -2px;
+      pointer-events: none;
+      opacity: 0.18;
+      background: linear-gradient(
+        to bottom,
+        rgba(0, 255, 140, 0.1),
+        rgba(0, 0, 0, 0) 25%,
+        rgba(255, 0, 200, 0.08) 50%,
+        rgba(0, 0, 0, 0) 75%,
+        rgba(0, 190, 255, 0.1)
+      );
+      mix-blend-mode: screen;
+      filter: blur(18px);
+    }
+
+    body.bg::after {
+      /* jemné scanlines, aby to mělo víc "cypherpunk" švih */
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.1;
+      background: repeating-linear-gradient(
+        to bottom,
+        rgba(255, 255, 255, 0.12) 0px,
+        rgba(255, 255, 255, 0.12) 1px,
+        rgba(0, 0, 0, 0) 3px,
+        rgba(0, 0, 0, 0) 6px
+      );
+      mix-blend-mode: soft-light;
+    }
+
+    .frame {
+      width: calc(var(--w) * 1px);
+      height: calc(var(--h) * 1px);
+    }
+
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+
+    /* "Bary" a ostrost: stroke + paint-order, žádné "byblité" okraje */
+    .neon {
+      fill: rgba(255, 255, 255, 0.02);
+      stroke-width: 7.5;
+      paint-order: stroke fill;
+      stroke-linejoin: round;
+      stroke-linecap: round;
+    }
+
+    .silver {
+      stroke: var(--silver);
+      filter: drop-shadow(0 0 var(--glow1) rgba(216, 219, 224, 0.7))
+        drop-shadow(0 0 var(--glow2) rgba(216, 219, 224, 0.4))
+        drop-shadow(0 0 var(--glow3) rgba(216, 219, 224, 0.22));
+    }
+    .blue {
+      stroke: var(--blue);
+      filter: drop-shadow(0 0 var(--glow1) rgba(58, 108, 255, 0.7))
+        drop-shadow(0 0 var(--glow2) rgba(58, 108, 255, 0.42))
+        drop-shadow(0 0 var(--glow3) rgba(58, 108, 255, 0.22));
+    }
+    .orange {
+      stroke: var(--orange);
+      filter: drop-shadow(0 0 var(--glow1) rgba(255, 138, 26, 0.7))
+        drop-shadow(0 0 var(--glow2) rgba(255, 138, 26, 0.42))
+        drop-shadow(0 0 var(--glow3) rgba(255, 138, 26, 0.22));
+    }
+
+    .dot {
+      fill: var(--red);
+      filter: drop-shadow(0 0 10px rgba(255, 45, 45, 0.8))
+        drop-shadow(0 0 22px rgba(255, 45, 45, 0.45)) drop-shadow(0 0 48px rgba(255, 45, 45, 0.22));
+    }
+
+    /* Font: JetBrains Mono for clean code aesthetic */
+    @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600;700&display=swap");
+
+    .txt {
+      font-family: "JetBrains Mono", "Fira Code", ui-monospace, monospace;
+      font-weight: 700;
+      letter-spacing: 0;
+    }
+
+    /* Jemné vylepšení čitelnosti */
+    .txt {
+      shape-rendering: geometricPrecision;
+      text-rendering: geometricPrecision;
+    }
+    </style>
+  </head>
+
+  <body class="transparent">
+    <div class="frame">
+      <svg
+        id="banner"
+        viewBox="0 0 1280 640"
+        xmlns="http://www.w3.org/2000/svg"
+        aria-label="miccy.dev neon"
+      >
+        <!-- Pozn.: nic tu NENÍ jako pozadí => transparent -->
+
+        <g id="logo" transform="translate(0 0)">
+          <text
+            id="tLeft"
+            class="txt neon silver"
+            x="0"
+            y="340"
+            font-size="150"
+            dominant-baseline="middle"
+          >
+            &lt;
+          </text>
+          <text
+            id="tM"
+            class="txt neon blue"
+            x="0"
+            y="340"
+            font-size="150"
+            font-weight="800"
+            dominant-baseline="middle"
+          >
+            m
+          </text>
+          <text
+            id="tI"
+            class="txt neon blue"
+            x="0"
+            y="340"
+            font-size="150"
+            font-weight="800"
+            dominant-baseline="middle"
+          >
+            i
+          </text>
+          <text
+            id="tCcy"
+            class="txt neon blue"
+            x="0"
+            y="340"
+            font-size="150"
+            font-weight="800"
+            dominant-baseline="middle"
+          >
+            ccy
+          </text>
+          <circle id="tDot" class="dot" cx="0" cy="375" r="14"/>
+          <text
+            id="tDev"
+            class="txt neon orange"
+            x="0"
+            y="340"
+            font-size="150"
+            dominant-baseline="middle"
+          >
+            dev
+          </text>
+          <text
+            id="tSlash"
+            class="txt neon silver"
+            x="0"
+            y="340"
+            font-size="150"
+            dominant-baseline="middle"
+          >
+            /
+          </text>
+          <text
+            id="tClose"
+            class="txt neon silver"
+            x="0"
+            y="340"
+            font-size="150"
+            dominant-baseline="middle"
+          >
+            &gt;
+          </text>
+        </g>
+
+        <!-- extra: velmi jemný "haze" kolem středu (jen pokud zapneš body.bg) -->
+      </svg>
+    </div>
+
+    <script>
+    // Layout bez magie: spočítáme šířky textů a poskládáme to přesně.
+    // Tady ladíš mezeru kolem tečky.
+    const GAP1 = 20 // mezi "<" a "miccy" - větší mezera
+    const GAP2 = -5 // mezi "miccy" a tečkou - záporná = tečka blíž k y
+    const GAP3 = 10 // mezi tečkou a "dev" - dál od d
+    const GAP4 = 2 // mezi "dev" a "/"
+    const GAP5 = -8 // mezi "/" a ">" - záporná = těsnější
+
+    // Kerning pro "miccy"
+    const GAP_MI = 3 // mezi "m" a "i"
+    const GAP_IC = -5 // mezi "i" a "ccy"
+
+    function layout() {
+      const svg = document.getElementById('banner')
+      const W = 1280
+
+      const tLeft = document.getElementById('tLeft')
+      const tM = document.getElementById('tM')
+      const tI = document.getElementById('tI')
+      const tCcy = document.getElementById('tCcy')
+      const tDev = document.getElementById('tDev')
+      const tSlash = document.getElementById('tSlash')
+      const tClose = document.getElementById('tClose')
+      const dot = document.getElementById('tDot')
+
+      // Reset do x=0 pro měření
+      ;[tLeft, tM, tI, tCcy, tDev, tSlash, tClose].forEach((n) => n.setAttribute('x', '0'))
+      dot.setAttribute('cx', '0')
+
+      // BBox šířky
+      const wLeft = tLeft.getBBox().width
+      const wM = tM.getBBox().width
+      const wI = tI.getBBox().width
+      const wCcy = tCcy.getBBox().width
+      const wDev = tDev.getBBox().width
+      const wSlash = tSlash.getBBox().width
+      const wClose = tClose.getBBox().width
+      const r = parseFloat(dot.getAttribute('r'))
+
+      const wMiccy = wM + GAP_MI + wI + GAP_IC + wCcy
+
+      const total =
+        wLeft + GAP1 + wMiccy + GAP2 + 2 * r + GAP3 + wDev + GAP4 + wSlash + GAP5 + wClose
+      const startX = (W - total) / 2
+
+      const xLeft = startX
+      const xM = xLeft + wLeft + GAP1
+      const xI = xM + wM + GAP_MI
+      const xCcy = xI + wI + GAP_IC
+      const cxDot = xCcy + wCcy + GAP2 + r
+      const xDev = cxDot + r + GAP3
+      const xSlash = xDev + wDev + GAP4
+      const xClose = xSlash + wSlash + GAP5
+
+      tLeft.setAttribute('x', xLeft)
+      tM.setAttribute('x', xM)
+      tI.setAttribute('x', xI)
+      tCcy.setAttribute('x', xCcy)
+      dot.setAttribute('cx', cxDot)
+      tDev.setAttribute('x', xDev)
+      tSlash.setAttribute('x', xSlash)
+      tClose.setAttribute('x', xClose)
+    }
+    // Fonts load umí posunout metriky, tak layout až potom.
+    ;(document.fonts?.ready || Promise.resolve()).then(() => {
+      layout()
+      // pro jistotu ještě jednou po prvním paintu
+      requestAnimationFrame(layout)
+    })
+
+    window.addEventListener('resize', layout)
+    </script>
+  </body>
+</html>
