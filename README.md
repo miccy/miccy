@@ -30,14 +30,12 @@
   </div>
 </details>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=appwrite,astro,bash,bun,crystal,cypress,css,deno,electron,elysia,figma,firebase,git,github,go" height="40" alt="Skill icon" />
-  <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,regex,rust,sass" height="40" alt="Skill icon" />
-  <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn" height="40" alt="Skill icon" />
+  <img src="https://skillicons.dev/icons?i=appwrite,astro,bash,bun,crystal,cypress,css,deno,electron,elysia,figma,firebase,git" height="40" alt="Skill icon" />
+  <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust" height="40" alt="Skill icon" />
+  <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass" height="40" alt="Skill icon" />
 </p>
 <!-- <details> -->
   <summary><b>📦 Full Tech Stack - Categorized...</b></summary>
@@ -357,8 +355,6 @@
 - Field of Electrical Engineering
 - Communication Technology
 </details>
-
----
 
 ## 📚 Work Experience and Projects
 
@@ -842,4 +838,5 @@
 
 <div align="center">
   <p>🛠 Maintained by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
+  <p>© 2025 <a href="https://github.com/enterprises/ownCTRL">ownCTRL™</a></p>
 </div>
