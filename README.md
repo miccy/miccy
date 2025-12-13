@@ -1,10 +1,30 @@
+<!-- Header -->
+<div align="center">
+  <img src="assets/miccy-dev-banner.png" alt="miccy.dev banner" width="800" />
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=miccy&color=1d68dc&style=for-the-badge&label=PROFILE+VIEWS)
+  [![GitHub followers](https://img.shields.io/github/followers/miccy?style=for-the-badge&logo=github&color=1d68dc)](https://github.com/miccy?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/miccy?style=for-the-badge&logo=github&color=FFB11B)](https://github.com/miccy?tab=repositories)
+  
+</div>
+
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=1000&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3Cmiccy.dev%3E" alt="Typing SVG" />
   <div style="margin-left: 50px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1500&pause=1000&color=FFB11B&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+15%2B+years+of+experience;%F0%9F%93%B1+React+Native+%7C+Expo+%7C+30%2B+apps+built;%F0%9F%9B%A1%EF%B8%8F+Local-First+%7C+Self-Hosting+%7C+Privacy;%F0%9F%A7%A0+AI%2FML+%7C+LLMs+%7C+MCP+%7C+RAG;%F0%9F%9F%A0+Bitcoin+Maxi+%7C+Orange+Pilled+%7C+SAT+Stacker" alt="Typing SVG" />
-<div>
+  </div>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
 </div>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miccy/miccy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miccy/miccy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/miccy/miccy/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
     
@@ -15,7 +35,7 @@
   <summary><b>📊 More Github stats...</b></summary>  
   <div width="100%" valign="top" halign="center" align="center">
      <a href="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true"><img alt="Miccy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" height="200px"/></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=3""><img alt="Miccy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=3" height="200px"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=3"><img alt="Miccy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=3" height="200px"/></a>
   </div>
   <div width="100%" valign="center" halign="center" align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />

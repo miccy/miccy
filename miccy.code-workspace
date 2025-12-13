@@ -1,7 +1,12 @@
 {
 	"folders": [
 		{
+			"name": "@miccy/miccy",
 			"path": "."
+		},
+		{
+			"name": "@miccy/snake-evolution",
+			"path": "../snake-EVOLUtion/snake-evolution"
 		}
 	],
 	"settings": {

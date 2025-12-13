@@ -2,11 +2,5 @@
   "name": "miccy",
   "version": "1.0.0",
   "description": "Miccy's GitHub Profile",
-  "scripts": {
-    "docs:check": "node scripts/check-docs-sync.js",
-    "docs:translate": "node scripts/auto-translate-docs.js"
-  },
-  "dependencies": {
-    "@google-cloud/translate": "^9.0.0"
-  }
+  "private": true
 }
