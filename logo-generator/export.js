@@ -15,11 +15,11 @@ async function exportBanner() {
 
   // Export with transparent background
   await page.screenshot({
-    path: path.join(__dirname, 'banner.png'),
+    path: path.join(__dirname, '..', 'assets', 'miccy-dev-banner.png'),
     omitBackground: true,
   })
 
-  console.log('✅ Exported: banner.png (1280x640, transparent)')
+  console.log('✅ Exported: assets/miccy-dev-banner.png')
 
   // Also export with dark background for preview
   await page.evaluate(() => {

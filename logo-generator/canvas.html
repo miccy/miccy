@@ -156,16 +156,49 @@
         id="banner"
         viewBox="0 0 1280 640"
         xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
         aria-label="miccy.dev neon"
       >
-        <!-- Pozn.: nic tu NENÍ jako pozadí => transparent -->
+        <!-- Radial fade mask -->
+        <defs>
+          <radialGradient id="fadeGrad" cx="640" cy="320" r="640" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="white" stop-opacity="0.15"/>
+            <stop offset="30%" stop-color="white" stop-opacity="0.35"/>
+            <stop offset="60%" stop-color="white" stop-opacity="0.55"/>
+            <stop offset="100%" stop-color="white" stop-opacity="0"/>
+          </radialGradient>
+          <linearGradient id="topFade" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="black"/>
+            <stop offset="15%" stop-color="white"/>
+            <stop offset="85%" stop-color="white"/>
+            <stop offset="100%" stop-color="black"/>
+          </linearGradient>
+          <mask id="fadeMask">
+            <rect x="0" y="0" width="1280" height="640" fill="url(#fadeGrad)"/>
+          </mask>
+          <mask id="combinedMask">
+            <rect x="0" y="0" width="1280" height="640" fill="url(#topFade)" mask="url(#fadeMask)"/>
+          </mask>
+        </defs>
+
+        <!-- Background image with fade -->
+        <image
+          id="bgImage"
+          href="bg.png"
+          x="0"
+          y="0"
+          width="1280"
+          height="640"
+          preserveAspectRatio="xMidYMid slice"
+          mask="url(#combinedMask)"
+        />
 
         <g id="logo" transform="translate(0 0)">
           <text
             id="tLeft"
             class="txt neon silver"
             x="0"
-            y="340"
+            y="510"
             font-size="150"
             dominant-baseline="middle"
           >
@@ -175,7 +208,7 @@
             id="tM"
             class="txt neon blue"
             x="0"
-            y="340"
+            y="510"
             font-size="150"
             font-weight="800"
             dominant-baseline="middle"
@@ -186,7 +219,7 @@
             id="tI"
             class="txt neon blue"
             x="0"
-            y="340"
+            y="510"
             font-size="150"
             font-weight="800"
             dominant-baseline="middle"
@@ -197,19 +230,19 @@
             id="tCcy"
             class="txt neon blue"
             x="0"
-            y="340"
+            y="510"
             font-size="150"
             font-weight="800"
             dominant-baseline="middle"
           >
             ccy
           </text>
-          <circle id="tDot" class="dot" cx="0" cy="375" r="14"/>
+          <circle id="tDot" class="dot" cx="0" cy="545" r="14"/>
           <text
             id="tDev"
             class="txt neon orange"
             x="0"
-            y="340"
+            y="510"
             font-size="150"
             dominant-baseline="middle"
           >
@@ -219,7 +252,7 @@
             id="tSlash"
             class="txt neon silver"
             x="0"
-            y="340"
+            y="510"
             font-size="150"
             dominant-baseline="middle"
           >
@@ -229,7 +262,7 @@
             id="tClose"
             class="txt neon silver"
             x="0"
-            y="340"
+            y="510"
             font-size="150"
             dominant-baseline="middle"
           >
