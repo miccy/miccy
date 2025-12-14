@@ -2,35 +2,40 @@
 <div align="center">
   <img src="assets/miccy-dev-banner.png" alt="miccy.dev banner" width="800" />
 </div>
-<div align="center">
-  
+<!-- Snake Evolution -->
+<div align="center">  
+  <a href="https://github.com/miccy/snake-evolution">
+    <img width="100%" src="assets/miccy-snake-cypherpunk.svg" alt="Snake Evolution"/>
+  </a>
+</div>
+<div align="center" style="margin-top: 20px;">  
   <a href="mailto:collab@miccy.dev">
-    <img src="https://img.shields.io/badge/Email-collab@miccy.dev-1d68dc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-collab@miccy.dev-ff2ceb?style=plastic&logo=gmail&logoColor=000&labelColor=386df5" height="24" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/miccy">
-    <img src="https://img.shields.io/badge/LinkedIn-miccy-1d68dc?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=555" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-miccy-ff2ceb?style=plastic&logo=linkedin&logoColor=000&labelColor=386df5" height="24" alt="LinkedIn"/>
   </a>
   <a href="./cv/cv-en.pdf">
-    <img src="https://img.shields.io/badge/🇬🇧_CV-EN-1d68dc?style=for-the-badge&labelColor=555" alt="English CV" />
+    <img src="https://img.shields.io/badge/🇬🇧_CV-EN-ff2cea?style=plastic&labelColor=386df5" height="24" alt="English CV" />
   </a>
   <a href="./cv/cv-cs.pdf">
-    <img src="https://img.shields.io/badge/🇨🇿_CV-CS-1d68dc?style=for-the-badge&labelColor=555" alt="Czech CV" />
+    <img src="https://img.shields.io/badge/🇨🇿_CV-CS-ff2cea?style=plastic&labelColor=386df5" height="24" alt="Czech CV" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=miccy&color=1d68dc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=miccy&color=ff2cea&style=plastic&label=VIEWS&labelColor=386df5" height="24" alt="Profile Views" />
   <a href="https://github.com/miccy?tab=followers">
-    <img src="https://img.shields.io/github/followers/miccy?style=for-the-badge&logo=github&logoColor=white&color=1d68dc&labelColor=555" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="24" alt="GitHub followers" />
   </a>
   <a href="https://github.com/miccy?tab=repositories">
-    <img src="https://img.shields.io/github/stars/miccy?style=for-the-badge&logo=github&logoColor=white&color=FFB11B&labelColor=555" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="24" alt="GitHub stars" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="120"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="150" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="150" alt="Top Languages"/>
 </div>
 <details>
   <summary><b>📊 More Github stats...</b></summary>  

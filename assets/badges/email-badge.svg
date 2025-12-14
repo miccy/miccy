@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="32" viewBox="0 0 280 32">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#386df5"/>
+      <stop offset="35%" stop-color="#386df5"/>
+      <stop offset="35%" stop-color="#ff2cea"/>
+      <stop offset="100%" stop-color="#ff2cea"/>
+    </linearGradient>
+  </defs>
+  <rect width="280" height="32" rx="10" fill="url(#bg)"/>
+  <rect width="70" height="32" rx="10" fill="#386df5"/>
+  <text x="40" y="21" font-family="Verdana, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">EMAIL</text>
+  <text x="175" y="21" font-family="Verdana, sans-serif" font-size="12" font-weight="bold" fill="black" text-anchor="middle">collab@miccy.dev</text>
+</svg>
