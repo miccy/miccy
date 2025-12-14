@@ -39,9 +39,9 @@
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="170" alt="Top Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=appwrite,astro,bash,bun,crystal,cypress,css,deno,electron,elysia,figma,firebase,git&perline=13" height="40" alt="Skill icons"/>
-  <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust&perline=13" height="40" alt="Skill icons"/>
-  <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass&perline=13" height="40" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=appwrite,astro,bash,bun,crystal,cypress,css,deno,electron,elysia,figma,firebase,git&perline=13" height="35" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust&perline=13" height="35" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass&perline=13" height="35" alt="Skill icons"/>
 </div>
 <br/>
 <details>
