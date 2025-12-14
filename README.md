@@ -2,36 +2,35 @@
 <div align="center">
   <img src="assets/miccy-dev-banner.png" alt="miccy.dev banner" width="800" />
 </div>
-
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=miccy&color=1d68dc&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/miccy?style=for-the-badge&logo=github&color=1d68dc)](https://github.com/miccy?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/miccy?style=for-the-badge&logo=github&color=FFB11B)](https://github.com/miccy?tab=repositories)
-  
+  <a href="mailto:collab@miccy.dev">
+    <img src="https://img.shields.io/badge/Email-collab@miccy.dev-1d68dc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miccy">
+    <img src="https://img.shields.io/badge/LinkedIn-miccy-1d68dc?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=555" alt="LinkedIn"/>
+  </a>
+  <a href="./cv/cv-en.pdf">
+    <img src="https://img.shields.io/badge/🇬🇧_CV-EN-1d68dc?style=for-the-badge&labelColor=555" alt="English CV" />
+  </a>
+  <a href="./cv/cv-cs.pdf">
+    <img src="https://img.shields.io/badge/🇨🇿_CV-CS-1d68dc?style=for-the-badge&labelColor=555" alt="Czech CV" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=miccy&color=1d68dc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/miccy?tab=followers">
+    <img src="https://img.shields.io/github/followers/miccy?style=for-the-badge&logo=github&logoColor=white&color=1d68dc&labelColor=555" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/miccy?tab=repositories">
+    <img src="https://img.shields.io/github/stars/miccy?style=for-the-badge&logo=github&logoColor=white&color=FFB11B&labelColor=555" alt="GitHub stars" />
+  </a>
 </div>
-
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=1000&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3Cmiccy.dev%3E" alt="Typing SVG" />
-  <div style="margin-left: 50px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1500&pause=1000&color=FFB11B&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+15%2B+years+of+experience;%F0%9F%93%B1+React+Native+%7C+Expo+%7C+30%2B+apps+built;%F0%9F%9B%A1%EF%B8%8F+Local-First+%7C+Self-Hosting+%7C+Privacy;%F0%9F%A7%A0+AI%2FML+%7C+LLMs+%7C+MCP+%7C+RAG;%F0%9F%9F%A0+Bitcoin+Maxi+%7C+Orange+Pilled+%7C+SAT+Stacker" alt="Typing SVG" />
-  </div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=100&repeat=false&color=1d68dc&vCenter=true&width=600&height=28&lines=%3C%2Fmiccy.dev%3E" alt="Typing SVG" />
-</div>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miccy/miccy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miccy/miccy/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/miccy/miccy/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 ---
-    
+
 <div width="100%" valign="center" halign="center" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
 </div>
-<details> 
+<details>
   <summary><b>📊 More Github stats...</b></summary>  
   <div width="100%" valign="top" halign="center" align="center">
      <a href="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true"><img alt="Miccy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" height="200px"/></a>
@@ -49,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust" height="40" alt="Skill icon" />
   <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass" height="40" alt="Skill icon" />
 </p>
-<details> 
+<details>
   <summary><b>📦 Full Tech Stack - Categorized...</b></summary>
 <br>
 <div align="center">
@@ -162,7 +161,7 @@
 
 ## 👨‍🎓 Education
 
-<details> 
+<details>
   <summary>
     <b>🎓 2010 - 2014: Technical University of Liberec</b>
   </summary>
@@ -170,24 +169,27 @@
 - Faculty of Electrical Engineering and Computer Science
 - Field of Information Technology
 - Incomplete
+
 </details>
 
-<details> 
+<details>
   <summary>
     <b>🎓 2008 - 2010: Czech Technical University in Prague</b>
   </summary>
   
 - Faculty of Electrical Engineering
 - Transferred to TUL
+
 </details>
 
-<details> 
+<details>
   <summary>
     <b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b>
   </summary>
   
 - Field of Electrical Engineering
 - Communication Technology
+
 </details>
 
 ## 📚 Work Experience and Projects
@@ -566,23 +568,6 @@
   </table>
   </div>
 </details>
-
-## 💼 Let's Connect!
-
-<div align="center" style="margin-top: 30px; margin-bottom: 0px;">
-  <a href="mailto:collab@miccy.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/miccy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="./cv/cv-en.pdf">
-    <img src="https://img.shields.io/badge/⬇️_CV-🇬🇧-cccccc?style=for-the-badge&labelColor=cccccc&color=1d68dc" alt="English CV" />
-  </a>
-  <a href="./cv/cv-cs.pdf">
-    <img src="https://img.shields.io/badge/⬇️_CV-🇨🇿-cccccc?style=for-the-badge&labelColor=cccccc&color=1d68dc" alt="Czech CV" />
-  </a>
-</div>
 
 ---
 
