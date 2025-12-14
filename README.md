@@ -17,7 +17,7 @@
   <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="24" alt="GitHub stars"/></a>
 </div>
 
----
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="150" alt="GitHub Stats"/>
@@ -28,18 +28,6 @@
   <div width="100%" align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15&hide_title=true&height=200" width="100%" alt="Activity Graph"/>
   </div>
-
-<!-- Alternative: Profile Summary Cards (includes org contributions) -->
-<details>
-  <summary><b>📈 Profile Summary Cards (with org contributions)...</b></summary>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miccy&theme=transparent" alt="Profile Details" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miccy&theme=transparent" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miccy&theme=transparent" alt="Most Commit Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miccy&theme=transparent" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miccy&theme=transparent&utcOffset=1" alt="Productive Time" />
-  </div>
-</details>
 
 ## 🛠️ Tech Stack
 
