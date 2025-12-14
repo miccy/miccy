@@ -27,17 +27,34 @@
 
 ---
 
-<div width="100%" valign="center" halign="center" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=github-dark-blue" alt="GitHub Streak Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="120"/>
 </div>
 <details>
   <summary><b>📊 More Github stats...</b></summary>  
-  <div width="100%" valign="top" halign="center" align="center">
-     <a href="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true"><img alt="Miccy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" height="200px"/></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=3"><img alt="Miccy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&theme=github_dark&hide_border=true&langs_count=3" height="200px"/></a>
-  </div>
   <div width="100%" valign="center" halign="center" align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15" alt="Activity Graph" />
+  </div>
+</details>
+
+<details>
+  <summary><b>⏱️ WakaTime stats...</b></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miccy&layout=compact&hide_border=true&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" alt="WakaTime Stats" />
+  </div>
+</details>
+
+<!-- Alternative: Profile Summary Cards (includes org contributions) -->
+<details>
+  <summary><b>📈 Profile Summary Cards (with org contributions)...</b></summary>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miccy&theme=transparent" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miccy&theme=transparent" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miccy&theme=transparent" alt="Most Commit Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miccy&theme=transparent" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miccy&theme=transparent&utcOffset=1" alt="Productive Time" />
   </div>
 </details>
 
