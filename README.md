@@ -8,26 +8,13 @@
     <img width="100%" src="assets/miccy-snake-cypherpunk.svg" alt="Snake Evolution"/>
   </a>
 </div>
-<div align="center" style="margin-top: 20px;">  
-  <a href="mailto:collab@miccy.dev">
-    <img src="https://img.shields.io/badge/Email-collab@miccy.dev-ff2ceb?style=plastic&logo=gmail&logoColor=000&labelColor=386df5" height="24" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/miccy">
-    <img src="https://img.shields.io/badge/LinkedIn-miccy-ff2ceb?style=plastic&logo=linkedin&logoColor=000&labelColor=386df5" height="24" alt="LinkedIn"/>
-  </a>
-  <a href="./cv/cv-en.pdf">
-    <img src="https://img.shields.io/badge/🇬🇧_CV-EN-ff2cea?style=plastic&labelColor=386df5" height="24" alt="English CV" />
-  </a>
-  <a href="./cv/cv-cs.pdf">
-    <img src="https://img.shields.io/badge/🇨🇿_CV-CS-ff2cea?style=plastic&labelColor=386df5" height="24" alt="Czech CV" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=miccy&color=ff2cea&style=plastic&label=VIEWS&labelColor=386df5" height="24" alt="Profile Views" />
-  <a href="https://github.com/miccy?tab=followers">
-    <img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="24" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/miccy?tab=repositories">
-    <img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="24" alt="GitHub stars" />
-  </a>
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="mailto:collab@miccy.dev"><img src="https://img.shields.io/badge/Email-collab@miccy.dev-ff2ceb?style=plastic&logo=gmail&logoColor=000&labelColor=386df5" height="24" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/miccy"><img src="https://img.shields.io/badge/LinkedIn-miccy-ff2ceb?style=plastic&logo=linkedin&logoColor=000&labelColor=386df5" height="24" alt="LinkedIn"/></a>
+  <a href="./cv/cv-en.pdf"><img src="https://img.shields.io/badge/🇬🇧_CV-EN-ff2cea?style=plastic&labelColor=386df5" height="24" alt="English CV"/></a>
+  <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/🇨🇿_CV-CS-ff2cea?style=plastic&labelColor=386df5" height="24" alt="Czech CV"/></a>
+  <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="24" alt="GitHub followers"/></a>
+  <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="24" alt="GitHub stars"/></a>
 </div>
 
 ---
@@ -37,19 +24,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="150" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="150" alt="Top Languages"/>
 </div>
-<details>
-  <summary><b>📊 More Github stats...</b></summary>  
-  <div width="100%" valign="center" halign="center" align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15" alt="Activity Graph" />
-  </div>
-</details>
 
-<details>
-  <summary><b>⏱️ WakaTime stats...</b></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miccy&layout=compact&hide_border=true&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" alt="WakaTime Stats" />
+  <div width="100%" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15&hide_title=true&height=200" width="100%" alt="Activity Graph"/>
   </div>
-</details>
 
 <!-- Alternative: Profile Summary Cards (includes org contributions) -->
 <details>
