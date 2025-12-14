@@ -21,10 +21,10 @@
 ## 📊 GitHub Stats
 
 <div width="100%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="150" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="150" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15&hide_title=true&height=200" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="140" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="140" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15&hide_title=true&height=300" width="100%" alt="Activity Graph"/>
 </div>
 
 ## 🛠️ Tech Stack
