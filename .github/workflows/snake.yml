@@ -20,14 +20,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: miccy/snake-evolution@main
+        uses: miccy/snake-evolution@v1
         with:
           github_user_name: miccy
           theme: github-dark
           outputs: dist/snake.svg
 
       - name: Generate Snake (light theme)
-        uses: miccy/snake-evolution@main
+        uses: miccy/snake-evolution@v1
         with:
           github_user_name: miccy
           theme: github-light
