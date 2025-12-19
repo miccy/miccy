@@ -2,13 +2,6 @@
 <div align="center">
   <img src="assets/miccy-dev-banner.png" alt="miccy.dev banner" />
 </div>
-<!-- Snake Evolution -->
-<div align="center">
-  <a href="https://github.com/miccy/snake-evolution">
-    <img src="assets/miccy-snake-cypherpunk.svg" alt="Snake Evolution"/>
-  </a>
-</div>
-<br>
 
 <div align="center">
   <a href="mailto:collab@miccy.dev"><img src="https://img.shields.io/badge/Email-collab@miccy.dev-ff2ceb?style=plastic&logo=gmail&logoColor=000&labelColor=386df5" height="40"  alt="Email"/></a>
@@ -18,34 +11,41 @@
   <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="40"  alt="GitHub followers"/></a>
   <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="40"  alt="GitHub stars"/></a>
 </div>
+<br>
 
-## 📊 GitHub Stats
+<!-- Snake Evolution -->
+<div align="center">
+  <a href="https://github.com/miccy/snake-evolution">
+    <img src="assets/miccy-snake-cypherpunk.svg" alt="Snake Evolution"/>
+  </a>
+</div>
+<br>
+
+<!-- Stack badges -->
+<div align="center">
+  <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="160" alt="Top Languages"/>
+  <br/> -->
+    <img src="https://skillicons.dev/icons?i=appwrite,astro,bash,bun,crystal,cypress,css,deno,electron,elysia,figma,firebase,git&perline=13" height="40" alt="Skill icons"/>
+    <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust&perline=13" height="40" alt="Skill icons"/>
+    <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass&perline=13" height="40" alt="Skill icons" />
+</div>
+
+<details>
+  <summary><b>Show more...</b></summary>
+<br>
+<div>
+  
+ ## 📊 GitHub Stats
 
 <div width="100%" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="170" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="170" alt="GitHub Streak Stats"/>
-</div>
-
-<details>
-  <summary><b>show more...</b></summary>
-<br>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15&hide_title=true&height=300" width="100%" alt="Activity Graph"/>
 </div>
-</details>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="160" alt="Top Languages"/>
-  <br/> -->
-    <img src="https://skillicons.dev/icons?i=appwrite,astro,bash,bun,crystal,cypress,css,deno,electron,elysia,figma,firebase,git&perline=13" height="30" alt="Skill icons"/>
-    <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust&perline=13" height="30" alt="Skill icons"/>
-    <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass&perline=13" height="30" alt="Skill icons" />
-</div>
-<details>
-  <summary><b>show more...</b></summary>
-<br>
+
 <div align="center">
 <table style="width: auto; margin: 0 auto; border-collapse: collapse;">
   <tr>
@@ -152,46 +152,29 @@
   </tr>
 </table>
 </div>
-</details>
 
 ## 👨‍🎓 Education
 
-<details>
-  <summary>
-    <b>🎓 2010 - 2014: Technical University of Liberec</b>
-  </summary>
+### 🎓 2010 - 2014: Technical University of Liberec
 
 - Faculty of Electrical Engineering and Computer Science
 - Field of Information Technology
 - Incomplete
 
-</details>
-
-<details>
-  <summary>
-    <b>🎓 2008 - 2010: Czech Technical University in Prague</b>
-  </summary>
+### 🎓 2008 - 2010: Czech Technical University in Prague
   
 - Faculty of Electrical Engineering
 - Transferred to TUL
 
-</details>
-
-<details>
-  <summary>
-    <b>🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora</b>
-  </summary>
+### 🎓 2004 - 2008: VOŠ and SPŠ Masarykova in Kutná Hora
   
 - Field of Electrical Engineering
 - Communication Technology
 
-</details>
-
 ## 📚 Work Experience and Projects
 
-<details>
-  <summary><b>💼 Freelancer (2019 - Present)</b></summary>
-  <br />
+### 💼 Freelancer (2019 - Present)
+
 <div align="center">
   <table style="width:100%; border-collapse:collapse;">
     <colgroup>
@@ -331,11 +314,9 @@
     </tbody>
   </table>
   </div>
-</details>
 
-<details>
-  <summary><b>💼 As4u.cz (2014 - 2018)</b></summary>
-  <br />
+### 💼 As4u.cz (2014 - 2018)
+
   <div align="center">
   <table style="width:100%; border-collapse:collapse;">
     <colgroup>
@@ -562,6 +543,8 @@
     </tbody>
   </table>
   </div>
+</div>
+
 </details>
 
 ---
