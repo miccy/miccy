@@ -21,7 +21,6 @@
   </a>
 </div>
 <br>
-
 <details>
 <summary style="list-style:none" align="right"><kbd>▼ Show more... ▼</kbd></summary>
 <div>
@@ -44,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust&perline=13" height="40" alt="Skill icons"/>
     <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass&perline=13" height="40" alt="Skill icons" />
 </div>
-
+<br/>
 <div align="center">
 <table style="width: auto; margin: 0 auto; border-collapse: collapse;">
   <tr>
@@ -543,11 +542,10 @@
   </table>
   </div>
 </div>
-
+<br>
 <div align="right">
   <a href="#top"><img src="https://img.shields.io/badge/%E2%96%B2_Scroll-Top_%E2%96%B2-white?style=plastic&labelColor=black&color=white" height="30" alt="Scroll Top"/></a>
 </div>
-
 </details>
 
 ---
