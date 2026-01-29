@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <a href="mailto:collab@miccy.dev"><img src="https://img.shields.io/badge/Email-collab@miccy.dev-d60093?style=plastic&logo=gmail&logoColor=000&labelColor=0033ff" height="40"  alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/miccy"><img src="https://img.shields.io/badge/LinkedIn-miccy-d60093?style=plastic&logo=linkedin&logoColor=000&labelColor=0033ff" height="40"  alt="LinkedIn"/></a>
-  <a href="./cv/cv-en.pdf"><img src="https://img.shields.io/badge/🇬🇧CV-EN-d60093?style=plastic&labelColor=0033ff" height="40"  alt="English CV"/></a>
-  <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/🇨🇿CV-CS-d60093?style=plastic&labelColor=0033ff" height="40"  alt="Czech CV"/></a>
-  <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=000&color=d60093&labelColor=0033ff" height="40"  alt="GitHub followers"/></a>
-  <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=000&color=d60093&labelColor=0033ff" height="40"  alt="GitHub stars"/></a>
+  <a href="mailto:collab@miccy.dev"><img src="https://img.shields.io/badge/Email-collab@miccy.dev-d60093.png?style=plastic&logo=gmail&logoColor=d60093&labelColor=0033ff" height="50" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/miccy"><img src="https://img.shields.io/badge/LinkedIn-miccy-d60093?style=plastic&logo=linkedin&logoColor=d60093&labelColor=0033ff" alt="LinkedIn"/></a>
+  <a href="./cv/cv-en.pdf"><img src="https://img.shields.io/badge/🇬🇧CV-EN-d60093?style=plastic&labelColor=0033ff" alt="English CV"/></a>
+  <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/🇨🇿CV-CS-d60093?style=plastic&labelColor=0033ff" alt="Czech CV"/></a>
+  <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub followers"/></a>
+  <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub stars"/></a>
 </div>
 <br>
 
@@ -544,13 +544,13 @@
 </div>
 <br>
 <div align="right">
-  <a href="#top"><img src="https://img.shields.io/badge/%E2%96%B2_Scroll-Top_%E2%96%B2-white?style=plastic&labelColor=black&color=white" height="30" alt="Scroll Top"/></a>
+  <a href="#top"><img src="https://img.shields.io/badge/%E2%96%B2_Scroll-Top_%E2%96%B2-white?style=plastic&labelColor=black&color=white" alt="Scroll Top"/></a>
 </div>
 </details>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/miccy"><img src="https://img.shields.io/badge/🩷%20Maintained%20by-%40miccy-d60093?style=plastic&labelColor=0033ff" height="40" alt="Maintained by @miccy"/></a>
-  <a href="https://github.com/enterprises/ownCTRL"><img src="https://img.shields.io/badge/©%202026-ownCTRL™-d60093?style=plastic&labelColor=0033ff" height="40" alt="© 2026 ownCTRL™"/></a>
+  <a href="https://github.com/miccy"><img src="https://img.shields.io/badge/🩷_Maintained%20by-%40miccy-d60093?style=plastic&labelColor=0033ff" alt="Maintained by @miccy"/></a>
+  <a href="https://github.com/enterprises/ownCTRL"><img src="https://img.shields.io/badge/©2026-ownCTRL™-d60093?style=plastic&labelColor=0033ff" alt="© 2026 ownCTRL™"/></a>
 </div>
