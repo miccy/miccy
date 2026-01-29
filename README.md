@@ -23,7 +23,7 @@
 <br>
 
 <details>
-<summary align="right"><b>▼ Show more... ▼</b></summary>
+<summary style="list-style:none" align="right"><kbd>▼ Show more... ▼</kbd></summary>
 <div>
   
  ## 📊 GitHub Stats
