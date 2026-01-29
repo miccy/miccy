@@ -7,8 +7,8 @@
 <div align="center">
   <a href="mailto:collab@miccy.dev"><img src="https://img.shields.io/badge/Email-collab@miccy.dev-d60093?style=plastic&logo=gmail&logoColor=d60093&labelColor=0033ff" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/miccy"><img src="https://img.shields.io/badge/LinkedIn-miccy-d60093?style=plastic&logo=linkedin&logoColor=white&labelColor=0033ff" alt="LinkedIn"/></a>
-  <a href="./cv/cv-en.pdf"><img src="https://img.shields.io/badge/CV-EN_%F0%9F%87%AC%F0%9F%87%A7-d60093?style=plastic&logo=adobeacrobat&logoColor=white&labelColor=0033ff" alt="English CV"/></a>
-  <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/CV-CS_%F0%9F%87%A8%F0%9F%87%BF-d60093?style=plastic&logo=adobeacrobat&logoColor=white&labelColor=0033ff" alt="Czech CV"/></a>
+  <a href="./cv/cv-en.pdf"><img src="https://img.shields.io/badge/CV-English-d60093?style=plastic&logo=adobe&logoColor=white&labelColor=0033ff" alt="English CV"/></a>
+  <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/CV-Czech-d60093?style=plastic&logo=adobe&logoColor=white&labelColor=0033ff" alt="Czech CV"/></a>
   <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub followers"/></a>
   <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub stars"/></a>
 </div>
