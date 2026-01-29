@@ -23,7 +23,7 @@
 <br>
 
 <details>
-  <summary style="list-style:none"><div align="right"><img src="https://img.shields.io/badge/%E2%96%BC_Show-more...%E2%96%BC-white?style=plastic&labelColor=black&color=white" height="30" alt="Show more..."/></div></summary>
+<summary align="right"><b>▼ Show more... ▼</b></summary>
 <div>
   
  ## 📊 GitHub Stats
