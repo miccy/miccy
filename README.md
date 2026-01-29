@@ -43,8 +43,9 @@
     <img src="https://skillicons.dev/icons?i=appwrite,astro,bash,bun,crystal,cypress,css,deno,electron,elysia,figma,firebase,git&perline=13" height="40" alt="Skill icons"/>
     <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust&perline=13" height="40" alt="Skill icons"/>
     <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass&perline=13" height="40" alt="Skill icons" />
-<br>
+</div>
 
+<div align="center">
 <table style="width: auto; margin: 0 auto; border-collapse: collapse;">
   <tr>
     <td width="110" align="left"><strong>Languages:</strong></td>
