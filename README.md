@@ -1,3 +1,4 @@
+<a name="top"></a>
 <!-- Header -->
 <div align="center">
   <img src="assets/miccy-dev-banner.png" alt="miccy.dev banner" />
@@ -6,8 +7,8 @@
 <div align="center">
   <a href="mailto:collab@miccy.dev"><img src="https://img.shields.io/badge/Email-collab@miccy.dev-ff2ceb?style=plastic&logo=gmail&logoColor=000&labelColor=386df5" height="40"  alt="Email"/></a>
   <a href="https://www.linkedin.com/in/miccy"><img src="https://img.shields.io/badge/LinkedIn-miccy-ff2ceb?style=plastic&logo=linkedin&logoColor=000&labelColor=386df5" height="40"  alt="LinkedIn"/></a>
-  <a href="./cv/cv-en.pdf"><img src="https://img.shields.io/badge/🇬🇧_CV-EN-ff2cea?style=plastic&labelColor=386df5" height="40"  alt="English CV"/></a>
-  <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/🇨🇿_CV-CS-ff2cea?style=plastic&labelColor=386df5" height="40"  alt="Czech CV"/></a>
+  <a href="./cv/cv-en.pdf"><img src="https://img.shields.io/badge/🇬🇧CV-EN-ff2cea?style=plastic&labelColor=386df5" height="40"  alt="English CV"/></a>
+  <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/🇨🇿CV-CS-ff2cea?style=plastic&labelColor=386df5" height="40"  alt="Czech CV"/></a>
   <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="40"  alt="GitHub followers"/></a>
   <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=000&color=ff2cea&labelColor=386df5" height="40"  alt="GitHub stars"/></a>
 </div>
@@ -21,6 +22,20 @@
 </div>
 <br>
 
+<details>
+  <summary style="list-style:none"><div align="right"><img src="https://img.shields.io/badge/%E2%96%BC_Show-more...%E2%96%BC-white?style=plastic&labelColor=black&color=white" height="30" alt="Show more..."/></div></summary>
+<div>
+  
+ ## 📊 GitHub Stats
+
+<div width="100%" align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="170" alt="GitHub Stats"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="170" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15&hide_title=true&height=300" width="100%" alt="Activity Graph"/>
+</div>
+
+## 🛠️ Tech Stack
+
 <!-- Stack badges -->
 <div align="center">
   <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccy&hide_border=true&langs_count=6&layout=compact&bg_color=00000000&title_color=386df5&text_color=ffffff&border_radius=15" height="160" alt="Top Languages"/>
@@ -28,25 +43,8 @@
     <img src="https://skillicons.dev/icons?i=appwrite,astro,bash,bun,crystal,cypress,css,deno,electron,elysia,figma,firebase,git&perline=13" height="40" alt="Skill icons"/>
     <img src="https://skillicons.dev/icons?i=grafana,graphql,java,js,lua,md,nginx,nodejs,npm,pnpm,react,redux,rust&perline=13" height="40" alt="Skill icons"/>
     <img src="https://skillicons.dev/icons?i=sqlite,solidity,tailwind,tauri,ts,vite,wasm,vercel,webflow,vue,yarn,go,sass&perline=13" height="40" alt="Skill icons" />
-</div>
-
-<details>
-  <summary><b>Show more...</b></summary>
 <br>
-<div>
-  
- ## 📊 GitHub Stats
 
-<div width="100%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=386df5&text_color=ffffff&icon_color=ff2cea&border_radius=15" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=386df5&fire=ff2cea&currStreakLabel=386df5&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="170" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=386df5&point=ff2cea&area_color=386df530&radius=15&hide_title=true&height=300" width="100%" alt="Activity Graph"/>
-</div>
-
-## 🛠️ Tech Stack
-
-
-<div align="center">
 <table style="width: auto; margin: 0 auto; border-collapse: collapse;">
   <tr>
     <td width="110" align="left"><strong>Languages:</strong></td>
@@ -545,11 +543,15 @@
   </div>
 </div>
 
+<div align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/%E2%96%B2_Scroll-Top_%E2%96%B2-white?style=plastic&labelColor=black&color=white" height="30" alt="Scroll Top"/></a>
+</div>
+
 </details>
 
 ---
 
 <div align="center">
-  <p>🛠 Maintained by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
-  <p>© 2025 <a href="https://github.com/enterprises/ownCTRL">ownCTRL™</a></p>
+  <a href="https://github.com/miccy"><img src="https://img.shields.io/badge/🩷%20Maintained%20by-%40miccy-d60093?style=plastic&labelColor=0033ff" height="40" alt="Maintained by @miccy"/></a>
+  <a href="https://github.com/enterprises/ownCTRL"><img src="https://img.shields.io/badge/©%202026-ownCTRL™-d60093?style=plastic&labelColor=0033ff" height="40" alt="© 2026 ownCTRL™"/></a>
 </div>
