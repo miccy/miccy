@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "yzhang.markdown-all-in-one",
-    "davidanson.vscode-markdownlint",
-    "github.vscode-pull-request-github",
-    "biomejs.biome",
-    "editorconfig.editorconfig"
-  ]
-}
