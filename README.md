@@ -11,7 +11,6 @@
   <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/CV-Czech-d60093?style=plastic&logo=adobe&logoColor=white&labelColor=0033ff" alt="Czech CV"/></a>
   <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub followers"/></a>
   <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub stars"/></a>
-  <a href="https://u8views.com/github/miccy"><img src="https://u8views.com/api/v1/github/profiles/9729864/views/day-week-month-total-count.svg"></a>
 </div>
 <br>
 
@@ -29,6 +28,8 @@
  ## 📊 GitHub Stats
 
 <div width="100%" align="center">
+  <div><a href="https://u8views.com/github/miccy"><img src="https://u8views.com/api/v1/github/profiles/9729864/views/day-week-month-total-count.svg"></a></div>
+  <br>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=0033ff&text_color=ffffff&icon_color=d60093&border_radius=15" height="170" alt="GitHub Stats"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=0033ff&fire=d60093&currStreakLabel=0033ff&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="170" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=0033ff&point=d60093&area_color=0033ff30&radius=15&hide_title=true&height=300" width="100%" alt="Activity Graph"/>
