@@ -11,6 +11,7 @@
   <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/CV-Czech-d60093?style=plastic&logo=adobe&logoColor=white&labelColor=0033ff" alt="Czech CV"/></a>
   <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub followers"/></a>
   <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub stars"/></a>
+  <a href="https://u8views.com/github/miccy"><img src="https://u8views.com/api/v1/github/profiles/9729864/views/day-week-month-total-count.svg"></a>
 </div>
 <br>
 
