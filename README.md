@@ -10,13 +10,13 @@
   <a href="./cv/cv-en.pdf"><img src="https://img.shields.io/badge/CV-English-d60093?style=plastic&logo=adobe&logoColor=white&labelColor=0033ff" alt="English CV"/></a>
   <a href="./cv/cv-cs.pdf"><img src="https://img.shields.io/badge/CV-Czech-d60093?style=plastic&logo=adobe&logoColor=white&labelColor=0033ff" alt="Czech CV"/></a>
   <a href="https://github.com/miccy?tab=followers"><img src="https://img.shields.io/github/followers/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub followers"/></a>
-  <a href="https://github.com/miccy?tab=repositories"><img src="https://img.shields.io/github/stars/miccy?style=plastic&logo=github&logoColor=d60093&color=d60093&labelColor=0033ff" alt="GitHub stars"/></a>
+  <a href="https://gitlab.com/miccy"><img src="https://img.shields.io/badge/GitLab-miccy-d60093?style=plastic&logo=gitlab&logoColor=d60093&labelColor=0033ff" alt="GitLab"/></a>
 </div>
 <br>
 
 <!-- Snake Evolution -->
 <div align="center">
-  <a href="https://github.com/miccy/snake-evolution">
+  <a href="https://gitlab.com/miccy-dev/projects/snake-evolution">
     <img src="assets/miccy-snake-cypherpunk.svg" alt="Snake Evolution"/>
   </a>
 </div>
@@ -32,7 +32,6 @@
   <br>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=miccy&show_icons=true&hide_border=true&hide_rank=true&rank_icon=percentile&count_private=true&include_all_commits=true&bg_color=00000000&title_color=0033ff&text_color=ffffff&icon_color=d60093&border_radius=15" height="170" alt="GitHub Stats"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miccy&hide_border=true&theme=transparent&ring=0033ff&fire=d60093&currStreakLabel=0033ff&sideLabels=7d777b&currStreakNum=ffffff&sideNums=ffffff&dates=7d777b&border_radius=15" height="170" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miccy&hide_border=true&area=true&bg_color=00000000&color=ffffff&line=0033ff&point=d60093&area_color=0033ff30&radius=15&hide_title=true&height=300" width="100%" alt="Activity Graph"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -553,6 +552,6 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/miccy"><img src="https://img.shields.io/badge/🩷_Maintained%20by-%40miccy-d60093?style=plastic&labelColor=0033ff" alt="Maintained by @miccy"/></a>
-  <a href="https://github.com/enterprises/ownCTRL"><img src="https://img.shields.io/badge/©2026-ownCTRL™-d60093?style=plastic&labelColor=0033ff" alt="© 2026 ownCTRL™"/></a>
+  <a href="https://gitlab.com/miccy"><img src="https://img.shields.io/badge/🩷_Maintained%20by-%40miccy-d60093?style=plastic&labelColor=0033ff" alt="Maintained by @miccy"/></a>
+  <a href="https://gitlab.com/ownctrl"><img src="https://img.shields.io/badge/©2026-ownCTRL™-d60093?style=plastic&labelColor=0033ff" alt="© 2026 ownCTRL™"/></a>
 </div>
