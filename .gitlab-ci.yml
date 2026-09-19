@@ -1,0 +1,21 @@
+# Generates snake SVG assets from GitHub contribution graph
+# and commits them back to the repository.
+# Runs every 12 hours, on push to main, or manually.
+
+generate-snake:
+  image: node:lts-alpine
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+    - if: $CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: $CI_PIPELINE_SOURCE == "web"
+  before_script:
+    - apk add --no-cache git
+    - git config user.name "gitlab-ci[bot]"
+    - git config user.email "gitlab-ci[bot]@users.noreply.gitlab.com"
+    - git remote set-url origin "https://oauth2:${GL_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
+  script:
+    - npx @snake-evolution/cli@latest generate -u miccy --theme cypherpunk --output assets/miccy-snake-cypherpunk.svg
+    - npx @snake-evolution/cli@latest generate -u miccy --theme github-dark --output assets/miccy-snake-dark.svg
+    - git add assets/miccy-snake-cypherpunk.svg assets/miccy-snake-dark.svg
+    - git diff --staged --quiet || git commit -m "Update snake"
+    - git diff --staged --quiet || git push origin HEAD:$CI_DEFAULT_BRANCH
